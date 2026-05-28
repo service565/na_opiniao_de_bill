@@ -35,6 +35,27 @@ main {
   margin: 0 auto;
 }
 
+/* Novos estilos da barra de busca */
+.search-container {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+#search-bar {
+  padding: 12px 20px;
+  width: 100%;
+  max-width: 500px;
+  border: 2px solid #ddd;
+  border-radius: 25px;
+  font-size: 16px;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+#search-bar:focus {
+  border-color: var(--primary-color);
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -129,4 +150,22 @@ hr {
   height: 1px;
   background: #ddd;
   margin: 30px 0;
+}
+
+/* Estilo do botão de leitura TTS */
+.listen-btn {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.listen-btn:hover {
+  background-color: #218838;
 }
