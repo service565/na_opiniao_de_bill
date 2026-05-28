@@ -1,0 +1,2351 @@
+const pagesData = {
+  "1": {
+    "title": "Mudança de personalidade",
+    "content": "\\\"Com freqüência se tem dito a respeito de A.A., que somente estamos interessados no alcoolismo. Isso não é verdade. Temos que vencer a bebida para 6 http://slidepdf.com/reader/full/na-opiniao-do-bill 6/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com continuarmos vivos. Mas quem quer que conheça a personalidade do alcoólico, através do contato mais direto, sabe que nenhum alcoólico verdadeiro pára completamente de beber sem sofrer uma profunda mudança de personalidade\\\". * * * Achávamos que as \\\"circunstâncias\\\" nos levaram a beber, e quando tentamos corrigir essas circunstâncias descobrimos que não poderíamos fazer isso, à nossa própria maneira; nosso beber se descontrolou e nos tornamos alcoólicos. Nunca nos ocorreu que precisávamos nos modificar para nos ajustar às circunstâncias, fossem elas quais fossem. 1 – Carta de 1940 2 – Os Doze Passos, págs. 37 e 38"
+  },
+  "2": {
+    "title": "Nas mãos de Deus",
+    "content": "Qquuaannddoo noolhsa menotsr epgaarma oo sp ansassa dmoã, ores cdoen hDeceeums ofos rqaume ams eclohiosraess q duoe nqouse cqhueaglaqruamer coisa que pudéssemos ter planejado. * * * Minha depressão aumentou de forma insuportável, até que finalmente me pareceu estar no fundo do poço, pois aquele momento o último vestígio de minha orgulhosa obstinação foi esmagado. Imediatamente me encontrei exclamando: \\\"Se existe um Deus, que Ele se manifeste! Estou pronto para fazer qualquer coisa, qualquer coisa!\\\" De repente, o quarto se encheu de uma forte luz. Pareceu-me com os olhos de minha mente, que eu estava numa montanha e que soprava um vento, não de ar, mas de espírito. E então tive a sensação de que era um homem livre. Lentamente o êxtase passou. Eu estava deitado na cama, mas agora por instantes me encontrava em outro mundo, um mundo novo de conscientização. Ao meu redor e dentro de mim, havia uma maravilhosa sensação de presença e pensei comigo mesmo: \\\"Então, esse é o Deus dos pregadores!\\\" 1 – Alcoólicos Anônimos, pág. 108 2 – A.A. Atinge a Maioridade, págs. 57 e 58"
+  },
+  "3": {
+    "title": "Dor e progresso",
+    "content": "\\\"Alguns anos atrás eu costumava ter pena de todas as pessoas que sofriam. Agora somente tenho pena daquelas que sofrem por ignorância, que não entendem o propósito e a utilidade definitiva da dor\\\". * * * Certa vez alguém disse que a dor é a pedra de toque do progresso espiritual. Nós, AAs, podemos concordar com isso, pois sabemos que as dores decorrentes do alcoolismo tiveram que vir antes da sobriedade, assim como o desequilíbrio emocional vem antes da serenidade. * * * 7 http://slidepdf.com/reader/full/na-opiniao-do-bill 7/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Acredite mais profundamente: Levante a cabeça para a Luz, ainda que no momento você não possa ver\\\". 1 – Carta de 1950 2 – Os Doze Passos e as Doze Tradições, pág. 84 3 – Carta de 1950"
+  },
+  "4": {
+    "title": "Podemos escolher?",
+    "content": "Não devemos nunca nos deixar cegar pela filosofia fútil de que somos vítimas de nossa hereditariedade, de nossa experiência de vida e de nosso meio ambiente – de que essas são as únicas forças que tomam as decisões por nós. Esse não é o caminho para a liberdade. Temos que acreditar que podemos realmente escolher. * * * \\\"Como alcoólicos ativos, perdemos a capacidade de escolher se beberíamos ou pnrãoos. sÉegraumiro esm v íntoimssaas pdreó purmiaa d ceosmtrupiuçlãsoã\\\"o. que parecia determinar que deveríamos \\\"No entanto, finalmente, fizemos escolhas que nos levaram à recuperação. Viemos a acreditar que sozinhos éramos impotentes perante o álcool. Isso foi certamente uma escolha, aliás, muito difícil. Viemos a acreditar que um Poder Superior poderia nos devolver a sanidade, quando nos dispusemos a praticar os Doze Passos de A.A.\\\". \\\"Em resumo, preferimos 'estar dispostos', e essa foi a melhor escolha que poderíamos ter feito\\\". 1 – Grapevine de novembro de 1960 2 – Carta de 1966"
+  },
+  "5": {
+    "title": "A manutenção e o crescimento",
+    "content": "É evidente que uma vida onde se inclui profundos ressentimentos só leva à futilidade e infelicidade. Enquanto permitirmos esses ressentimentos, estamos perdendo horas que por outro lado poderiam ser úteis. Mas com o alcoólico, cuja esperança é a manutenção e o crescimento de uma experiência espiritual, esse negócio de guardar ressentimento é grave mesmo, pois daí nos afastamos da luz do Espírito. A loucura do álcool volta, e bebemos novamente. E conosco, beber é morrer. Se quiséssemos viver, seria preciso nos livrar da raiva. O mau humor e a fúria repentina não eram para nós. A raiva é o luxo incerto dos homens normais, mas para nós, alcoólicos, ela é veneno. Alcoólicos Anônimos, pág. 80"
+  },
+  "6": {
+    "title": "Tudo ou nada?",
+    "content": "A aceitação e a fé são capazes de produzir cem por cento de sobriedade. De fato, elas geralmente conseguem; e assim deve ser, caso contrário, não poderíamos viver. Mas a partir do momento em que transferimos essas atitudes para nossos problemas emocionais, descobrimos que só é possível obter resultados relativos. 8 http://slidepdf.com/reader/full/na-opiniao-do-bill 8/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Ninguém pode por exemplo, se livrar completamente do medo, da raiva e do orgulho. Conseqüentemente, nesta vida não atingiremos uma total humildade nem amor. Assim, vamos ter que nos conformar, com referência à maioria de nossos problemas, pois um progresso muito gradual, às vezes é interrompido por grandes retrocessos. Nossa antiga atitude de \\\"tudo ou nada\\\" terá que ser abandonada. Grapevine de março de 1962"
+  },
+  "7": {
+    "title": "O reino do espírito",
+    "content": "Antigamente, o progresso material marchava a passos lentos. O espírito da moderna investigação científica, a pesquisa e a invenção eram praticamente desconhecidos. tNraod riçeãinoo em aptoerr iatlo,d aoss m oesn tteisp odso sd heo mideéniass e sftiaxvaasm. Aoblgsutrnusí dcaos npteelma psourpâenresotisç ãdoe, Colombo acreditavam no absurdo de uma Terra redonda. Outros quase mataram Galileu por suas heresias astronômicas. Não é certo que alguns de nós são tão obstinados no que se refere ao reino espiritual, como eram os antigos a respeito do reino material? <br><br> Descobrimos que Deus não impõe condições árduas aos que O buscam. Para nós, o Reino do Espírito é amplo e espaçoso; não é privativo nem vedado aos que o busquem sinceramente. Acreditamos que ele esteja aberto a todos. Alcoólicos Anônimos 1 – pág. 67 2 – pág. 63"
+  },
+  "8": {
+    "title": "Uma nova vida",
+    "content": "A sobriedade é tudo o que devemos esperar de um despertar espiritual? Não, a sobriedade é apenas o começo; é somente a primeira dádiva do primeiro despertar. Se temos que receber outras dádivas, nosso despertar tem que continuar. E com o tempo, descobrimos que pouco a pouco vamos nos despojando da vida velha – a vida que não funcionou – por uma nova vida que pode e funciona sob quaisquer condições. Não obstante o êxito ou o fracasso do mundo, não obstante a dor ou alegria, não obstante a doença ou a saúde ou ainda a morte, uma nova vida de possibilidades intermináveis pode ser vivida se estamos dispostos a continuar nosso despertar, através da prática dos Doze Passos de A.A. Grapevine de dezembro de 1957"
+  },
+  "9": {
+    "title": "9",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 9/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com O grupo e a ampla comunidade mundial No momento em que o trabalho do Décimo Segundo Passo forma um grupo, uma descoberta é feita – que a maioria dos indivíduos não consegue se recuperar, se não houver um grupo. Surge a compreensão de que cada membro é apenas uma pequena parte de um grande todo; de que nenhum sacrifício pessoal é grande demais para a preservação da Irmandade. Ele aprende que o clamor dos desejos e ambições interiores deve ser silenciado, sempre que possa prejudicar o grupo. Torna-se claro que o grupo precisa sobreviver para que o indivíduo não pereça. * * * \\\"O membro sozinho no mar, o A.A. em guerra numa terra distante – todos esses membros sabem que pertencem à Comunidade Mundial de A.A., que sua separação é apenas física, que seus companheiros podem estar tão perto como está o próximo porto. E a mais importante, que eles estão certos de que a graça deset áD ceoums e asqtáu ereleasl mqueen tees ctãoom e mele ssu, ae mpr óapltroi am tearrr oau\\\". na solitária terra distante, como 1 – As Doze Tradições, pág. 14 2 – Carta de 1966"
+  },
+  "10": {
+    "title": "Livre da escuridão",
+    "content": "A auto-análise é o meio pelo qual trazemos uma nova visão, ação e graça para influir no lado escuro e negativo de nosso ser. Com ela vem o desenvolvimento daquele tipo de humildade, que nos permite receber a ajuda de Deus. No entanto, ela é apenas um passo. Vamos querer ir mais longe. Vamos querer que o bem que está dentro de todos nós, mesmo dentro dos piores, cresça e floresça. Mas, antes de mais nada, vamos querer a luz do sol; pouco se pode crescer na escuridão. A meditação é nosso passo em direção ao sol. * * * \\\"Uma luz clara parece descer sobre nós – quando abrimos os olhos. Uma vez que nossa cegueira é causada por nossos próprios defeitos, precisamos primeiro conhecê-los a fundo. A meditação construtiva é o primeiro requisito para cada novo passo em nosso crescimento espiritual\\\". 1 – Os Doze Passos, pág. 89 2 – Carta de 1946"
+  },
+  "11": {
+    "title": "Quantidade ou qualidade",
+    "content": "\\\"Com respeito ao assunto das recaídas, eu não me sentiria muito desencorajado. Acho que você está sofrendo muito por causa de um sentimento de culpa desnecessário. Por qualquer razão, o Senhor traçou caminhos mais difíceis para alguns de nós, e suponho que você está palmilhando um deles. Deus não está nos pedindo que tenhamos êxito; Ele está pedindo apenas que tentemos. Isso você está certamente fazendo. Por isso, eu não me afastaria de A.A. por nenhum sentimento de desencorajamento ou vergonha. Esse é justamente o lugar onde 10 http://slidepdf.com/reader/full/na-opiniao-do-bill 10/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com você deveria estar. Por que você não tenta apenas como membro? Você sabe que não tem que carregar todo o A.A. nas costas! \\\"Não é sempre a quantidade de coisas boas que você faz, é também a qualidade que conta. \\\"Acima de tudo, faça – o um dia de cada vez\\\". Carta de 1958"
+  },
+  "12": {
+    "title": "Buscando o ouro do insensato",
+    "content": "O orgulho é o grande causador da maioria das dificuldades humanas, o principal obstáculo ao verdadeiro progresso. O orgulho nos induz a exigir de nós e dos outros; e as exigências não podem ser cumpridas sem perverter ou fazer mau uso dos instintos que Deus nos deu. Quando a satisfação de nossos instintos em relação ao sexo, segurança e posição social se torna o único objetivo de nossa vida, então o orgulho entra em cena pa*r a* j*ustificar nossos excessos. Posso alcançar a \\\"humildade por hoje\\\" apenas na medida em que sou capaz de evitar, por um lado, o lamaçal de sentimento de culpa e revolta, e por outro, essa bela mas enganadora terra semeada de moedas de ouro do orgulho do insensato. É assim que posso encontrar e permanecer no verdadeiro caminho da humildade, que está situado entre esses dois extremos. Logo, é necessário um inventário constante que possa mostrar quando me afasto do caminho. 1 – Os Doze Passos, pág. 39 2 – Grapevine de junho de 1961"
+  },
+  "13": {
+    "title": "Dádiva compartilhada",
+    "content": "A.A. é mais do que um conjunto de princípios; é uma sociedade de alcoólicos em ação. Precisamos levar a mensagem, caso contrário, nós mesmos poderemos recair e aqueles, a quem não foi dada a verdade, podem perecer. * * * A fé é mais do que nossa maior dádiva; seu compartilhar com os outros é nossa maior responsabilidade. Que nós de A.A. possamos buscar continuamente a sabedoria e a boa vontade pelas quais possamos desempenhar bem a grande tarefa que o Doador de todas as dádivas perfeitas colocou em nossas mãos. 1 – O Manual de Serviços de A.A., pág 5 (E.U.A) 2 – Grapevine de abril de 1961"
+  },
+  "14": {
+    "title": "Problemas dos recém-chegados",
+    "content": "A tentação é a de nos tornarmos \\\"donos\\\" dos recém-chegados. Talvez tentemos lhes dar conselhos, acerca de seus assuntos, que realmente não estamos preparados para dar ou que não deveríamos dar. Daí, ficamos ofendidos e confusos quando o conselho é rejeitado, ou quando ele é aceito e traz ainda maior confusão. 11 http://slidepdf.com/reader/full/na-opiniao-do-bill 11/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com * * * \\\"Você não pode fazer um cavalo beber água, se ele ainda prefere cerveja ou é demasiado instável para saber o que quer. Coloque um balde d'água a seu lado, diga-lhe como e por que ela é boa e deixe-o sozinho. \\\"Se as pessoas querem mesmo se embriagar, não há, que eu saiba, meios de impedir isso – logo, deixe-as sozinhas e que elas se embriaguem. Mas também não as afaste do balde d'água\\\". 1 – Os Doze Passos, pág. 102 2 – Carta de 1942"
+  },
+  "15": {
+    "title": "Valores eternos",
+    "content": "Muitas pessoas não querem saber de valores espirituais absolutos. Perfeccionistas, dizem elas, ou estão cheias de presunção porque imaginam que aaulctaoncçoanrdaemna çaãlog upmor quoeb jneãtiov aol caimnçpaorsasmív.el, ou ainda estão mergulhadas na Contudo, acho que não deveríamos nos apegar a esse ponto de vista. Não é culpa dos elevados ideais serem às vezes usados indevidamente, tornando-se assim desculpas levianas para sentimentos de culpa, revolta e orgulho. Pelo contrário, não podemos progredir muito, se não tentarmos constantemente vislumbrar o que são os valores espirituais eternos. * * * \\\"Dia a dia tentamos nos aproximar um pouco da perfeição de Deus. Assim sendo não precisamos ser consumidos por um tolo sentimento de culpa, por falhar em alcançar. Sua semelhança e imagem sem demora. Nosso alvo é o progresso, e Sua perfeição é o farol, distante anos-luz, que nos leva para adiante\\\". 1 – Grapevine de junho de 1961 2 – Carta de 1966"
+  },
+  "16": {
+    "title": "Nunca mais!",
+    "content": "\\\"Muitas pessoas se sentem mais seguras com o plano das vinte e quatro horas do que com a resolução de que nunca mais beberão. Muitas delas já quebraram muitas resoluções. Essa é realmente uma questão de escolha pessoal; cada A.A. tem o privilégio de interpretar o programa como quiser. \\\"Eu,pessoalmente, pretendo nunca mais beber. Isso é um pouco diferente de dizer: 'Nunca mais beberei'. Essa última atitude às vezes põe as pessoas em dificuldade, porque significa comprometer-se, a nível pessoal, a fazer o que nós, alcoólicos, nunca poderíamos fazer. Esse é um ato de vontade e deixa muito pouco lugar para a idéia de que Deus nos libertará da obsessão de beber, contanto que sigamos o programa de A.A\\\". Carta de 1949"
+  },
+  "17": {
+    "title": "12",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 12/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Acerca da honestidade O perverso desejo de ocultar um mau motivo, atrás do bom, se infiltra nos atos humanos de alto a baixo. Esse tipo sutil e evasivo, de farisaísmo, pode se esconder sob o ato ou o pensamento mais insignificante. Aprender a identificar, admitir e corrigir essas falhas, todos os dias, constitui a essência da formação do caráter e de uma vida satisfatória. * * * A decepção dos outros está quase sempre enraizada na decepção de nós mesmos. * * * De algum modo, estar sozinho com Deus não parece ser tão embaraçoso quanto enfrentar uma outra pessoa. Até que resolvamos sentar e falar em voz alta a respeito daquilo que, há tanto tempo, temos escondido, nossa disposição de \\\"limpar a casa\\\" é ainda muito teórica. Quando somos honestos com uma outra p1e –s sOosa ,D isoszoe cPoansfsiorms, ap qágu.e 8te5mos sido honestos conosco e com Deus. 2 – Grapevine de agosto de 1961 3 – Os Doze Passos, pág. 49"
+  },
+  "18": {
+    "title": "Companheiro e sócio",
+    "content": "\\\"O Dr. Bob foi meu constante companheiro e sócio na grande aventura de A.A. Como médico e grande criatura humana que era, ele escolheu trabalhar com os outros em sua sublime dedicação ao A.A. e alcançou um recorde que, em quantidade e qualidade, ninguém conseguirá ultrapassar. Assistido pela incomparável Irmã Ignatia, no St. Thomas Hospital, em Akron, ele – sem receber pagamento – tratou clinicamente e auxiliou espiritualmente cinco mil sofredores. \\\"Com todo o esforço e dificuldades do pioneirismo de A.A., nunca houve uma palavra dura entre nós dois. Por isso, posso dizer com toda gratidão que o crédito foi todo dele\\\". * * * Eu me despedi do Dr. Bob, sabendo que ele ia se submeter a uma delicada cirurgia. O maravilhoso e antigo sorriso estava em seu rosto, quando me disse quase brincando: \\\"Lembre-se, Bill, não deixe que isso se acabe. Mantenha-o simples!\\\" Saí sem poder dizer uma palavra. Essa foi a última vez que o vi. 1 – Carta de 1966 2 – A.A. Atinge a Maioridade, pág. 191"
+  },
+  "19": {
+    "title": "O vinho do sucesso",
+    "content": "Não são somente os problemas inesperados e desagradáveis que requerem o auto-controle. Devemos ser igualmente cuidadosos, quando começamos a ter uma certa importância e sucesso material. Jamais alguém amou tanto os triunfos pessoais como nós; bebíamos o sucesso como se fosse um vinho que nunca 13 http://slidepdf.com/reader/full/na-opiniao-do-bill 13/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com pudesse falhar em nos fazer sentir eufóricos. Cegos pelo orgulho da autoconfiança, éramos capazes de bancar os importantes. Agora que estamos em A.A. e sóbrios, conquistando de novo a estima de nossos amigos e companheiros de trabalho, descobrimos que ainda precisamos exercitar especial vigilância. Como segurança contra os perigos da mania de grandeza, podemos com freqüência nos checar, não esquecendo que estamos sóbrios hoje, somente pela graça de Deus, e que qualquer sucesso que possamos ter, o sucesso é mais d'Ele do que nosso. Os Doze Passos, pág. 79"
+  },
+  "20": {
+    "title": "Luz proveniente de uma oração",
+    "content": "Concedei-nos, Senhor, a Serenidade necessária para aceitar as coisas que não podemos modificar, Coragem para modificar aquelas que podemos, e Sabedoria para distinguir umas das outras. * * * Guardamos como um tesouro nossa \\\"Oração da Serenidade\\\", porque ela nos traz uma nova luz que pode dissipar nosso velho e quase fatal hábito de enganar a nós mesmos. No esplendor dessa oração vemos que a derrota, quando bem aceita, não significa desastre. Sabemos agora que não temos que fugir, nem deveríamos outra vez tentar vencer a adversidade, por meio de um outro poderoso impulso arrasador, que só pode nos trazer problemas difíceis de serem resolvidos. Grapevine de março de 1962"
+  },
+  "21": {
+    "title": "Cidadãos outra vez",
+    "content": "\\\"Cada um de nós, por sua vez, isto é, o membro que tira mais proveito do programa, gasta um tempo enorme no trabalho do Décimo Segundo Passo, nos primeiros anos. Esse foi meu caso, e talvez eu não tivesse permanecido sóbrio com menos trabalho. \\\"Contudo, mais cedo ou mais tarde a maioria de nós tem outras obrigações – para com a família, amigos e pátria. Como você pode se lembrar, o Décimo Segundo Passo também fala de 'praticar estes princípios em todas as nossas atividades'. Portanto, acho que sua escolha em relação a um trabalho, em particular, do Décimo Segundo Passo deve ser feita por sua própria consciência. Ninguém pode lhe dizer com certeza o que você deveria fazer num determinado momento. \\\"Só sei que se espera de você, em certo ponto, que faça mais do que levar a mensagem de A.A. a outros alcoólicos. Em A.A. buscamos não apenas a sobriedade – tentamos voltar a ser cidadãos do mundo que rejeitamos e que também nos rejeitou. Essa é a demonstração máxima de que o trabalho do Décimo Segundo Passo é o primeiro e não o último\\\". Carta de 1959 14 http://slidepdf.com/reader/full/na-opiniao-do-bill 14/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "22": {
+    "title": "O medo como ponto de partida",
+    "content": "O que mais estimulava nossos defeitos era o medo egocêntrico – especialmente o medo de perder algo que já possuíamos ou de não ganhar algo que buscávamos. Vivendo numa base de exigências não atendidas, ficávamos num constante estado de perturbação e frustração. Portanto, não conseguíamos a paz, a não ser que pudéssemos encontrar um meio de reduzir essas exigências. * * * Apesar de sua costumeira força destrutiva, descobrimos que o medo pode ser o ponto de partida para coisas melhores. Pode ser o caminho para a prudência e para um conveniente respeito em relação aos outros. Ele pode indicar o caminho tanto da justiça como do ódio. E quanto mais respeito e justiça tivermos, mais depressa começamos a encontrar o amor que pode ser muito sofrido e no entanto ser dado livremente. Assim sendo, o medo não precisa ser sempre destrutivo, p1o –r qOuse Daso zlieç õPeass sdoes s, upaásg c. o6n6seqüências podem nos levar a valores positivos. 2 – Grapevine de janeiro de 1962"
+  },
+  "23": {
+    "title": "adoradores Somos todos",
+    "content": "Também descobrimos que tínhamos sido adoradores. Que calafrio nos dava pensar nisso! Não tínhamos, em várias ocasiões, adorado pessoas, sentimentos, coisas, dinheiro e a nós mesmos? E também, com melhor motivo, não tínhamos contemplado com adoração o pôr do sol, o mar ou uma flor? Quem de nós não tinha amado alguma coisa ou alguém? Não foi com isso que foram construídas nossas vidas? Não foram esses sentimentos que, afinal de contas, determinaram o curso de nossa existência? Era impossível dizer que não éramos capazes de ter fé, amor ou adoração. De uma forma ou de outra, estivemos vivendo pela fé e nada mais. Alcoólicos Anônimos, págs. 73 e 74"
+  },
+  "24": {
+    "title": "Somos iguais, quando as coisas vão mal",
+    "content": "No princípio, passaram-se quatro anos antes que A.A. conseguisse levar à sobriedade permanente, ainda que uma única mulher alcoólica. Do mesmo modo daqueles \\\"que atingiram o fundo do poço\\\", as mulheres diziam que eram diferentes; elas não precisavam de A.A. Mas, com o aperfeiçoamento da comunicação, principalmente pelas próprias mulheres, a situação mudou. Esse processo de identificação e transmissão tem continuado. Aquele que caía na sarjeta dizia que era diferente. Ainda com mais ênfase, o membro da alta sociedade (ou o fracassado da Park Avenue) dizia a mesma coisa, como também os artistas e os profissionais, os ricos e os pobres, os religiosos, os agnósticos, os índios e os esquimós, os veteranos e os prisioneiros. Mas hoje todos esses e muitos outros conversam sobriamente a respeito do quanto todos nós, alcoólicos, somos iguais, quando finalmente admitimos que as coisas vão mal. 15 http://slidepdf.com/reader/full/na-opiniao-do-bill 15/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Grapevine de outubro de 1959"
+  },
+  "25": {
+    "title": "Não podemos ficar parados",
+    "content": "Nos primeiros dias de A.A., eu não me preocupava muito com os aspectos da vida nos quais eu estava inativo. Havia sempre o álibi: \\\"Afinal de contas\\\", dizia a mim mesmo, \\\"estou muito ocupado com assuntos muito mais importantes.\\\" Essa era minha receita quase perfeita para obter bem-estar e complacência. * * * Quantos de nós ousariam declarar: \\\"Bem, estou sóbrio e feliz. O que mais posso querer ou fazer? Estou muito bem assim.\\\" Sabemos que o preço dessa auto- satisfação é um inevitável retrocesso, marcado em algum momento por um brusco despertar. Temos que crescer ou nos deteriorar mais. Para nós a situação só pode ser para hoje, nunca para amanhã. Devemos mudar; não podemos ficar p1a –r aGdroasp.evine de junho de 1961 2 – Grapevine de fevereiro de 1961"
+  },
+  "26": {
+    "title": "A verdadeira independência do espírito",
+    "content": "Quanto mais nos dispomos a depender de um Poder Superior, mais independentes na verdade somos. Portanto, a dependência, como se pratica em A.A., é realmente um meio de se obter a verdadeira independência de espírito. Na vida diária, fica-se surpreso ao descobrir o quanto somos realmente dependentes e quão inconscientes somos dessa dependência. Toda casa moderna tem fios elétricos que levam força e luz a seu interior. Aceitando nossa dependência dessa maravilha da ciência, descobrimos que somos pessoalmente mais independentes, que nos sentimos mais à vontade e seguros. A força corre justamente onde ela é necessária. Silenciosa e certamente a eletricidade, essa estranha energia que tão poucas pessoas entendem, vem de encontro às nossas necessidades diárias mais simples. Embora aceitemos prontamente esse princípio de saudável dependência em muitos de nossos assuntos temporais, muitas vezes resistimos fortemente a esse mesmo princípio, quando nos pedem que o apliquemos como um meio de crescer espiritualmente. É claro que nunca conheceremos a liberdade sob a dependência de Deus, até que tentemos buscar Sua vontade em relação a nós. A escolha é nossa. Os Doze Passos, pág. 27"
+  },
+  "27": {
+    "title": "Detenção diária",
+    "content": "Não estamos curados do alcoolismo. O que fazemos, na realidade, é deter a doença do alcoolismo, diariamente, o que depende da manutenção de nossa condição espiritual. * * * 16 http://slidepdf.com/reader/full/na-opiniao-do-bill 16/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Nós, de A.A., obedecemos a princípios espirituais, primeiro porque precisamos e depois porque gostamos do tipo de vida que essa obediência acarreta. O grande sofrimento e o grande amor são os disciplinadores de A.A.; não precisamos de nenhum outro. 1 – Alcoólicos Anônimos, pág. 100 2 – As Doze Tradições, pág. 55"
+  },
+  "28": {
+    "title": "Os criadores de problemas podem ser professores",
+    "content": "Atualmente, poucos de nós têm receio daquilo que qualquer recém-chegado possa fazer contra a reputação ou eficiência de A.A. Aqueles que recaem, que pedem esmolas, que escandalizam, que têm distúrbios mentais, que se rebelam contra o programa, que fazem comércio com a reputação de A.A. – todos estes raramente prejudicam um grupo de A.A. por muito tempo. Alguns deles se teoxrpnearriamme nntoasrs onso mssaai s rpeascpieêintcadiao,s ea pqeusearri dodse cosmóbprainosh.e irOosu.t rAoslg ufnosr afmica reammb poarraa. Começamos a considerar os criadores de problema, não como ameaças, mas como nossos professores. Eles nos obrigam a cultivar a paciência, a tolerância e a humildade. Finalmente compreendemos que são apenas pessoas mais doentes do que as demais, que nós que os condenamos somos os Fariseus, cuja falsa virtude causa a nosso grupo o mais profundo prejuízo espiritual. Grapevine de agosto de 1946"
+  },
+  "29": {
+    "title": "A gratidão deveria ir à frente",
+    "content": "\\\"A gratidão deveria ir para frente, nunca para trás. \\\"Em outras palavras, se você levar a mensagem a outros, estará pagando da melhor maneira possível a ajuda que lhe foi prestada\\\". * * * Nenhuma satisfação tem sido mais profunda e nenhuma alegria maior do que um trabalho do Décimo Segundo Passo bem feito. Contemplar os olhos de homens e mulheres se abrirem maravilhados, à medida que passam da escuridão para a luz, ver suas vidas se encherem rapidamente de um novo propósito e significado, e acima de tudo vê-los despertados para a presença de um Deus amoroso em suas vidas – essas coisas constituem a essência do que recebemos, quando levamos a mensagem de A.A. 1 – Carta de 1959 2 – Os Doze Passos, págs. 96 e 97"
+  },
+  "30": {
+    "title": "Livrando-se de uma \"bebedeira seca\"",
+    "content": "\\\"Às vezes nós ficamos deprimidos. Disso sei muito bem; eu mesmo fui um campeão das bebedeiras secas. Enquanto as causas superficiais constituíam uma parte do quadro – acontecimentos que precipitavam a depressão – estou consciente de que as causas fundamentais eram muito mais profundas. 17 http://slidepdf.com/reader/full/na-opiniao-do-bill 17/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Intelectualmente, eu poderia aceitar minha situação, mas emocionalmente não. \\\"Para esses problemas, certamente não há respostas adequadas, mas parte da resposta certamente se encontra no esforço constante para praticar todos os Doze Passos de A.A\\\". 1 – Carta de 1954"
+  },
+  "31": {
+    "title": "O sistema econômico de Deus",
+    "content": "\\\"No sistema econômico de Deus nada é desperdiçado. Através do fracasso, aprendemos uma lição de humildade que é provavelmente necessária, por mais dolorosa que seja\\\". * * * Nem sempre chegamos mais perto da sabedoria por causa de nossas virtudes; nossa melhor compreensão freqüentemente tem fundamento nos sofrimentos de ninodsisvoisd uaanlt,i géo tsa mdebséamtin ao es.s sPêenlcoi afa dtoe dniossssoa teexr pseidrioê nac eias scêonmcioa idrem naonsdsaad eex.periência 1 – Carta de 1942 2 – Grapevine de novembro de 1961"
+  },
+  "32": {
+    "title": "Responsabilidade Moral",
+    "content": "\\\"Algumas pessoas se opõem firmemente à posição de A.A. de que o alcoolismo é uma doença. Sentem que esse conceito tira dos alcoólicos a responsabilidade moral. Como qualquer A.A. sabe, isso está longe de ser verdade. Não utilizamos o conceito de doença para eximir nossos membros da responsabilidade. Pelo contrário, usamos o fato de que se trata de uma doença fatal para impor a mais severa obrigação moral ao sofredor, a obrigação de usar os Doze Passos de A.A. para se recuperar. \\\"Nos primórdios de suas bebedeiras, o alcoólico freqüentemente é culpado de irresponsabilidade. Mas no momento em que tem a compulsão para beber, ele não pode ser responsável por sua conduta. Ele então tem uma obsessão que o condena a beber e uma sensibilidade física ao álcool que garante sua loucura final e morte. \\\"Mas quando ele toma consciência dessa condição, fica sob pressão para aceitar o programa de recuperação moral de A.A.\\\" Palestra de 1960"
+  },
+  "33": {
+    "title": "Alicerce Para A Vida",
+    "content": "Descobrimos que recebemos orientação para nossas vidas, à medida que paramos de fazer exigências a Deus, a fim de que Ele nos dê aquilo que queremos. * * * 18 http://slidepdf.com/reader/full/na-opiniao-do-bill 18/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Ao orar, simplesmente pedimos que durante o dia todo Deus nos dê o conhecimento de Sua vontade e nos conceda a graça, com a qual possamos realizá-la. * * * Há uma relação direta entre o auto-exame e a meditação e a oração. Usadas separadamente, essas práticas podem trazer muito alívio e benefício. Mas quando são relacionadas e entrelaçadas com lógica, resultam numa base sólida para a vida toda. 1 – Os Doze Passos, pág. 95 2 – Os Doze Passos, pág. 93 3 – Os Doze Passos, pág. 85"
+  },
+  "34": {
+    "title": "\"Não estamos ligados a nenhuma seita...\"",
+    "content": "\\\"cEonnvqeuratnidtoo Aem.A .c rteenmte rse,i natteegursa ed oa gmniólhstairceoss d, ee lpeo tbarmesb écmris ttãeoms ,f ae istou abso ingsr eAja.sA, se, daqueles que professam o budismo, islamismo e judaísmo. Por exemplo, duvidamos muito que nossos membros budistas do Japão tivessem se juntado à nossa sociedade, no caso de A.A. apresentar-se oficialmente como um movimento estritamente cristão. \\\"Você pode facilmente se convencer disso, imaginando que A.A. tivesse começado entre os budistas e que então lhe dissessem que você não poderia se ligar a eles, a não ser que também se tornasse budista. Se você fosse um alcoólico cristão nessas circunstâncias, poderia bem se afastar e morrer\\\". Carta de 1954"
+  },
+  "35": {
+    "title": "Sofrimento transformado",
+    "content": "\\\"A.A. não é nenhum sucesso no sentido comum da palavra. É a história do sofrimento transformado, pela graça de Deus, em progresso espiritual.\\\" * * * Para o Dr. Bob, a necessidade insaciável do álcool era evidentemente um fenômeno físico que o atormentou durante alguns de seus primeiros anos de A.A., uma época em que levar a mensagem a outros alcoólicos, dia e noite, era a única coisa que fazia com que se esquecesse da bebida. Apesar de sua necessidade ser difícil de resistir, sem dúvida ela gerou grande motivação para o grupo Número Um de Akron ser formado. O despertar espiritual do Bob não veio tão facilmente; foi penosamente lento. Sempre se agarrou ao tipo de trabalho mais duro e a uma apurada vigilância. 1 – Carta de 1959 2 – A.A. Atinge a Maioridade, págs. 62 e 63"
+  },
+  "36": {
+    "title": "A humildade em primeiro lugar",
+    "content": "19 http://slidepdf.com/reader/full/na-opiniao-do-bill 19/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Encontramos muitos em A.A. que antes pensavam, como nós, que humildade era sinônimo de fraqueza. Eles nos ajudaram a nos reduzir ao nosso verdadeiro tamanho. Com seu exemplo nos mostraram que a humildade e o intelecto poderiam ser compatíveis, contanto que colocássemos a humildade em primeiro lugar. Quando começamos a fazer isso, recebemos a dádiva da fé que funciona. Essa fé também é para você. Apesar da humildade ter anteriormente representado uma humilhação agora ela começa a significar o ingrediente que pode nos trazer serenidade. 1 – Os Doze Passos, pág. 21 2 – Os Doze Passos, pág. 64"
+  },
+  "37": {
+    "title": "Um coração cheio e agradecido",
+    "content": "Um exercício que pratico é o de tentar fazer um inventário completo de minhas ebsêpniçriãtousa ies. eAnít ãeon taãcoe tietanrt oa sa lmcauniçtaars udmád eivstaasd oq udee taelnehgore, gtarnattoid ãteom. Qpouraanids oc eosmsao espécie de gratidão é repetidamente afirmada e ponderada, ela consegue finalmente afastar a tendência natural de me felicitar por qualquer progresso que eu possa ter sido capaz de alcançar em alguns setores da vida. Tento me convencer de que um coração cheio e agradecido não pode abrigar nenhum orgulho. Quando cheio de gratidão, o coração por certo só pode dar amor, a mais bela emoção que jamais podemos sentir. Grapevine de março de 1962"
+  },
+  "38": {
+    "title": "Caminho direto para Deus",
+    "content": "\\\"Acredito firmemente tanto na orientação como na oração. Mas estou bem consciente e espero que humilde o suficiente para ver que não há nada de infalível em minha orientação. \\\"No momento em que acreditar que encontrei um perfeito caminho para Deus, eu me tornarei egoísta o suficiente para entrar em verdadeira dificuldade. Ninguém pode causar mais sofrimento desnecessário do que aquele que possui força e acha que a obteve diretamente de Deus\\\". Carta de 1950"
+  },
+  "39": {
+    "title": "Lidando com os ressentimentos",
+    "content": "O ressentimento é o principal culpado. Destrói mais alcoólicos do que qualquer outra coisa. Dele nascem todas as formas de doença espiritual, pois tínhamos estado doentes não só física e mental, como também espiritualmente. Quando nossa doença espiritual é superada, nós nos fortalecemos mental e fisicamente. Ao lidar com nossos ressentimentos, íamos anotando-os num papel. Fazíamos uma relação das pessoas, instituições ou princípios que nos davam raiva. Depois nos perguntávamos por que nos davam raiva. Na maioria dos casos, achávamos que nossa auto-estima, nossos bolsos, nossas ambições e nossos relacionamentos 20 http://slidepdf.com/reader/full/na-opiniao-do-bill 20/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com pessoais (incluindo o sexo) estavam prejudicados ou ameaçados. * * * \\\"O mais exaltado trecho de uma carta pode ser uma maravilhosa válvula de segurança – contanto que a cesta de lixo esteja por perto\\\". 1 – Alcoólicos Anônimos, pág. 82 2 – Carta de 1949"
+  },
+  "40": {
+    "title": "Conquista material",
+    "content": "Nenhum membro de A.A. quer condenar os avanços materiais. Nem entramos em discussão com muita gente que se agarra à crença de que satisfazer nossos desejos básicos é o objetivo principal da vida. Mas estamos convencidos de que nenhum tipo de pessoa no mundo jamais se atrapalhou tanto, tentando viver segundo esse pensamento, como os alcoólicos. Epsatráevcaíammooss àe stparro csuernad od eb emm-asiusc esdeigduorsa,n çbae,b íapmreostsí gpioa rae vriovmera nscoen.h oQs uaainnddoa maiores. Quando estávamos frustrados, mesmo um pouco, bebíamos para esquecer. Em todas essas lutas, muitas delas bem-intencionadas, nosso maior obstáculo era nossa falta de humildade. Faltava-nos ver que a formação do caráter e os valores espirituais tinham que vir em primeiro lugar e que as satisfações materiais eram simplesmente subprodutos e não o principal objetivo da vida. Os Doze Passos, pág. 61"
+  },
+  "41": {
+    "title": "Regras para ser membro?",
+    "content": "Por volta de 1943 ou 1944, o Escritório Central pediu aos grupos para que fizessem uma lista das regras para ser membro e a enviassem ao escritório. Quando as listas chegaram, anotamos as regras. Um pouco de reflexão sobre essas muitas regras nos levou a uma conclusão surpreendente. Se todas essas regras entrassem em vigor, em todos os lugares, imediatamente, teria sido praticamente impossível qualquer alcoólico ter se juntado ao A.A. Cerca de noventa por cento de nossos mais antigos e melhores membros nunca poderiam ter ingressado! * * * Finalmente a experiência nos ensinou que privar o alcoólico de tão grande chance, às vezes era o mesmo que declarar sua sentença de morte e, muitas vezes, condená-lo a uma miséria sem fim. Quem ousaria ser juiz, júri e carrasco de seu próprio irmão doente? 1 – Grapevine de agosto de 1946 2 – As Doze Tradições, pág. 22"
+  },
+  "42": {
+    "title": "Autoconfiança e força de vontade",
+    "content": "21 http://slidepdf.com/reader/full/na-opiniao-do-bill 21/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Quando, pela primeira vez desafiados a admitir a derrota, a maioria de nós se revoltou. Havíamos nos aproximado de A.A., esperando ser ensinados a ter autoconfiança. Então nos disseram que, no tocante ao álcool, de nada nos serviria a autoconfiança: aliás, ela era um empecilho total. Não era possível o alcoólico vencer a compulsão com a ajuda da vontade desamparada. * * * É quando tentamos fazer com que nossa vontade se harmonize com a vontade de Deus, que começamos a usá-la corretamente. Para todos nós, essa foi uma das revelações mais maravilhosas. Todo o nosso problema tinha sido o mau uso da força de vontade. Tínhamos tentado atacar nossos problemas com ela, ao invés de tentar levá-la a ficar de acordo com o plano de Deus para conosco. O propósito dos Doze Passos de A.A. é o de tornar isso cada vez mais possível. 1 – Os Doze Passos, pág. 14 2 – Os Doze Passos, pág. 30"
+  },
+  "43": {
+    "title": "Até que ponto o anonimato?",
+    "content": "Via de regra, o recém-chegado queria que sua família ficasse logo inteirada daquilo que ele estava tentando fazer. Ele também queria contar aos outros que tinham tentado ajudá-lo: seu médico, seu ministro religioso e amigos íntimos. Assim que obtinha confiança, ele se sentia no direito de explicar seu novo modo de vida para seu patrão e colegas de trabalho. Quando surgia oportunidade de ser útil, ele achava que poderia falar com muita facilidade acerca de A.A., a quem quer que fosse. Essas discretas revelações ajudavam-no a perder o receio que tinha do estigma alcoólico e a propagar a notícia da existência de A.A., em sua comunidade. Muitos homens e mulheres vieram para A.A. por causa disso. Como é esperado que esse anonimato seja apenas, a nível público, essas comunicações estavam bem dentro de seu espírito. As Doze Tradições, págs. 60 e 61"
+  },
+  "44": {
+    "title": "Aceitação diária",
+    "content": "\\\"Grande parte de minha vida foi passada, repisando as faltas dos outros. Essa é uma das muitas formas sutis e maldosas da auto-satisfação, que nos permite ficar confortavelmente despreocupados a respeito de nossos próprios defeitos. Inúmeras vezes dissemos: 'Se não fosse por causa dele (ou dela), como eu seria feliz!'\\\" * * * Nosso primeiro problema é aceitar nossas circunstâncias atuais como são, a nós mesmos como somos, e as pessoas que nos cercam como também são. Isso é adotar uma humildade realista sem a qual nenhum verdadeiro progresso pode sequer começar. Repetidamente precisaremos voltar a esse pouco lisonjeiro ponto de partida. Esse é um exercício de aceitação que podemos praticar com proveito todos os dias de nossas vidas. 22 http://slidepdf.com/reader/full/na-opiniao-do-bill 22/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Desde que evitemos arduamente transformar esses reconhecimentos realistas dos fatos da vida em álibis irreais para a prática da apatia ou do derrotismo, eles podem ser a base segura sobre a qual pode ser construída a crescente saúde emocional e, portanto, o progresso espiritual. 1 – Carta de 1966 2 – Grapevine de março de 1962"
+  },
+  "45": {
+    "title": "Nossos companheiros",
+    "content": "Hoje em dia a grande maioria dos alcoólicos acolhe bem qualquer nova luz que possa ser lançada sobre a misteriosa e complexa doença do alcoolismo. Acolhemos bem novos e valiosos conhecimentos, quer provenham de um tubo de ensaio, do divã do psiquiatra ou de estudos sociais. Apreciamos com satisfação toda espécie de educação que informe o público acuradamente e mCaoddaif iqvueze smuaa iosp incoiãnos iad ereraspmeoitso dtood boêsb aadqou.eles que trabalham no campo do alcoolismo, como nossos companheiros na marcha da escuridão para a luz. Vemos que juntos podemos obter o que nunca poderíamos alcançar em separado ou com rivalidade. Grapevine de março de 1958"
+  },
+  "46": {
+    "title": "A verdadeira ambição e a falsa",
+    "content": "Concentrávamos muito em nós mesmos e naqueles que nos cercavam. Sabíamos que éramos cutucados, por medos ou ansiedades descabidos, a uma vida que levava à fama, dinheiro e ao que supúnhamos que fosse liderança. Assim, o falso orgulho tornou-se o outro lado da terrível moeda com a marca do \\\"medo\\\". Simplesmente tínhamos que ser a pessoa mais importante, a fim de encobrir nossas inferioridades mais profundas. * * * A verdadeira ambição não é aquilo que achávamos que era. Ela é o profundo desejo de viver de maneira útil e caminhar humildemente, sob a graça de Deus. 1 – Os Doze Passos, pág. 109 2 – Os Doze Passos, pág. 110"
+  },
+  "47": {
+    "title": "Ver é crer",
+    "content": "A fé quase infantil dos irmãos Wright, de que poderiam construir uma máquina que voasse, foi a mola mestra de seu sucesso. Sem ela nada poderia ter acontecido. Nós, os agnósticos e ateus, estávamos agarrados à idéia de que a auto-suficiência resolveria nossos problemas. Quando os outros nos mostravam que a \\\"suficiência de Deus\\\" funcionava para eles, começamos a nos sentir como aqueles que tinham insistido em que os irmãos Wright nunca voariam. 23 http://slidepdf.com/reader/full/na-opiniao-do-bill 23/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Estávamos vendo um outro tipo de vôo, uma libertação espiritual deste mundo, pessoas que se elevavam acima de seus problemas. Alcoólicos Anônimos, págs. 72 e 74"
+  },
+  "48": {
+    "title": "Viva serenamente",
+    "content": "Quando um bêbado está com uma terrível ressaca, porque bebeu em excesso ontem, ele não pode viver bem hoje. Mas existe um outro tipo de ressaca que todos experimentamos, bebendo ou não. Essa é emocional, resultado direto do acúmulo de emoções negativas de ontem e, às vezes, de hoje – raiva, medo, ciúme e outras semelhantes. Se queremos viver serenamente hoje e amanhã, sem dúvida precisamos eliminar essas ressacas. Isso não quer dizer que precisamos perambular morbidamente pelo passado. Requer, isso sim, uma admissão e correção dos erros cometidos – aOgso Drao.ze Passos, pág. 79 e 80"
+  },
+  "49": {
+    "title": "A força nascendo da fraqueza",
+    "content": "Se estamos dispostos a parar de beber, não podemos abrigar, de forma alguma, a esperança de que um dia seremos imunes ao álcool. * * * Tal é o paradoxo da regeneração em A.A.: a força nascendo da fraqueza e da derrota completa, a perda de uma vida antiga como condição para encontrar uma nova. 1 – Alcoólicos Anônimos, pág. 55 2 – A.A. Atinge a Maioridade, pág. 41"
+  },
+  "50": {
+    "title": "A.A.: Anarquia benigna e democracia",
+    "content": "Quando chegamos em A.A., encontramos uma liberdade pessoal maior do que qualquer outra sociedade conhece. Não somos obrigados a fazer nada. Nesse sentido, essa sociedade é uma anarquia benigna. A palavra \\\"anarquia\\\" tem um mau significado para a maioria de nós. Mas acho que o idealista, que primeiro advogou a idéia, sentia que se os homens tivessem garantido liberdade absoluta e não fossem obrigados a obedecer ninguém, eles então voluntariamente se associariam a um interesse comum. A.A. é uma associação do tipo benigno que ele imaginou. Mas quando tivemos que entrar em ação – para funcionar como grupos – descobrimos que tínhamos que vir a ser uma democracia. À medida que os primeiros membros iam-se retirando, começamos a eleger nossos servidores pela maioria de votos. Cada grupo nesse sentido veio a ser uma reunião democrática com os membros da comunidade. Todos os planos para a ação do grupo tinham de ser aprovados pela maioria. Isso significa que nenhum indivíduo poderia 24 http://slidepdf.com/reader/full/na-opiniao-do-bill 24/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com designar a si mesmo para atuar por seu grupo ou por A.A. como um todo. Para nós não servia nem ditadura nem paternalismo. A.A. Atinge a Maioridade, págs. 200 e 201"
+  },
+  "51": {
+    "title": "A chegada da fé",
+    "content": "Em meu caso, a pedra fundamental da libertação do medo é a fé: uma fé que, a despeito de todas as aparências mundanas em contrário, faz-me crer que vivo num universo que faz sentido. Para mim, isso significa a crença num Criador que é todo poder, justiça e amor; um Deus que quer para mim um propósito, um significado e um destino para crescer, ainda que aos poucos e com hesitação, em direção à Sua imagem e semelhança. Antes de chegar à fé eu tinha vivido como um estranho num cosmo, que muitas vezes parecia ser hostil e cruel. Nele não poderia haver, para mim, nenhuma segurança interior. * * * \\\"Quando caí de joelhos por causa do álcool, me achei pronto para pedir a dádiva da fé. E tudo mudou. Nunca mais, apesar de meus sofrimentos e problemas, experimentaria minha antiga desolação. Vi o universo iluminado pelo amor de Deus; eu não estava mais sozinho.\\\" 1 – Grapevine de janeiro de 1942 2 – Carta de 1966"
+  },
+  "52": {
+    "title": "Para prevenir uma recaída",
+    "content": "Suponhamos que em algum momento deixamos de atingir nossos ideais. Isso significa que vamos beber? Algumas pessoas nos dizem que sim, mas é apenas a metade da verdade. Depende de nós e de nossos motivos. Se estamos arrependidos do que fizemos e temos o sincero desejo de deixar que Deus nos leve a coisas melhores, acreditamos que seremos perdoados e teremos aprendido uma lição. Se não estamos arrependidos, e nossa conduta continua a prejudicar os outros, estamos bem certos de que voltaremos a beber. Esses são fatos baseados em nossa experiência. Alcoólicos Anônimos, pág. 87"
+  },
+  "53": {
+    "title": "\"Solitários\" – Mas não sozinhos",
+    "content": "O que se pode dizer de muitos membros de A.A. que, por várias razões, não podem constituir família? No início muitos deles se sentem sozinhos, magoados e abandonados, quando testemunham tanta felicidade conjugal ao seu redor. Se não podem ter esse tipo de felicidade, A.A. pode lhes oferecer satisfações igualmente válidas e duradouras? Sim, todas as vezes que eles tentam arduamente procurá-las. Cercados de tantos amigos AAs, os assim chamados \\\"solitários\\\" nos dizem que já não se sentem 25 http://slidepdf.com/reader/full/na-opiniao-do-bill 25/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com sós. Em companhia de outros homens e mulheres, podem se dedicar a inúmeros ideais, pessoas e projetos construtivos. Podem participar de empreendimentos que por sua natureza seriam negados aos casados. Todos os dias vemos esses membros prestarem relevantes serviços e receberem, de volta, grandes alegrias. Os Doze Passos, pág. 106"
+  },
+  "54": {
+    "title": "Para aprofundar nosso conhecimento interior",
+    "content": "É necessário que esclareçamos, por meio de um exame de nossas relações pessoais, toda informação possível sobre nós e sobre nossas principais dificuldades. Uma vez que nossos relacionamentos difíceis com outros seres humanos quase sempre foram a causa imediata de nosso sofrimento, incluindo nosso alcoolismo, nenhum campo de investigação poderia trazer recompensas mais satisfatórias e valiosas do que esse. Rcoenfhleexcãimo ecnatlom ain ete prioonr.d eProaddeam soosb rier rmeulaiçtoõ easl épmes dsoaaqiuse lpaosd ceo aisparso fquuned aers tnaovsasmo superficialmente erradas em nós, para ver aquelas falhas que eram básicas, falhas que às vezes eram responsáveis pelo padrão de nossa vida toda. Descobrimos que a minuciosidade vale a pena – vale a pena mesmo. Os Doze Passos, pág. 72"
+  },
+  "55": {
+    "title": "Em busca de orientação",
+    "content": "\\\"Supõe-se que o homem pensa e age. Ele não foi criado à imagem de Deus para ser um autômato. \\\"Minha própria fórmula a esse respeito é a seguinte: primeiro, penso nos prós e nos contras de cada situação, orando nesse meio-tempo para não ser influenciado pelas considerações do ego. Afirmo que gostaria de fazer a vontade de Deus. \\\"Então, tendo resolvido o problema dessa maneira e não tendo obtido resposta conclusiva ou compulsiva, espero uma orientação maior que possa ir direto à minha mente ou vir de outras pessoas ou circunstâncias. \\\"Se sinto que não posso esperar e ainda não tenho nenhuma indicação definida, repito a primeira medida várias vezes e tento escolher da melhor forma, antes de agir. Sei que se estou errado, o céu não cairá. Uma lição terá que ser aprendida, de qualquer maneira\\\". Carta de 1950"
+  },
+  "56": {
+    "title": "Enfrentando a crítica",
+    "content": "Às vezes ficamos surpresos, chocados e com raiva quando alguém vê alguma falha em A.A. Somos capazes de ficar perturbados de tal forma, que não podemos obter benefícios com a crítica construtiva. Esse tipo de ressentimento não cria amizades e não alcança nenhum propósito construtivo. Na verdade essa é uma área, na qual podemos nos melhorar. 26 http://slidepdf.com/reader/full/na-opiniao-do-bill 26/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com * * * É evidente que a harmonia, segurança e eficiência futuras de A.A. dependerão muitíssimo da manutenção de uma atitude passiva e não agressiva em todas as nossas relações públicas. Essa é uma tarefa difícil, porque em nossos dias de bebedeira, éramos inclinados à zanga, hostilidade, revolta e agressão. Mesmo apesar de estarmos agora sóbrios, os velhos padrões de comportamento ainda estão dentro de nós até certo ponto, prontos para explodir com qualquer boa desculpa. Mas nós sabemos disso e, portanto, sentimos confiança que na conduta de nossos afazeres públicos, sempre encontraremos a graça de manifestar um real controle. 1 – Grapevine de julho de 1965 2 – Doze Conceitos para Serviços Mundiais, pág.73"
+  },
+  "57": {
+    "title": "Melhor que o ouro",
+    "content": "Como recém-chegados, muitos de nós têm se entregado à intoxicação espiritual. Como um explorador faminto ao esgotar a última migalha de alimento, encontramos o ouro. A alegria que sentimos, ao ser libertados de uma vida toda de frustração, foi enorme. O recém-chegado sente que encontrou algo melhor que o ouro. Ele pode não ver, de imediato, que apenas tocou a superfície de uma mina infinita, que só pagará dividendos se a explorar para o resto da vida e insistir em doar toda a produção. Alcoólicos Anônimos, pág. 135"
+  },
+  "58": {
+    "title": "Indignação justificada",
+    "content": "\\\"O valor positivo da indignação justificada é teórico – especialmente para os alcoólicos. Isso deixa cada um de nós exposto à racionalização de que podemos ficar com raiva quando quisermos, desde que possamos achar justa nossa raiva\\\". * * * Quando guardávamos rancor e planejávamos vingar essas derrotas, estávamos na verdade nos batendo com o porrete da fúria que pretendíamos usar nos outros. Aprendemos que se estávamos seriamente perturbados, nossa primeira necessidade era diminuir essa perturbação, não importando quem ou qual achávamos ser a causa. 1 – Carta de 1954 2 – Os Doze Passos, pág. 38"
+  },
+  "59": {
+    "title": "Convicção e compromisso",
+    "content": "Um qualificativo para uma vida útil é o dar e receber, a habilidade de transigir sem rancor. Fazer concessões é muito penoso para nós, beberrões de \\\"tudo ou 27 http://slidepdf.com/reader/full/na-opiniao-do-bill 27/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com nada\\\". Entretanto, não podemos nos esquecer de que o progresso é quase sempre caracterizado por uma série de concessões vantajosas. Claro que não podemos fazer concessões sempre. Uma vez ou outra é realmente necessário fincar os pés numa convicção sobre o assunto, até que ele se esclareça. Fazer ou não concessões requer sempre cuidadoso discernimento. Doze Conceitos para Serviços Mundiais, pág. 43"
+  },
+  "60": {
+    "title": "Somente com o poder da inteligência?",
+    "content": "Para o homem ou mulher intelectualmente auto-suficiente, muitos AAs podem dizer: \\\"Sim, éramos como você – inteligentes demais para nosso próprio bem. Adorávamos ouvir as pessoas nos chamarem de precoces. Usávamos nossa instrução para nos vangloriar, embora tivéssemos o cuidado de esconder isso dos outros. Secretamente, achávamos que poderíamos flutuar acima dos outros, s\\\"oOm pernotger ceossmo oc ipeondtíefirc doa n ionste dliigzêian cqiuae. não havia nada que o homem não pudesse fazer. O conhecimento era todo poderoso. O intelecto era capaz de conquistar a natureza. Uma vez que éramos mais brilhantes do que a maioria (assim pensávamos), os benefícios da vitória seriam nossos, automaticamente. O deus do intelecto substituía o Deus de nossos pais. \\\"Mas novamente o álcool tinha outras idéias. Nós, que tão brilhantemente tínhamos vencido, de repente nos convertemos nos maiores derrotados de todos os tempos. Percebemos que tínhamos que mudar ou morrer\\\". Os Doze Passos, págs. 20 e 21"
+  },
+  "61": {
+    "title": "Resolvendo o problema do medo",
+    "content": "O medo de certa forma afetou todos os aspectos de nossas vidas. Era uma funesta e corrosiva ameaça; a estrutura de nossa existência era entrelaçada com o medo. Punha-se em movimento uma série de circunstâncias, que nos trazia desgraças que achávamos que não merecíamos. Mas não fomos nós mesmos que provocamos essa situação? O problema de acabar com o medo apresenta dois aspectos. Vamos ter que tentar nos libertar de todo o medo que for possível. Depois vamos precisar encontrar, tanto a coragem como a graça de lidar construtivamente com qualquer espécie de medo que ainda reste. 1 – Alcoólicos Anônimos, pág. 85 2 – Grapevine de janeiro de 1962"
+  },
+  "62": {
+    "title": "Uma porta giratória diferente",
+    "content": "Quando um bêbado se aproxima de nós e diz que não gosta dos princípios de A.A., das pessoas ou da direção do serviço, quando ele declara que estará melhor em qualquer outro lugar – não nos incomodamos. Dizemos 28 http://slidepdf.com/reader/full/na-opiniao-do-bill 28/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com simplesmente: \\\"Talvez seu caso seja diferente. Por que você não tenta alguma outra coisa?\\\" Quando um membro de A.A. diz que não gosta de seu próprio grupo, não ficamos perturbados. Dizemos simplesmente: \\\"Por que você não tenta mudar para outro grupo? Ou comece um novo grupo por sua conta.\\\" Para todos os que desejam se separar de A.A., fazemos um convite animador para que assim o façam. Se eles conseguirem fazer melhor por outros meios, estaremos contentes. Se depois de fazer a tentativa, não conseguirem melhores resultados, sabemos que eles têm uma escolha a fazer: ficar loucos, morrer ou voltar para Alcoólicos Anônimos. A decisão é toda deles (na verdade, quase todos eles têm voltado). Doze Conceitos para Serviços Mundiais, págs. 76 e 77"
+  },
+  "63": {
+    "title": "Perguntei a mim mesmo: \"Po Lr iqvuree dnaão d pepoednemdê nocs iDaoze Passos libertar-me dessa",
+    "content": "insuportável depressão?\\\" Hora após hora olhei fixamente na Oração de São Francisco: \\\"É melhor consolar, que ser consolado.\\\" De repente percebi qual poderia ser a resposta. Meu principal defeito sempre foi a dependência das pessoas ou circunstâncias para dar-me prestígio, segurança e confiança. Não conseguindo obter essas coisas, de acordo com meus sonhos perfeccionistas, lutei por eles. E quando chegou a derrota, chegou também a depressão. Reforçado pela graça que pude encontrar na oração, tive que empregar toda minha vontade e ação para cortar essas dependências emocionais das pessoas e circunstâncias. Só assim pude ficar livre para amar como São Francisco amou. Grapevine de janeiro de 1958"
+  },
+  "64": {
+    "title": "Busca de motivos",
+    "content": "Alguns de nós alegávamos que quando bebíamos, nunca ferimos ninguém, a não ser a nós mesmos. Nossos familiares não sofreram, porque sempre pagamos as contas e raramente bebíamos em casa. Nossos sócios não foram prejudicados, porque geralmente comparecíamos ao trabalho. Nossa reputação não foi afetada, porque estávamos certos de que poucos sabiam de nossas bebedeiras. Aqueles que sabiam às vezes nos asseguravam que uma boa farra, afinal de contas, não passava de uma falha de um bom sujeito. Portanto, que grande dano tínhamos causado? Certamente nada que não pudéssemos consertar com algumas eventuais desculpas. É claro que essa atitude é o resultado final do esquecimento proposital. É uma atitude que só pode ser mudada por uma busca profunda e honesta de nossos motivos e ações. Os Doze Passos, pág. 69"
+  },
+  "65": {
+    "title": "Crescimento pelo Décimo Passo",
+    "content": "29 http://slidepdf.com/reader/full/na-opiniao-do-bill 29/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Naturalmente, no decorrer dos próximos anos, cometeremos erros. A experiência nos tem ensinado que não precisamos ter medo de cometê-los, sempre e quando mantenhamos a disposição para confessar nossas faltas e corrigi-las prontamente. Nosso crescimento, como indivíduos, tem dependido desse saudável processo de ensaio e erro. Assim crescerá nossa irmandade. Devemos sempre nos lembrar de que qualquer sociedade de homens e mulheres, que não podem corrigir livremente suas próprias faltas, deve inevitavelmente chegar à decadência ou até mesmo ao colapso. Esse é o castigo universal por não continuar crescendo. Assim, cada A.A. deve continuar fazendo seu inventário moral e atuar de acordo com ele, do mesmo modo nossa sociedade como um todo deve fazer, se quisermos sobreviver e prestar serviço de maneira proveitosa e satisfatória. A.A. Atinge a Maioridade, pág. 206"
+  },
+  "66": {
+    "title": "Somente em caso de emergência",
+    "content": "Quer tivéssemos sido crentes ou não, começamos a superar a idéia de que o Poder Superior era para ser invocado somente numa emergência. A noção de que viveríamos nossa própria vida, com uma ajudazinha de Deus de vez em quando, começou a desaparecer. Muitos de nós, que se consideravam religiosos, despertaram para as limitações dessa atitude. Recusando colocar Deus em primeiro lugar, tínhamos nos privado de Sua ajuda. Mas agora as palavras \\\"Sozinho nada sou, o Pai é que faz\\\" começaram a trazer uma promessa e significação. Os Doze Passos, pág. 65"
+  },
+  "67": {
+    "title": "Milhares de \"fundadores\"",
+    "content": "\\\"Ao mesmo tempo em que agradeço a Deus o privilégio de ser um antigo membro de A.A., desejaria sinceramente que a palavra \\\"fundador\\\" pudesse ser eliminada do vocabulário de A.A. \\\"Se você pensar bem nisso, todo aquele que tem feito algum trabalho do Décimo Segundo Passo com sucesso, está fadado a ser o fundador de uma nova vida para outros alcoólicos.\\\" * * * \\\"A.A. não foi inventado! Seus fundamentos chegaram até nós através da experiência e sabedoria de muitos grandes amigos. Simplesmente tomamos emprestado suas idéias e as adaptamos.\\\" * * * \\\"Agradecidos, aceitamos os dedicados serviços de muitos não-alcoólicos. Devemos nossas próprias vidas aos homens e mulheres da medicina e da religião. E, falando pelo Dr. Bob e por mim mesmo, declaro com gratidão que se não fossem nossas esposas, Anne e Lois, nenhum de nós poderia ter vivido para ver o começo de Alcoólicos Anônimos\\\". 1 – Carta de 1945 30 http://slidepdf.com/reader/full/na-opiniao-do-bill 30/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com 2 – Carta de 1966 3 – Carta de 1966"
+  },
+  "68": {
+    "title": "Renove seu esforço",
+    "content": "\\\"Embora eu saiba como você deve estar magoado e triste depois dessa recaída, por favor não se preocupe com a perda temporária de sua paz interior. O mais calmamente que puder, renove seu esforço no programa de Alcoólicos Anônimos, especialmente nas partes referentes à meditação e à auto-análise. \\\"Eu poderia também sugerir que você desse uma olhada no excessivo sentimento de culpa que isso causou? Um certo pesar pelo que aconteceu é razoável. Mas sentimento de culpa – não. \\\"Na verdade, a recaída bem pode ter sido ocasionada por sentimentos de culpa irracionais, por causa de outras falhas chamadas morais. Certamente você dseeuv efrriaac pasesnos;a rv onceêss saó p poossdieb ifliicdaard pe.e nMaeliszmadoo a pssoirm s en ãroec duesvaer raia t esnerta cre onbsuterra dcoo ipsoasr melhores.\\\" Carta de 1958"
+  },
+  "69": {
+    "title": "Dando sem exigir",
+    "content": "Observe qualquer A.A. de seis meses, trabalhando com um provável membro no Décimo Segundo Passo. Se o recém-chegado disser: \\\"Vá para o diabo que o carregue\\\", o A.A. que está fazendo o Décimo Segundo Passo apenas sorri e busca outro alcoólico para ajudar. Não se sente frustrado nem rejeitado. Se seu próximo bêbado aceita e, por sua vez, começa a dar amor e atenção a outros sofredores e não dá nada de volta para ele, o padrinho se sente feliz de qualquer forma. Ele ainda assim não se sente rejeitado; pelo contrário, alegra-se porque seu apadrinhado está sóbrio e feliz. E ele sabe bem que sua própria vida ficou enriquecida, com um dividendo extra por dar a um outro sem exigir qualquer retribuição. Grapevine de janeiro de 1958"
+  },
+  "70": {
+    "title": "A verdade, a libertadora",
+    "content": "Como a verdade nos torna livres é algo que nós AAs podemos compreender bem. Ela cortou os grilhões que nos prendiam ao álcool. Continua a nos livrar dos incalculáveis conflitos e misérias; ela acaba com o medo e com o sofrimento. A unidade de nossa Irmandade, o amor que temos uns pelos outros, a estima que o mundo tem por nós – tudo isso é produto da verdade que, sob a graça de Deus, tivemos o privilégio de perceber. * * * Como e quando dizemos a verdade – ou ficamos em silêncio – pode quase sempre mostrar a diferença entre a presença da verdadeira integridade e a falta dela. 31 http://slidepdf.com/reader/full/na-opiniao-do-bill 31/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com O Passo Nove enfaticamente nos previne contra o mau uso da verdade, quando declara: \\\"Fizemos reparações diretas a essas pessoas, sempre que possível, exceto quando fazê-lo viesse prejudicá-las ou a outras pessoas\\\". Pelo fato da verdade poder ser usada, tanto para prejudicar como para ajudar, esse valioso princípio certamente tem a ampla aplicação ao problema do desenvolvimento da integridade. Grapevine de agosto de 1961"
+  },
+  "71": {
+    "title": "\"Como você pode suportar um golpe?\"",
+    "content": "No dia em que a calamidade de Pearl Harbor caiu sobre os Estados Unidos, um grande amigo de A.A., o padre Edward Dowling, que não era alcoólico mas tinha sido um dos fundadores do esforçado grupo de A.A., em St. Louis, estava passando por uma rua dessa cidade. Como muitos de seus amigos geralmente sHóabrrbioosr, joá ptiavderses eEmd beesbtaivdao apnagrau setsiaqduoe cceor mas o i mpepnliscaamçõeensto d doe d qeusaes streeu dqeu ePreiadrol grupo de A.A. provavelmente fizesse o mesmo. Então um membro, sóbrio há menos de um ano, se pôs a caminhar junto e entabulou com o padre Ed uma animada conversa – principalmente a respeito de A.A. O padre Ed viu, com alívio, que seu companheiro estava perfeitamente sóbrio. \\\"Como é que você não tem nada a dizer sobre Pearl Harbor? Como você pode suportar semelhante golpe?\\\" \\\"Bem\\\", respondeu o novato, \\\"cada um de nós em A.A. já teve seu Pearl Harbor particular. Logo, por que deveríamos nós, bêbados, nos sentir derrotados com esse golpe?\\\" Grapevine de janeiro de 1962"
+  },
+  "72": {
+    "title": "Dependência – Doentia ou saudável",
+    "content": "\\\"Nada pode ser mais desmoralizador do que uma dependência servil e exagerada de um outro ser humano. Isso muitas vezes significa a exigência de um grau de proteção e amor que ninguém poderia possivelmente satisfazer. Assim sendo, aqueles que esperamos que sejam nossos protetores finalmente fogem e uma vez mais somos deixados sozinhos para nos desenvolver ou nos desintegrar\\\". * * * Descobrimos que o próprio Deus sem dúvida é a melhor fonte de estabilidade emocional. Descobrimos que a dependência de Sua perfeita justiça, perdão e amor era saudável e que funcionaria quando nada mais funcionasse. Se realmente dependíamos de Deus, não poderíamos bancar o Deus para nossos semelhantes e nem sentiríamos a necessidade de depender totalmente da proteção e dos cuidados humanos. 1 – Carta de 1966 2 – Os Doze Passos, pág. 103 32 http://slidepdf.com/reader/full/na-opiniao-do-bill 32/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "73": {
+    "title": "Tolerância dos dois lados",
+    "content": "\\\"Seu ponto de vista outrora foi meu. Felizmente, A.A. está edificado de tal modo que não precisamos discutir a existência de Deus; mas para conseguir melhores resultados, a maioria de nós deve depender de um Poder Superior. Você diz que o grupo é seu Poder Superior, e nenhum A.A. bem-intencionado desafiaria seu privilégio de crer precisamente desse modo. Nós todos deveríamos estar contentes com as boas recuperações que podem ser feitas, mesmo nessa base limitada. \\\"Mas carrossel gira sempre no mesmo sentido. Se você esperasse tolerância para seu ponto de vista, tenho certeza de que estaria disposto a ser recíproco. Tento me lembrar que, com o passar dos séculos, grande número de pessoas muito mais brilhantes do que eu encontraram os dois lados desse debate a respeito da crença. Para mim, nos últimos anos, estou achando muito mais fácil acreditar qCuaer tDa edues 1 f9e5z0 o homem e não que o homem fez Deus\\\"."
+  },
+  "74": {
+    "title": "Rompa as paredes do ego",
+    "content": "As pessoas que são impulsionadas pelo orgulho, inconscientemente não enxergam seus defeitos. Os recém-chegados desse tipo certamente não precisam de consolo. O problema é ajudá-los a descobrir uma trinca nas paredes construídas pelo seu ego, através da qual a luz da razão possa brilhar. * * * Adquirir uma humildade maior é o princípio fundamental de cada um dos Doze Passos de A.A., pois sem um certo grau de humildade, nenhum alcoólico pode permanecer sóbrio. Quase todos os AAs descobriram, também, que a não ser que desenvolvam essa preciosa qualidade, muito mais do que a necessária para se obter a sobriedade, ainda não têm muita probabilidade de virem a ser verdadeiramente felizes. Sem ela não podem viver com um propósito útil ou, nas horas difíceis, apelar para a fé que pode enfrentar qualquer emergência. 1 – Os Doze Passos, pág. 37 2 – Os Doze Passos, pág. 60"
+  },
+  "75": {
+    "title": "Perda de medos financeiros",
+    "content": "Quando um trabalho era apenas um meio de obter dinheiro, ao invés de uma oportunidade para servir, quando a aquisição de dinheiro para a garantia de nossa independência financeira era mais importante do que uma total dependência de Deus, éramos vítimas de medos descabidos. E esses eram medos que tornariam impossível uma existência serena e útil, em qualquer nível financeiro. Mas com o passar do tempo, descobrimos que com a ajuda dos Doze Passos de A.A. poderíamos perder esses medos, não importando quais fossem nossas 33 http://slidepdf.com/reader/full/na-opiniao-do-bill 33/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com possibilidades materiais. Poderíamos com alegria executar tarefas humildes, sem nos preocupar com o amanhã. Se as coisas iam bem, já não receávamos uma mudança para pior, pois havíamos aprendido que nossos problemas poderiam ser transformados em valores positivos, tanto para nós como para os outros. Os Doze Passos, págs. 107 e 108"
+  },
+  "76": {
+    "title": "Só Deus é imutável",
+    "content": "\\\"A mudança é a característica de todo crescimento. Da bebida à sobriedade, da desonestidade à honestidade, do conflito à serenidade, do ódio ao amor, da dependência infantil à responsabilidade adulta – tudo isso e muito mais representam mudança para melhor. \\\"Essas mudanças são realizadas por meio da crença e da prática de princípios saudáveis. Para isso, precisamos nos desfazer de princípios maus ou ineficientes pemod efmav oàsr vdeozse sb osenrs spurbisntcitíupíidooss, pqeulea pdreoscdoubzeermta rdees uolutatrdooss a. iAndtaé mboenlhso prersin.cípios \\\"Só Deus é imutável; somente Ele tem todas as verdades que existem\\\". Carta de 1966"
+  },
+  "77": {
+    "title": "Por favor responda – Sim ou Não?",
+    "content": "Geralmente não evitamos um lugar onde haja bebida – se temos uma verdadeira razão para estar lá. Isso inclui bares, clubes noturnos, bailes, recepções, casamentos, até simples festinhas. Você vai notar que incluímos uma importante restrição. Assim, pergunte a você mesmo: \\\"Tenho alguma boa razão social, comercial ou pessoal para ir a esse lugar? Ou espero roubar um pouco de prazer vicário do ambiente?\\\" Então, vá ou se afaste, de acordo com o que lhe parecer melhor. Mas, antes de decidir, esteja certo de que sua base espiritual é sólida e de que seu motivo para ir é bom. Não pense no que você vai obter na ocasião. Pense no que você possa levar. Se não estiver firme, talvez seja melhor você trabalhar com um outro alcoólico! Alcoólicos Anônimos, págs. 112 e 113"
+  },
+  "78": {
+    "title": "Restabelecendo uma ligação",
+    "content": "No decorrer do dia podemos fazer uma pausa, quando situações devam ser enfrentadas, decisões tomadas e renovado o simples pedido: \\\"Seja feita Tua vontade, não a minha.\\\" Nos momentos de grande perturbação emocional, com certeza vamos manter nosso equilíbrio, desde que lembremos e repitamos para nós mesmos uma oração ou frase que, particularmente, nos tenha agradado em nossa leitura ou meditação. Apenas dizê-la repetidamente, muitas vezes nos torna capazes de restabelecer uma ligação, interrompida pela raiva, medo, frustração ou desentendimento, e nos permite voltar à mais segura de todas as ajudas – nossa procura da vontade de Deus, não da nossa, no momento de tensão. 34 http://slidepdf.com/reader/full/na-opiniao-do-bill 34/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Os Doze Passos, págs. 89 e 90"
+  },
+  "79": {
+    "title": "De quem é a responsabilidade?",
+    "content": "\\\"Um grupo de A.A., como tal, não pode cuidar de todos os problemas pessoais de seus membros, muito menos das pessoas não-alcoólicas que nos cercam. O grupo de A.A. não é, por exemplo, um mediador das relações domésticas, nem fornece ajuda financeira a ninguém. \\\"Embora o membro possa às vezes ser auxiliado nesses assuntos por seus amigos em A.A., a principal responsabilidade para solucionar todos os seus problemas de viver e crescer recai sobre ele mesmo. Se um grupo de A.A. desse essa espécie de ajuda, sua eficiência e energia seriam irremediavelmente dissipadas. \\\"É por isso que a sobriedade – libertação do álcool – através dos ensinamentos e dapae pgraártmicoas d ao ess Dseo pzrei nPcaíspsioo sc adred Ain.aAl,. ,é éq uoa úsen icceor tpor qoupeó seintotr adroe mgrousp eom. S ceo lnaãpos on. oEs se entrarmos em colapso, não podemos ajudar ninguém.\\\" Carta de 1966"
+  },
+  "80": {
+    "title": "Débitos e créditos",
+    "content": "De acordo com uma tagarelice de beberrão, podemos fazer a nós mesmos estas perguntas: Por que dissemos essas coisas? Estávamos apenas tentando ser úteis e procurando informar? Ou estávamos tentando nos sentir superiores, confessando os erros do outro companheiro? Ou estávamos realmente procurando prejudicá- lo, por temor ou antipatia?\\\" Isso seria uma tentativa honesta de examinar a nós mesmos, em vez de examinar o outro companheiro. * * * Nem sempre o resultado do inventário está escrito com tinta vermelha. Na verdade, é um dia ruim aquele em que não fazemos alguma coisa boa. Aliás, as horas de lazer são geralmente preenchidas com coisas construtivas. Temos boas intenções, bons pensamentos e boas ações. Mesmo que tenhamos tentado firmemente e falhado, podemos considerar o fato como dos mais positivos. 1 – Grapevine de agosto de 1961 2 – Os Doze Passos, pág."
+  },
+  "81": {
+    "title": "Egoísta",
+    "content": "\\\"Compreendo o motivo pelo qual você se espanta ao ouvir alguns oradores de A.A. dizerem: 'Nosso programa é um programa egoísta.' A palavra egoísta geralmente significa que se é ambicioso, exigente e indiferente ao bem-estar dos outros. Claro que o modo de vida de A.A. não apresenta esses traços indesejáveis. 35 http://slidepdf.com/reader/full/na-opiniao-do-bill 35/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"O que querem dizer esses oradores? Bem, qualquer teólogo lhe dirá que a salvação de sua própria alma é a mais alta aspiração que um homem pode ter. Logo, sem salvação – podemos definir assim – ele terá pouco ou nada. Para nós de A.A. a urgência é ainda maior. \\\"Se não podemos ou não queremos alcançar a sobriedade, então estamos desde já verdadeiramente perdidos. Não temos valor para ninguém, nem para nós mesmos, até nos libertar do álcool. Logo, nossa própria recuperação e crescimento espiritual têm que vir em primeiro lugar – uma justa e necessária espécie de preocupação com nós mesmos.\\\" Carta de 1966"
+  },
+  "82": {
+    "title": "As dificuldades tornam-se uma vantagem",
+    "content": "\\\"Penso que essa Conferência de Serviços Gerais, em particular, promete e tem aeslcsaasn çdaifdiocu pldroadgeres snsuom, ap ovraqnutaeg eelma , actrreasvceimsseonut od eif nicuumldaa gdreasn.d Ee perloam treasnsas.formou \\\"A.A. nasceu da dificuldade, uma das mais sérias dificuldades que pode acontecer a um indivíduo, o problema criado por essa sombria e fatal doença do alcoolismo. Cada um de nós se aproximou de A.A. cheio de dificuldades, com um problema impossível e desesperador. E foi por isso que viemos. \\\"Se essa Conferência era agitada, se os indivíduos estavam profundamente perturbados – eu digo: 'Isso é ótimo'. Que parlamento, que república, que democracia que não foi perturbado? O atrito de pontos de vista opostos é o próprio 'modus operandi' sobre o qual eles atuam. Então do que deveríamos ter medo?\\\" Palestra de 1958"
+  },
+  "83": {
+    "title": "Não podemos viver sozinhos",
+    "content": "Todos os Doze Passos de A.A. nos pedem para irmos contra nossos desejos naturais; todos eles reduzem nosso ego. Quando se trata da redução do ego, poucos Passos são mais duros de aceitar do que o Quinto. Dificilmente qualquer um deles é mais necessário à sobriedade prolongada e à paz de espírito. A experiência de A.A. nos ensinou que não podemos viver sozinhos com os problemas que nos pressionam e com os defeitos de caráter que os causam ou agravam. Se passarmos o holofote do Passo Quatro sobre nossas vidas, e se ele mostrar, para nosso alívio, aquelas experiências que preferimos não lembrar, então se torna mais urgente do que nunca desistirmos de viver sozinhos com aqueles atormentadores fantasmas do passado. Temos que falar deles para alguém. * * * Não podemos depender totalmente dos amigos para resolver todas as nossas dificuldades. Um bom conselheiro nunca pensará em tudo, por nós. Ele sabe que a escolha final deve ser nossa. Entretanto, ele pode ajudar a eliminar o medo, 36 http://slidepdf.com/reader/full/na-opiniao-do-bill 36/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com oportunismo e a ilusão, tornando-nos capazes de fazer escolhas afetuosas, prudentes e honestas. 1 – Os Doze Passos, pág. 45 2 – Grapevine de agosto de 1961"
+  },
+  "84": {
+    "title": "Benefícios da responsabilidade",
+    "content": "\\\"Felizmente as despesas de A.A. por pessoa são muito pequenas. Deixarmos de atendê-las seria fugir a uma responsabilidade que nos beneficia. \\\"Muitos alcoólicos têm dito que nunca tiveram dificuldades que o dinheiro não resolvesse. Nós somos um grupo que, quando bebíamos, sempre estendíamos a mão em busca de auxílio. Então, quando começamos a pagar nossas próprias contas, isso constitui uma mudança saudável.\\\" * * * \\\"RPeosrt acvaau sua mdaa bbeebliad ac,a msae u– a cmoimgo uHmena ryd epsepredseau utrmês e mvepzreesg om daei osra ládroio q euleev saeduos. reduzidos ganhos. \\\"Ele poderia ter alugado a casa, por uma quantia suficiente, a fim de se sustentar. Mas não! Henry disse que sabia que Deus o queria morando ali e Ele daria um jeito de serem pagas as contas. Assim, ele continuou amontoando dívidas e cheio de fé. Não foi surpresa quando finalmente os credores se apossaram da casa. \\\"Henry hoje ri disso, pois aprendeu que Deus ajuda muito mais àqueles que estão dispostos a se ajudar.\\\" 1 – Carta de 1960 2 – Carta de 1966"
+  },
+  "85": {
+    "title": "A vida não é um beco sem saída",
+    "content": "Quando um homem ou uma mulher tem um despertar espiritual, o mais importante significado disso é que ele se tornou agora capaz de fazer, sentir e acreditar naquilo que ele não poderia antes fazer sozinho, sem ajuda, com seus próprios recursos e força. A ele foi concedida uma dádiva, que leva a um novo estado de consciência e a uma nova vida. A ele foi indicado um caminho, que lhe mostra que está indo em direção a uma meta, que a vida não é um beco sem saída, nem algo a ser suportado ou dominado. Na verdade ele se transformou, porque se agarrou a uma fonte de energia, da qual até agora havia se privado. Os Doze Passos, págs. 94 e 95"
+  },
+  "86": {
+    "title": "Oportunidade de se melhorar",
+    "content": "Chegamos a acreditar que os Passos e as Tradições de A.A., para recuperação, representam praticamente as verdades que precisamos para nosso propósito particular. Quanto mais os praticamos mais gostamos deles. Assim sendo, é 37 http://slidepdf.com/reader/full/na-opiniao-do-bill 37/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com quase certo que os princípios de A.A. continuarão a ser defendidos em sua forma atual. Se nossos fundamentos estão assim fixados, o que resta então para mudar ou melhorar? A resposta nos ocorrerá imediatamente. Embora não precisemos alterar nossas verdades, podemos seguramente melhorar sua aplicação para nós mesmos, para A.A. como um todo e para nossas relações com o mundo a nosso redor. Sempre podemos melhorar a prática \\\"desses princípios em todas as nossas atividades.\\\" Grapevine de fevereiro de 1961"
+  },
+  "87": {
+    "title": "A pedra fundamental do arco do triunfo",
+    "content": "Tendo enfrentado a destruição alcoólica, chegamos a ter a mente aberta, em relação às coisas espirituais. A esse respeito, o álcool era muito persuasivo. Ele finalmente nos derrota obrigando-nos *a r*a *ciocinar. Tivemos que deixar de fazer o papel de Deus. Isso não funcionou. Decidimos que dali por diante, nesse drama da vida, Deus ia ser nosso Diretor. Ele seria o Principal: nós, Seus agentes. As idéias, em sua maioria, são simples, e esse conceito constituiu a pedra fundamental do novo arco do triunfo, através do qual passamos à liberdade. Alcoólicos Anônimos 1 – pág. 68 2 – pág. 81"
+  },
+  "88": {
+    "title": "Força de vontade e escolha",
+    "content": "\\\"Nós, AAs, sabemos que é inútil tentar destruir a obsessão de beber só pela força de vontade. Entretanto, sabemos que é preciso uma grande vontade para adotar os Doze Passos de A.A. como um modo de vida que pode nos devolver a sanidade.\\\" \\\"Qualquer que seja a gravidade da obsessão pelo álcool, felizmente descobrimos que ainda podem ser feitas outras escolhas vitais. Por exemplo, podemos admitir que somos impotentes pessoalmente perante o álcool; que a dependência de um \\\"Poder Superior\\\" é uma necessidade, mesmo que esta seja simplesmente uma dependência de um grupo de A.A. Então podemos preferir tentar uma vida de honestidade e humildade, fazendo um serviço desinteressado para nossos companheiros e para 'Deus como nós O concebemos'. \\\"Conforme continuamos fazendo essas escolhas e assim indo em busca dessas altas aspirações, nossa sanidade volta e desaparece a compulsão para beber.\\\" Carta de 1966"
+  },
+  "89": {
+    "title": "Rever o dia",
+    "content": "38 http://slidepdf.com/reader/full/na-opiniao-do-bill 38/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Quando nos deitamos, à noite, revemos construtivamente nosso dia. Ficamos magoados, fomos egoístas, desonestos ou medrosos? Devemos uma satisfação a alguém? Estamos guardando algo em segredo, que deveria ser discutido logo com uma outra pessoa? Fomos amáveis e afetuosos com todos? O que poderíamos ter feito melhor? Estivemos pensando em nós mesmos a maior parte do tempo? Ou estivemos pensando no que poderíamos fazer pelos outros, no que poderíamos fazer para melhorar a vida? Devemos ter o cuidado de não nos deixar abater pela preocupação, remorso ou reflexão mórbida, pois isso diminuiria nossa utilidade em relação a nós mesmos e aos outros. Após fazer nossa revisão, pedimos perdão a Deus e perguntamos quais as medidas corretivas que deveriam ser tomadas. Alcoólicos Anônimos, pág. 100"
+  },
+  "90": {
+    "title": "Quase sem exceção, os alcVoeórli cdoessa spãaor etocretru raa sdoolsid pãeola solidão. Mesmo antes de",
+    "content": "nossas bebedeiras se tornarem graves e as pessoas começarem a se afastar de nós quase todos sofremos a sensação de estarmos sós. Ou éramos tímidos e não nos atrevíamos a nos aproximar dos outros, ou éramos capazes de ser bons sujeitos, sempre desejando ardentemente a atenção e o companheirismo, mas raramente conseguindo. Sempre existia aquela barreira misteriosa que não conseguíamos vencer nem entender. Essa é uma das razões pela qual amávamos tanto o álcool. Mas até Baco nos traiu; ficamos finalmente arrasados e caímos numa terrível solidão. * * * A vida adquire um novo sentido em A.A. Ver pessoas se recuperarem, vê-los ajudarem os outros, ver desaparecer a solidão, ver crescer uma fraternidade ao redor de você, ter um grande número de amigos – essa é uma experiência que não deve ser perdida. 1 – Os Doze Passos, pág. 47 2 – Alcoólicos Anônimos, pág. 103"
+  },
+  "91": {
+    "title": "Coragem e prudência",
+    "content": "Quando o medo persistiu, nós já o conhecíamos e fomos capazes de lidar com ele. Começamos a ver cada adversidade como uma oportunidade enviada por Deus para desenvolver a espécie de coragem que nasce da humildade, não do desafio. * * * A prudência é um terreno trabalhável, um canal de navegação seguro entre os obstáculos do medo de um lado e descuido do outro. A prudência na prática cria um clima definido, o único clima em que harmonia, eficiência e progresso espiritual firmes podem ser conseguidos. * * * \\\"A prudência é o interesse racional sem preocupação.\\\" 39 http://slidepdf.com/reader/full/na-opiniao-do-bill 39/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com 1 – Grapevine de janeiro de 1962 2 – Doze Conceitos para Serviços Mundiais, pág. 66 3 – Palestra de 1966"
+  },
+  "92": {
+    "title": "A caminho da serenidade",
+    "content": "\\\"Quando eu estava cansado e não podia me concentrar, costumava tomar uma atitude na vida, que simplesmente consistia em andar e respirar profundamente. Às vezes eu dizia a mim mesmo que eu não poderia nem sequer fazer isso, de tão fraco que estava. Mas aprendi que esse era o ponto em que não poderia me entregar, ficando ainda mais deprimido. \\\"Assim sendo estabeleceria um limite para mim mesmo. Determinaria andar um quarto de milha. E me concentraria, contando minha respiração – isto é, seis passos para cada inspiração vagarosa e quatro para cada expiração. Tendo amnadiasd. oD eop qouisa rotuot rdae mmeiilah am, idlhesac eo btarliv qeuze u pmoad eoruitar ac.ontinuar, talvez meia milha ou \\\"Isso foi animador. A falsa sensação de fraqueza física desapareceu (essa sensação é característica da depressão). O andar e especialmente a respiração foram poderosas afirmações de vida, afastando o fracasso e a morte. A contagem representou uma disciplina mínima em concentração, para obter um certo descanso do desgaste produzido pelo medo e pelo sentimento de culpa.\\\" Carta de 1960"
+  },
+  "93": {
+    "title": "Atmosfera de graça",
+    "content": "Aqueles de nós, que se acostumaram a fazer uso regular da oração, não seriam mais capazes de passar sem ela, como não passariam sem ar, o alimento ou a luz do sol. E pela mesma razão, quando ficamos sem ar, luz ou alimento, o corpo sofre. E quando nos afastamos da meditação e da oração, estamos privando nossas mentes, nossas intuições do apoio vitalmente necessário. Da mesma forma que o corpo, a alma pode deixar de funcionar por falta de alimentação. Todos precisamos da luz da realidade de Deus, do alimento de Sua força e da atmosfera de Sua graça. Os fatos da vida de A.A. confirmam de maneira surpreendente essa verdade eterna. Os Doze Passos, págs. 84 e 95"
+  },
+  "94": {
+    "title": "\"... em todas as nossas atividades\"",
+    "content": "\\\"O propósito primordial de A.A. é o da sobriedade. Todos nós compreendemos que sem a sobriedade não temos nada. \\\"Entretanto, é possível expandir essa simples meta a uma grande quantidade de contra-senso, na medida em que o membro, individualmente, esteja interessado. De fato, às vezes ouvimos alguém dizer: 'A sobriedade é minha única responsabilidade. Afinal de contas, sou um sujeito muito bom, a não ser minhas bebedeiras, Dê-me a sobriedade, e o resto é desnecessário!' 40 http://slidepdf.com/reader/full/na-opiniao-do-bill 40/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Já que nosso amigo se agarra a essa cômoda desculpa, ele vai progredir tão pouco em relação a seus verdadeiros problemas e responsabilidades da vida que estará a caminho de se embriagar novamente. Isso é por que o Décimo Segundo Passo de A.A. sugere que 'pratiquemos estes princípios em todas as nossas atividades'. Não estamos vivendo somente para estar sóbrios; estamos vivemos para aprender para servir e para amar.\\\" Carta de 1966"
+  },
+  "95": {
+    "title": "Jardim de infância espiritual",
+    "content": "\\\"Estamos apenas pondo em funcionamento um jardim de infância espiritual, no qual as pessoas estão capacitadas a parar de beber e a encontrar a graça de continuar vivendo bem. A teologia de cada um tem que ser sua própria busca, seu próprio assunto.\\\" Quando o Livro Grande estava sendo* p *la *nejado, alguns membros acharam que ele deveria ser cristão no sentido doutrinal. Outros não tinham nenhuma objeção quanto ao uso da palavra \\\"Deus\\\", mas queriam evitar assuntos doutrinários. Espiritualmente, sim. Religião não. Outros ainda queriam um livro psicológico que atraísse o alcoólico. Uma vez que estivesse conosco, ele poderia aceitar Deus ou não, como quisesse. Para nós essa era uma proposta chocante, mas felizmente ouvimos. A consciência de nosso grupo começou a funcionar para se fazer o livro, o mais aceitável e eficiente possível. Cada parecer representava uma contribuição. Nossos ateístas e agnósticos abriram nossa porta de entrada para que todos aqueles que sofrem pudessem entrar por ela, independente de sua crença. 1 – Carta de 1954 2 – A.A. Atinge a Maioridade, págs. 145, 146 e 149"
+  },
+  "96": {
+    "title": "Quando os defeitos não chegam a ser mortais",
+    "content": "Praticamente todos querem se livrar de suas dificuldades mais visíveis e destrutivas. Ninguém quer ser tão orgulhoso, a fim de que seja desprezado como um fanfarrão, nem tão ambicioso, a fim de que seja chamado de ladrão. Ninguém quer ter raiva suficiente para chegar ao homicídio, nem ser sensual o suficiente para violentar e nem ser guloso o suficiente para prejudicar a saúde. Ninguém quer sofrer a crônica dor da inveja ou se acomodar na preguiça. É claro que os homens, em sua maioria, não têm esses defeitos a níveis tão altos, e nós que escapamos desses extremos, somos capazes de nos felicitar. Mas podemos? Afinal de contas, não foi o interesse próprio, que fez com que a maioria de nós escapasse? Não é preciso muito esforço espiritual para evitar os excessos que, de alguma forma, nos punem. Mas quando encaramos os aspectos menos violentos desses mesmos defeitos, daí em que pé ficamos? Os Doze Passos, pág. 56 41 http://slidepdf.com/reader/full/na-opiniao-do-bill 41/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "97": {
+    "title": "Respeito próprio através do sacrifício",
+    "content": "No princípio sacrificamos o álcool. Tivemos que fazê-lo, ou ele nos teria matado. Mas não poderíamos nos libertar do álcool, a menos que fizéssemos outros sacrifícios. Os extremismos e os falsos pensamentos tiveram que desaparecer. Tivemos que atirar pela janela a auto-justificação, a auto-piedade e a raiva. Tivemos que nos livrar da competição louca, em busca do prestígio pessoal e grandes saldos bancários. Tivemos que assumir a responsabilidade pelo nosso estado lamentável e deixar de culpar os outros por isso. Foram realmente sacrifícios? Sim, foram. Para obter suficiente humildade e respeito próprio, a fim de permanecer vivos, tivemos que abandonar o que tinha realmente sido nossa possessão mais querida – nossa ambição e nosso orgulho ilegítimos. A.A. Atinge a Maioridade, pág. 256"
+  },
+  "98": {
+    "title": "A raiva – inimiga da pessoa e do grupo",
+    "content": "\\\"Como inserido no livro 'Alcoólicos Anônimos', 'o ressentimento é o principal ofensor'. Ele é uma das causas principais das recaídas. Sabemos bem, nós de A.A., que para nós 'beber significa caminhar em direção à loucura'. \\\"O mesmo perigo ameaça todos os grupos de A.A. Se existe bastante raiva, a unidade e o propósito estão perdidos. Se também existe muita indignação 'justificada', o 'grupo' pode se desintegrar; ele pode até morrer. É por isso que evitamos controvérsia. É por isto que não prescrevemos castigos para os erros, não importa sua gravidade. Na verdade nenhum alcoólico, por nenhuma razão, pode ser privado de sua filiação. \\\"Castigo não cura nunca. Só o amor pode curar.\\\" Carta de 1966"
+  },
+  "99": {
+    "title": "\"Aquele que recai\" precisa de compreensão",
+    "content": "\\\"As recaídas podem muitas vezes ser decorrentes da revolta: alguns de nós são mais rebeldes do que outros. As recaídas podem ser causadas pela ilusão de que o indivíduo pode 'curar-se' do alcoolismo. As recaídas também podem ser decorrentes do descuido e da complacência. Muitos de nós não conseguem se manter sóbrios nessa fase. As coisas vão bem durante dois ou três anos – depois o membro desaparece. Alguns de nós sofrem de um grande sentimento de culpa, por causa de vícios ou atos que não podem ou não querem evitar. Ainda concorrem para as recaídas o fato de não perdoar a si mesmo e orar pouco – bem, essa é uma combinação que provoca recaídas. \\\"Então alguns de nós são muito mais prejudicados pelo álcool do que outros. Outros ainda se deparam com uma série de calamidades e não parecem ter recursos espirituais para enfrentá-las. Existem alguns que são fisicamente doentes. Outros são mais ou menos sujeitos a freqüentes cansaços, ansiedades e 42 http://slidepdf.com/reader/full/na-opiniao-do-bill 42/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com depressão. Essas condições muitas vezes desempenham papel importante nas recaídas – às vezes controlam totalmente a pessoa.\\\" Palestra de 1960"
+  },
+  "100": {
+    "title": "A montanha esquecida",
+    "content": "Quando eu era criança, adquiri alguns traços de caráter que se relacionavam com meu insaciável desejo de beber. Cresci numa cidadezinha, em Vermont, à sombra de uma montanha chamada Monte Aeolus. Uma das minhas recordações foi quando estava observando aquela enorme e misteriosa montanha e me perguntando o que ela era e se algum dia eu subiria tão alto. Mas fui logo distraído pela minha tia que, como presente de meu quarto aniversário, trouxe- me chocolate. Durante os trinta e cinco anos seguintes, persegui os chocolates da vida e me esqueci totalmente da montanha. Quando o comodismo não chega a se*r *p *rejudicial, lhes damos um nome mais brando. Chamamos isto de \\\"desfrutar de um certo conforto.\\\" 1 – A atinge a maioridade, pág.48 2 – Os Doze Passos, pág. 57"
+  },
+  "101": {
+    "title": "\"O lado espiritual\"",
+    "content": "Com muita freqüência, quando estamos em reuniões de A.A., ouvimos o orador declarar: \\\"Eu ainda não tenho o lado espiritual.\\\" Antes de fazer essa declaração, ele descreveu um milagre de transformação que lhe ocorreu – não só sua libertação do álcool, mas uma mudança completa em todas as suas atitudes em referencia a vida e a forma de vivê-la. É evidente para todos os que estão presentes que ele recebeu uma dádiva especial, e que essa dádiva está além daquilo que possa ser esperado da simples participação de A.A. Assim, nós da audiência sorrimos e dizemos a nós mesmos: \\\"Bem, esse companheiro está transbordando espiritualmente – só que ele ainda não sabe disso.\\\" Grapevine de julho de 1962"
+  },
+  "102": {
+    "title": "Conversas que curam",
+    "content": "Quando pedimos orientação a um amigo em A.A., não deveríamos deixar de lhe lembrar nossa necessidade de completo sigilo. A comunicação íntima é normalmente tão livre e fácil entre nós que um A.A. ao orientar, pode algumas vezes esquecer, quando esperamos que ele guarde segredo. A santidade protetora dessas relações humanas que tantas curas faz, nunca deveria ser violada. Essas comunicações privilegiadas tem vantagens incalculáveis. Encontramos nelas a perfeita oportunidade para ser totalmente honestos. Não temos que pensar na possibilidade de prejudicar outras pessoas, nem precisamos 43 http://slidepdf.com/reader/full/na-opiniao-do-bill 43/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com temer o ridículo ou a condenação. Aqui também temos a melhor oportunidade possível de identificar a auto-ilusão. Grapevine de agosto de 1961"
+  },
+  "103": {
+    "title": "O princípio acima da conveniência",
+    "content": "A maioria de nós achava que um bom caráter era desejável. Obviamente bom caráter era algo que se ia precisar para estar satisfeito consigo mesmo. Com uma certa disposição de honestidade e moralidade, teríamos uma melhor oportunidade de obter o que realmente queríamos. Mas sempre que tínhamos que escolher entre o caráter e o conforto, a formação do caráter se perdia na poeira de nossa corrida atrás daquilo que achávamos ser felicidade. Raramente encarávamos a formação do caráter como sendo uma coisa desejável em si mesmo. Nunca nos ocorreu fazer da honestidade, da tolerância e do verdadeiro amor ao próximo e a Deus,* a * b *ase do viver cotidiano. Como transformar a convicção mental correta num resultado emocional correto, e assim numa vida feliz e satisfatória, é o problema da própria vida. 1 – Os Doze Passos, págs. 62 e 63 2 – Grapevine de janeiro de 1958"
+  },
+  "104": {
+    "title": "Nosso novo empregador",
+    "content": "Tínhamos um novo Empregador. Sendo todo-poderoso, Ele proporcionou o que precisávamos, se ficássemos perto d'Ele e executássemos bem Seu trabalho. Desse modo nos tornamos cada vez menos interessados em nós mesmos, em nossos pequenos planos e projetos. Cada vez mais nos interessamos em ver de que forma poderíamos contribuir para a vida. Ao sentir uma nova força apoderar-se de nós, ao desfrutar da paz de espírito, ao descobrir que poderíamos enfrentar a vida com êxito, ao ficar conscientes de Sua presença, começamos a perder nosso medo do hoje, do amanhã e do futuro. Nascemos de novo. Alcoólicos Anônimos, pág.81"
+  },
+  "105": {
+    "title": "Siga adiante",
+    "content": "Gastar tempo demais com um único alcoólico é negar a um outro a oportunidade de viver e ser feliz. Um membro de nossa irmandade fracassou completamente com seus primeiros seis candidatos. Freqüentemente diz que, se tivesse continuado a trabalhar com eles, poderia ter privado de sua chance muitos outros que desde então se recuperaram. * * * Nossa principal responsabilidade com o recém-chegado é a de lhe fazer uma apresentação adequada do programa. Se ele não quer saber de nada ou argumenta, não fazemos nada, mas mantemos nossa própria sobriedade. Se ele 44 http://slidepdf.com/reader/full/na-opiniao-do-bill 44/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com começa a ir para a frente, mesmo que seja um pouco, com a mente aberta, então fazemos todo o possível para ajudá-lo. Alcoólicos Anônimos, pág. 109 Carta de 1942"
+  },
+  "106": {
+    "title": "A humildade \"perfeita\"",
+    "content": "Por mim mesmo, tentei encontrar a definição mais verdadeira de humildade que posso. Essa não será a definição perfeita porque serei sempre imperfeito. Nesse artigo, escolheria uma como esta: \\\"A humildade absoluta consistiria num estado de completa libertação de mim mesmo, libertação de todas as exigências que meus defeitos de caráter atualmente lançam em peso sobre mim. A humildade perfeita seria uma total boa vontade, em todas as épocas e lugares, de reconhecer e fazer a vontade de Deus. Qatiunagnidreoi , pneenms op renceisssoe mide eeanlc, hneãr od ep prreecsiuson çãfoic adre qduees aanlgimumad odi ap aolrcqauneç anreuin tcoad aos essas virtudes. Preciso apenas me concentrar na visão da própria humildade, esperando que ela cresça e encha meu coração. Isso feito, posso compará-la a meu último inventário pessoal. Então, obtenho uma saudável idéia de onde me encontro no caminho da humildade. Vejo que minha caminhada em direção a Deus apenas começou. À medida que me reduzo ao meu verdadeiro tamanho, me fazem rir a importância e o interesse por mim mesmo. Grapevine de julho de 1961"
+  },
+  "107": {
+    "title": "Duas espécies de orgulho",
+    "content": "O farisaísmo das \\\"pessoas boas\\\" pode com freqüência ser tão destrutivo como os pecados visíveis daqueles que supostamente não são tão bons. * * * Gostávamos de falar bem alto sobre o terrível fato de milhões dos \\\"bons homens da religião\\\" estarem ainda matando uns aos outros em nome de Deus. Tudo isto significava, é claro, que tínhamos substituído pensamentos positivos por pensamentos negativos. Depois de chegar em A.A., tivemos que reconhecer que essa característica alimentava nosso ego. Repisando os pecados de algumas pessoas religiosas, podíamos nos sentir superiores a todas elas. Além do mais, podíamos deixar de olhar para algumas de nossas próprias imperfeições. O farisaísmo, justamente o que havíamos condenado com desdém nos outros, era nosso grande mal. Essa falsa forma de respeitabilidade foi nossa desgraça, no tocante à fé. Mas finalmente, impelidos ao A.A., aprendemos o melhor. 1 – Grapevine de agosto de 1961 2 – Os Doze Passos, págs. 21 e 22"
+  },
+  "108": {
+    "title": "45",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 45/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Aprender em silêncio Em 1941, um membro de New York chamou nossa atenção para um recorte de jornal. Tratava-se de uma notícia da seção de necrologia de um jornal local, onde apareciam as seguintes palavras: \\\"Concedei-me Senhor, a serenidade necessária para aceitar as coisas que não posso modificar, coragem para modificar aquelas que posso e sabedoria para distinguir umas das outras. Nunca tínhamos visto tanto de A.A. em tão poucas palavras. Com uma velocidade surpreendente a Oração da Serenidade chegou ao uso geral. * * * Na meditação não há lugar para o debate. Descansamos sossegadamente com os pensamentos ou orações das pessoas espiritualmente concentradas e com conhecimento, para que possamos sentir e aprender. Esse é o estado de espírito que com tanta freqüência descobre e aprofunda um contato consciente com Deus. 12 –– AO.sA D. oAztei nPgaes sao Ms, apiáogri.d 9a1de, págs. 174 e 175"
+  },
+  "109": {
+    "title": "Liberdade através da aceitação",
+    "content": "Admitimos que não poderíamos vencer o álcool, com os recursos que ainda nos restavam, e assim aceitamos o fato de que a dependência de um Poder Superior (mesmo que fosse só nosso grupo de A.A.) poderia resolver o caso até aqui insolúvel. No momento em que fomos capazes de aceitar inteiramente estes fatos, foi iniciada nossa libertação da compulsão alcoólica. Para a maioria de nós foi preciso grande esforço para aceitar esses dois fatos. Tivemos que abandonar nossa querida filosofia de auto-suficiência. Não conseguimos isso apenas com a força de vontade; isto aconteceu como resultado do desenvolvimento da boa vontade para aceitar esses novos fatos da vida. Não fugimos nem lutamos, mas aceitamos. E então começamos a ser livres. 1 – Grapevine de março de 1962"
+  },
+  "110": {
+    "title": "Dificuldade: construtiva ou destrutiva",
+    "content": "Houve uma época em que ignorávamos a dificuldade, esperando que ela desaparecesse, ou então, medrosos e deprimidos, fugíamos dela mas descobríamos que ela continuava conosco. Muitas vezes sem razão, cheios de amargura e culpa, nos revoltávamos. Essas atitudes erradas, impulsionadas pelo álcool, nos levavam à destruição, a menos que fossem alteradas. Então veio A.A., onde aprendemos que a dificuldade era realmente um fato na vida de todos – fato este que tinha que ser entendido e encarado. Surpreendentemente descobrimos que nossas dificuldades poderiam, com a graça de Deus, converter-se em bênçãos incalculáveis. Na verdade, essa era a essência do próprio A.A.: a dificuldade aceita, encarada de frente com uma coragem calma, dificuldade diminuída e muitas vezes superada. Essa foi a história de A.A., e nós fizemos parte dela. Essas 46 http://slidepdf.com/reader/full/na-opiniao-do-bill 46/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com demonstrações tornaram-se nosso patrimônio para a salvação do próximo sofredor. Carta de 1966"
+  },
+  "111": {
+    "title": "Examinando o passado",
+    "content": "Deveríamos fazer um preciso e exaustivo exame de como nossa vida passada afetou outras pessoas. Em muitos casos descobrimos que, embora o dano causado aos outros não tenha sido grande, o dano emocional que causamos a nós mesmos o foi. Às vezes, totalmente esquecidos, os conflitos emocionais que nos prejudicaram continuam muito profundos, abaixo do nível da consciência. Portanto, deveríamos tentar relembrar e rever bem os acontecimentos do passado, que deram origem a esses conflitos e continuam causando violentos desequilíbrios emocionais, descolorindo dessa forma nossa personalidade e mudando nossa vida para pior. * * * Reagimos mais fortemente às frustrações do que as pessoas normais. Tornando a viver esses episódios e discutindo-os em estreita confiança com outra pessoa, podemos reduzir seu tamanho e portanto seu poder inconsciente. 1 – Os Doze Passos, pág. 69 e 70 2 – Carta de 1957"
+  },
+  "112": {
+    "title": "Completa segurança",
+    "content": "Ao ingressar em A.A., a lembrança dos anos perdidos nos levava ao pânico. Importância financeira não era mais o nosso principal objetivo; clamávamos agora por segurança material. Mesmo quando já estávamos reabilitados em nossos negócios, aquele medo terrível continuava nos perseguindo. Isto nos tornava avarentos e sem um tostão no bolso outra vez. Devemos ter, de qualquer maneira, completa segurança material. Esquecíamos que a maioria dos membros de A.A. tem capacidade bem acima do normal para ganhar dinheiro; esquecíamos da grande boa vontade de nossos companheiros A.As. que estavam tão ansiosos para nos ajudar a conseguir melhor trabalho, desde que o merecêssemos; esquecíamos da insegurança financeira, atual ou em potencial, que acompanhava todos os habitantes da terra. E, pior de tudo, esquecíamos de Deus. Em matéria de dinheiro, só confiávamos em nós e, assim mesmo, não muito. Os Doze Passos, pág. 107"
+  },
+  "113": {
+    "title": "Ser justo",
+    "content": "Acho que freqüentemente desaprovamos e até ridicularizamos os projetos de nossos amigos no campo do alcoolismo, só porque nem sempre estamos inteiramente de acordo com eles. 47 http://slidepdf.com/reader/full/na-opiniao-do-bill 47/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Deveríamos seriamente nos perguntar quantos alcoólicos estão continuando a beber, porque não temos cooperado com boa disposição de espírito com essas inúmeras organizações – sejam elas boas, más ou indiferentes. Nenhum alcoólico deveria ficar louco ou morrer, somente porque não foi diretamente para A.A. no começo. * * * Nosso primeiro objetivo será o desenvolvimento do autocontrole. Esse ponto é da mais alta importância. Quando falamos ou agimos precipitada ou imprudentemente, a capacidade de ser justo e tolerante se evapora imediatamente. 1 – Grapevine de julho de 1965 2 – Os Doze Passos, pág. 79"
+  },
+  "114": {
+    "title": "\"A princípio, o remédio par aN menihnhuams pdoifdiceur lpdeasdseosa pl essoais parecia tão evidente",
+    "content": "que eu não podia imaginar um alcoólico, recusando a proposta que lhe fosse adequadamente apresentada. Acreditando firmemente que Cristo pode fazer tudo, eu tinha a idéia inconsciente de supor que Ele faria tudo por meu intermédio – quando e da maneira que eu quisesse. Depois de seis longos meses, tive que admitir que ninguém tinha se apoderado do Mestre – nem mesmo eu. \\\"Isso me levou à boa e saudável conclusão de que havia muitas situações no mundo, sobre as quais eu não tinha nenhum poder pessoal – que, se eu estava tão pronto a admitir isso a respeito do álcool, devia admitir também em relação a muitas outras coisas. Tinha que ficar quieto e entender que Ele e não eu, era Deus.\\\" Carta de 1940"
+  },
+  "115": {
+    "title": "Essência do crescimento",
+    "content": "Que nunca tenhamos medo de mudanças necessárias. Certamente temos que fazer a diferença entre mudanças para pior e mudanças para melhor. Mas desde que uma necessidade se torne bem aparente num individuo, num grupo ou em A.A. como um todo, há muito já se verificou que não podemos ficar estacionários. A essência de todo crescimento é uma disposição de mudar para melhor e uma disposição incansável de aceitar qualquer responsabilidade que essa mudança implique. Grapevine de julho 1965"
+  },
+  "116": {
+    "title": "Modo de ver de cada um",
+    "content": "\\\"Além de um Poder Superior, como cada um de nós pode conceber, A.A. não deve nunca, como sociedade, entrar no campo do dogma ou da teologia. Assim, 48 http://slidepdf.com/reader/full/na-opiniao-do-bill 48/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com não poderemos nunca nos tornar uma religião, para não destruir nossa utilidade, prendendo-nos a disputas no campo teológico.\\\" * * * \\\"O fato realmente espantoso sobre A.A. é que todas as religiões vêem em nosso programa uma semelhança com elas mesmas. Por exemplo, os teólogos católicos dizem que nossos Doze Passos estão exatamente de acordo com os Exercícios Espirituais para Retiro, de Santo Inácio de Loiola, e embora nosso livro fale de pecado, doença e morte, o Programa da Ciência Cristã com freqüência o tem elogiado editorialmente. \\\"Agora, olhando pelos olhos dos Quakers, você também nos vê favoravelmente. Que felizes circunstâncias são essas!\\\" 1 – Carta de 1954 2 – Carta de 1950"
+  },
+  "117": {
+    "title": "A sensação de fazer parte",
+    "content": "Talvez uma das maiores recompensas da meditação e da oração seja a sensação de que passamos a fazer parte. Não mais vivemos num mundo completamente hostil. Não mais nos sentimos perdidos, amedrontados e inúteis. A partir do momento em que percebemos, ainda que um vislumbre da vontade de Deus, e começamos a ver a verdade, a justiça e o amor como valores eternos e verdadeiros, não mais ficaremos tão perturbados com tudo o que parece evidenciar o contrário daquilo que nos cerca em assuntos puramente humanos. Sabemos que Deus nos protege com amor. Sabemos que quando nos voltarmos para Ele, tudo estará bem conosco, nesta vida e na outra. Os Doze Passos, pág. 92"
+  },
+  "118": {
+    "title": "Prelúdio ao programa",
+    "content": "Poucas pessoas tentarão praticar sinceramente o programa de A.A., a não ser que tenham \\\"chegado ao fundo do poço\\\", pois praticar os Passos de A.A. requer a adoção de atitudes e ações que quase nenhum alcoólico, que ainda bebe, pode sonhar em adotar. O alcoólico típico, egoísta ao extremo, não se interessa por essa perspectiva, a não ser que tenha que fazer essas coisas para não morrer. * * * Sabemos que o recém-chegado tem que \\\"chegar ao fundo do poço\\\", do contrário pouca coisa pode acontecer. Porque somos alcoólicos que o compreendem, podemos usar profundamente a arma da obsessão mais a alergia, como uma força que pode destruir seu ego. Só assim ele pode se convencer de que unicamente com seus recursos tem pouca ou nenhuma chance. 1 – Os Doze Passos, págs. 15, 16 2 – A.A. Today, pág. 8"
+  },
+  "119": {
+    "title": "49",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 49/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Na estrada principal \\\"Agora compreendo que meu antigo preconceito contra os clérigos era cego e errado. Eles têm mantido viva, através dos séculos, uma fé que poderia ter desaparecido inteiramente. Eles me mostraram o caminho, mas nem sequer olhei, tão cheio estava de preconceito e preocupação comigo mesmo. \\\"Quando abri os olhos, foi porque tive que fazê-lo. E o homem que me mostrou a verdade era um companheiro sofredor e leigo. Por meio dele, vi finalmente e caminhei do abismo para um terreno sólido, sabendo que, agora, meus pés estavam na estrada principal, se eu quisesse caminhar.\\\" Carta de 1940"
+  },
+  "120": {
+    "title": "De viva voz",
+    "content": "\\\"Em minha opinião, não pode haver a menor objeção aos grupos que querem spoeurmbeasnseecmer dees tsruitaa mfielinatçeã aon aôon iAm.oAs. oEus sae p ée susmoa sp rqoubel enmãoa gdoesletasr, iaem e sqsuae é t oudmoas reação muito natural. \\\"Entretanto, muitas pessoas acham que o anonimato a esse ponto não é necessário, nem mesmo desejável. Desde que a pessoa esteja sóbria, e certa disso, não parece haver razão para não falar a respeito da afiliação ao A.A., nos lugares certos. Isso tende a trazer novas pessoas. Falar de viva voz é uma de nossas comunicações mais importantes. \\\"Assim sendo, não deveríamos criticar nem as pessoas que querem permanecer em silêncio, nem aquelas que querem falar muito acerca de pertencer ao A.A., desde que não façam isso a nível público, comprometendo assim toda nossa Irmandade.\\\" Carta de 1962"
+  },
+  "121": {
+    "title": "Nós não estamos lutando",
+    "content": "Paramos de lutar com tudo e com todos – mesmo com o álcool, pois a essa altura a sanidade voltou. Podemos reagir agora, sadia e normalmente, e constatamos que isso aconteceu quase automaticamente. Vemos que essa nova atitude face ao álcool é realmente uma dádiva de Deus. Aí está o milagre. Não estamos lutando com ele, nem evitando a tentação. Nem temos que prestar juramento. Em vez disso, o problema foi removido. Ele não existe para nós. Não somos nem atrevidos nem medrosos. Assim é como reagimos – enquanto nos mantemos em boas condições espirituais. Alcoólicos Anônimos, pág. 99"
+  },
+  "122": {
+    "title": "50",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 50/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com A boa vontade é a chave Não importa o quanto alguém queira tentar, exatamente de que modo ele pode entregar sua própria vontade e sua própria vida aos cuidados de qualquer Deus que ele acha que existe? Um começo, por pequeno que seja, é tudo do que se precisa. Uma vez que tenhamos colocado a chave da boa vontade na fechadura e tenhamos a porta entreaberta, descobrimos que podemos sempre abri-la um pouco mais. Embora a obstinação possa fechá-la de novo, como freqüentemente acontece, sempre voltará a abrir no momento em que utilizamos a chave da boa vontade. Os Doze Passos, pág. 26"
+  },
+  "123": {
+    "title": "O novo membro de A.A. e sua família",
+    "content": "Quando o alcoolismo ataca, podem surgir situações anormais que prejudicam o cafoemtapdaon, hae iersipsomsoa dee vae c soemr poa ctihbeifleid daad ec aesna,t rme uoista sc ôvnejzuegse os . aSrreim foo rd ao fhaommíleiam. Ào medida que as coisas vão piorando, o marido se transforma numa criança doente e irresponsável, que precisa ser cuidada e tirada de inúmeras embrulhadas e becos sem saída. De forma gradual e geralmente sem perceber, a esposa é forçada a se tornar a mãe de um menino transviado, e o alcoólico, ora ama, ora odeia seus cuidados maternais. Essas situações são muitas vezes resolvidas, com os Doze Passos de A.A. * * * Quer a família adote ou não um modo de vida espiritual, o membro alcoólico tem que adotar, se quiser se recuperar. Os outros devem ser convencidos de sua nova situação, sem sombra de dúvida. Ver é acreditar, para a maioria das famílias que conviveu com um bebedor. 1 – Os Doze Passos, pág. 104 2 – Alcoólicos Anônimos, pág. 140"
+  },
+  "124": {
+    "title": "Liberdade de escolha",
+    "content": "Olhando para trás, vemos que nossa liberdade de escolha não era, afinal de contas, uma liberdade muito verdadeira. Quando escolhíamos porque \\\"éramos obrigados a escolher\\\", essa também não era escolha livre. Mas isso nos iniciava na direção certa. Quando escolhíamos porque \\\"devíamos escolher\\\", estávamos realmente fazendo o melhor. Dessa vez estávamos obtendo uma certa liberdade, preparando-nos para obter ainda mais. Mas quando, uma vez ou outra, pudemos com satisfação fazer escolhas certas sem revolta, espalhafato ou conflito, então tivemos a visão do que poderia ser a perfeita liberdade sob a vontade de Deus. Grapevine de maio de 1960"
+  },
+  "125": {
+    "title": "51",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 51/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Olhe além do horizonte Meu local de trabalho fica numa colina, atrás de nossa casa. Olhando para o vale, vejo a casa comunitária da vila, onde se reúne nosso grupo. Além do círculo de meu horizonte está o mundo inteiro de A.A. * * * A unidade de Alcoólicos Anônimos é a qualidade mais preciosa que nossa sociedade tem. Nossas vidas e as vidas dos que estão por chegar dependem diretamente dela. Sem unidade, o coração de Alcoólicos Anônimos deixaria de bater; nossas artérias mundiais não mais levariam a inspiradora graça de Deus. 1 – A.A. Today, pág. 7 2 – As Doze Tradições, pág. 13"
+  },
+  "126": {
+    "title": "\"Admitimos para Deus...\"",
+    "content": "Dalíevsidoe a quumee vntoacrêá dneã om einscuoton daa m nianduato, .a Ao sf aezmeor çoõ eQs urienptroim Piadsasso d, usruaan tsee nansaoçsã soa edme de seu confinamento e, milagrosamente, desaparecem à medida que são reveladas. Com a diminuição da dor, uma tranqüilidade restauradora toma seu lugar. E quando a humildade e a serenidade estiverem assim combinadas, algo mais de grande significação é capaz de ocorrer. Muitos AAs, anteriormente agnósticos ou ateus, nos dizem que foi nessa fase do Quinto Passo que de fato sentiram, pela primeira vez, a presença de Deus. E mesmo aqueles que já tinham fé, muitas vezes tomaram consciência de Deus como nunca antes. Os Doze Passos, pág. 51"
+  },
+  "127": {
+    "title": "Persistência na oração",
+    "content": "Muitas vezes temos a tendência de fazer pouco caso da meditação e da oração sincera, como sendo alguma coisa não realmente necessária. Sinceramente, sentimos que elas poderiam nos ajudar a enfrentar uma emergência, mas a princípio muitos de nós são capazes de considerá-las uma prática misteriosa dos clérigos, da qual podemos esperar obter um benefício de segunda mão. * * * Em A.A. descobrimos que os verdadeiros bons resultados da oração são indiscutíveis. Esses resultados são conhecidos e fazem parte da experiência. Todos aqueles que persistiram, encontraram uma força que geralmente não tinham. Encontraram sabedoria superior à sua capacidade normal. E encontraram cada vez mais a paz de espírito que pode se manter firme, frente às difíceis circunstâncias. 1 – Os Doze Passos, pág. 83 2 – Os Doze Passos, pág. 91"
+  },
+  "128": {
+    "title": "52",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 52/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com De volta ao trabalho É possível que utilizemos a suposta desonestidade dos outros, como uma desculpa plausível para não cumprir nossas próprias obrigações. Certa vez, alguns amigos cheios de preconceito insistiram comigo para que eu não voltasse a Wall Street. Estavam certos de que o materialismo desenfreado e a falsidade, ali existentes, impediriam meu crescimento espiritual. Como isso parecia ter sentido, continuei afastado do único trabalho que eu sabia fazer. Quando finalmente me vi falido, compreendi que não tinha sido capaz de enfrentar a perspectiva de voltar ao trabalho. Assim sendo, voltei a Wall Street e até hoje estou contente por ter feito isso. Eu precisava redescobrir que existem muitas excelentes pessoas no âmbito financeiro de New York. Precisava também da experiência de permanecer sóbrio nos mesmos lugares, onde o álcool tinha me derrotado. Uma viagem de negócios da Wall Street a Akron, Ohio, foi onde pela primeira vez entrei em contato com o Dr. Bob. Assim, o nascimento dsues Ate.nAto. .dependeu de meu esforço para enfrentar as responsabilidades de meu Grapevine de agosto de 1961"
+  },
+  "129": {
+    "title": "O caminho da força",
+    "content": "Não precisamos nos desculpar com ninguém por depender do Criador. Temos boas razões para descrer daqueles que acham que a espiritualidade é o caminho da fraqueza. Para nós ela é o caminho da força. O veredito, através da história, é que os homens de fé são corajosos. Confiam em seu Deus. Nunca nos desculpamos por nossa fé n'Ele. Ao contrário, tentamos deixá-Lo demonstrar, através de nós, o que Ele pode fazer. Alcoólicos Anônimos, pág. 86"
+  },
+  "130": {
+    "title": "Nosso problema se centraliza na mente",
+    "content": "Sabemos que enquanto o alcoólico se mantém afastado da bebida, ele geralmente reage do mesmo modo que as outras pessoas. Estamos igualmente convictos de que, quando ele ingere álcool, alguma coisa acontece, tanto no sentido físico como no mental, impedindo-o virtualmente de parar. A experiência de qualquer alcoólico confirmará isso plenamente. Seriam desnecessárias e acadêmicas essas observações, se o individuo nunca tomasse o primeiro gole, pois este é o que põe em movimento o terrível círculo vicioso. De maneira que o problema principal do alcoólico se centraliza em sua mente, mais do que em seu corpo. Alcoólicos Anônimos, pág. 46"
+  },
+  "131": {
+    "title": "Obstáculos em nosso caminho",
+    "content": "Vivemos num mundo cheio de inveja. Em grau maior ou menor, todos são contaminados por ela. Desse defeito, certamente devemos obter uma satisfação 53 http://slidepdf.com/reader/full/na-opiniao-do-bill 53/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com deturpada, porém definida. Se assim não fosse, por que perderíamos tanto tempo desejando o que não temos, em vez de trabalhar para obtê-lo, ou furiosamente procurando qualidades que nunca teremos, em vez de nos ajustar ao fato aceitando-o? * * * Cada um de nós gostaria de viver em paz consigo mesmo e com seus semelhantes. Gostaríamos de nos assegurar de que a graça de Deus pode fazer por nós aquilo que não podemos. Temos visto que os defeitos de caráter, baseados em desejos imprevidentes e indignos, são obstáculos que bloqueiam nosso caminho em direção a esses objetivos. Agora vemos, com clareza, que estivemos fazendo exigências irracionais a nós mesmos, aos outros e a Deus. 1 – Os Doze Passos, pág. 57 2 – Os Doze Passos, pág. 65"
+  },
+  "132": {
+    "title": "Inventário relâmpago",
+    "content": "Um inventário relâmpago, feito no momento de perturbação, pode ser de grande ajuda para acalmar as emoções tempestuosas. O inventário relâmpago diário se aplica principalmente a situações que surgem nas vinte e quatro horas do dia. Quando possível, é melhor deixar o estudo das dificuldades existentes há muito tempo, para os momentos destinados a esse fim. O inventário rápido é destinado às nossas oscilações diárias, principalmente, àquelas provocadas por pessoas ou acontecimentos novos que nos desequilibram e nos levam a cometer erros. Os Doze Passos, pág. 77"
+  },
+  "133": {
+    "title": "\"Pessoas privilegiadas\"",
+    "content": "Percebi que tinha vivido muito sozinho, muito afastado de meus semelhantes e muito surdo àquela voz interior. Em vez de observar a mim mesmo, como um simples portador da mensagem da experiência, tinha pensado em mim na qualidade de fundador de A.A. Como teria sido melhor se eu tivesse sentido gratidão, em vez de auto-satisfação – gratidão por ter sentido um dia os sofrimentos do alcoolismo, gratidão por ter recebido do alto o milagre da recuperação, gratidão pelo privilégio de prestar serviço a meus companheiros alcoólicos e gratidão pelos laços fraternais que me ligam mais fortemente a eles numa camaradagem que poucas sociedades de seres humanos já conheceram. Um clérigo me disse esta verdade: \\\"Seu infortúnio tornou-se sua felicidade. Vocês de A.A. são pessoas privilegiadas.\\\" Grapevine de julho de 1946"
+  },
+  "134": {
+    "title": "54",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 54/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Os direitos do indivíduo Acreditamos que não haja outra irmandade no mundo que dispense mais atenção a seus membros, individualmente; sem dúvida, não existe nenhuma que defenda tanto o direito do indivíduo de pensar, falar e agir livremente. Nenhum A.A. pode obrigar um outro a fazer o que quer que seja; ninguém pode ser punido ou expulso. Nossos Doze Passos para a recuperação são sugestões; as Doze Tradições, que asseguram a unidade de A.A., não contém um só \\\"Não Faça\\\". Elas repetidamente dizem: \\\"Deveríamos\\\", mas nunca: \\\"Você deve!\\\" * * * \\\"Embora seja tradicional, nossa Sociedade não pode coagir ninguém, não vamos supor, nem mesmo por um instante, que não estamos sob coação. Na verdade, estamos sob uma enorme sujeição – aquela que vem nas garrafas. Nosso antigo tirano, o Rei álcool, está sempre pronto para nos agarrar. \\\"cPasoor tcaonntotr, áar iloib, ecrhteagçaãroe mdoo sá làc olooul céu ora g oraun àd emdoertvee.m\\\" os que tem que ser alcançado, 1 –As Doze Tradições, pág. 12 2 – Carta de 1966"
+  },
+  "135": {
+    "title": "Vitória na derrota",
+    "content": "Convencido de que nunca poderia fazer parte e jurando nunca me conformar com o segundo lugar, eu sentia que simplesmente tinha que vencer em tudo que quisesse fazer: trabalho ou divertimento. Como essa atraente fórmula de boa- vida começou a dar resultado, de acordo com minha idéia de sucesso, tornei-me delirantemente feliz. Mas quando acontecia de um empreendimento falhar, me enchia de ressentimento e depressão que só podia ser curado com o próximo triunfo. Portanto, muito cedo comecei a avaliar tudo em termos de vitória ou derrota – \\\"tudo ou nada\\\". A única satisfação que eu conhecia era vencer. * * * Somente através da derrota total é que somos capazes de dar os primeiros passos em direção à libertação e à força. Nossa admissão da impotência pessoal finalmente vem a ser o leito de rocha firme, sobre o qual podem ser construídas vidas felizes e significativas. 1 – Grapevine de janeiro de 1962 2 – Os Doze Passos, pág. 13"
+  },
+  "136": {
+    "title": "Renunciando aos defeitos",
+    "content": "Examinando novamente aqueles defeitos que ainda não estamos dispostos a renunciar, deveríamos ser menos teimosos. Talvez ainda sejamos obrigados, em alguns casos, a dizer: \\\"Ainda não posso renunciar a esses defeitos...\\\", mas não deveríamos dizer: \\\"A esse nunca renunciarei!\\\" No momento em que dizemos: \\\"Não, nunca!\\\" Nossa mente se fecha para a graça de Deus. Essa revolta pode ser fatal. Ao invés disso, deveríamos abandonar os 55 http://slidepdf.com/reader/full/na-opiniao-do-bill 55/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com objetivos limitados e começar a caminhar em direção à vontade de Deus, para conosco. Os Doze Passos, págs. 58 e 59"
+  },
+  "137": {
+    "title": "Além do agnosticismo",
+    "content": "Nós, de temperamento agnóstico, descobrimos que logo que fomos capazes de deixar de lado o preconceito e expressar até uma disposição para acreditar num Poder Superior a nós mesmos, começamos a ver os resultados, ainda quando era impossível para qualquer um de nós definir ou compreender totalmente esse Poder, que é Deus. * * * \\\"Muitas pessoas me asseguram, com toda a seriedade, que o indivíduo não tem um lugar melhor no universo, do que um outro qualquer, por lutar em seu cparmefiinrhoo m, aet raapvéesg adra àv itdãao, scóh apmaraad ma oilruresrã on od afi mre.l iOguiãvoin, dqou eis seom, sminitno hqau ep raóipndriaa experiência tem me revelado algo com sentido muito diferente.\\\" 1 – Alcoólicos Anônimos, pág. 67 2 – Carta de 1946"
+  },
+  "138": {
+    "title": "Dois caminhos para os membros mais antigos",
+    "content": "Os fundadores de muitos grupos finalmente se dividirem em duas classes, conhecidas na linguagem de A.A. como \\\"velhos mentores\\\" e \\\"velhos resmungões\\\". O velho mentor vê sabedoria na decisão do grupo para dirigir a si mesmo e não guarda ressentimento ao ver reduzido seu \\\"status\\\". Seu julgamento fortificado por considerável experiência, é justo, ele está disposto a ficar de lado, aguardando com paciência os acontecimento. O velho resmungão está certamente convencido de que o grupo não pode caminhar sem ele. Ele constantemente \\\"mexe os pauzinhos\\\" para reeleição ao cargo e continua sendo consumido pela autopiedade. Quase todos os membros mais antigos de nossa sociedade passaram por isso, em maior ou menor grau. Felizmente, a maior parte deles sobreviveu para se transformar no velho mentor. Estes vêm a ser a verdadeira e duradoura liderança de A.A. As Doze Tradições, pág. 18"
+  },
+  "139": {
+    "title": "A base de toda a humildade",
+    "content": "Uma vez que estávamos convencidos de que poderíamos viver exclusivamente pela nossa força e inteligência, tornava-se impossível a fé num Poder Superior. Isto era assim, mesmo quando acreditávamos que Deus existia. Podíamos na verdade ter as mais fervorosas crenças religiosas, que continuavam estéreis, porque nós mesmos ainda tentávamos fazer o papel de Deus. Já que púnhamos a autoconfiança em primeiro lugar não era possível uma verdadeira confiança num 56 http://slidepdf.com/reader/full/na-opiniao-do-bill 56/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Poder Superior. Faltava aquele ingrediente básico da humildade, o desejo de buscar e fazer a vontade de Deus. Os Doze Passos, pág. 62"
+  },
+  "140": {
+    "title": "Defeitos e reparações",
+    "content": "Mais do que a maioria, o alcoólico vive uma dupla vida. É um verdadeiro ator. Para as pessoas de fora ele se apresenta como se estivesse no palco. Isso é o que ele quer que os outros vejam. Quer gozar de uma certa reputação, mas sabe, do fundo do coração, que não a merece. * * * O sentimento de culpa é realmente o reverso da moeda do orgulho. O sentimento de culpa visa à autodestruição, e o orgulho visa à destruição dos outros. * * * \\\"vOid ain, vee unmtá rsiion mceorora el séf ourmço e pxaarma ev oêu-lsoasd eom d ossu ad avneords aqdueei rnao pse orcspoerrcetrivama. ,E dluer taenmte oa efeito de tirar o veneno de dentro de nós, a substância emocional que abate ou inibe ainda mais.\\\" 1 – Alcoólicos Anônimos, pág. 90 2 – Grapevine de junho de 1961 3 – Carta de 1957"
+  },
+  "141": {
+    "title": "\"Poderia nos devolver à sanidade\"",
+    "content": "Poucos, na verdade, são os alcoólicos na ativa que têm qualquer idéia do quanto são irracionais, ou que percebendo sua irracionalidade, conseguem encará-la. Por exemplo, alguns estarão dispostos a se denominar \\\"bebedores-problemas\\\", mas não podem aceitar a sugestão de que estão de fato mentalmente doentes. São apoiados nessa cegueira por um mundo que não entende a diferença entre o beber racional e o alcoolismo. A \\\"sanidade\\\" é definida como \\\"saúde mental\\\". Contudo, nenhum alcoólico, analisando sobriamente seu comportamento destrutivo, seja pela destruição de um objeto ou de sua própria estrutura moral, pode alegar que tem \\\"saúde mental\\\". Os Doze Passos, pág. 24"
+  },
+  "142": {
+    "title": "Instintos dados por Deus",
+    "content": "A criação nos deu os instintos com uma finalidade. Sem eles não seríamos seres humanos completos. Se os homens e as mulheres não se empenhassem em se firmar como pessoas, não fizessem esforços para conseguir alimento ou construir abrigo, não sobreviveriam. Se não se reproduzissem, a terra não seria povoada. Se não existisse um instinto gregário, não haveria sociedade. Contudo, esses instintos, tão necessários para nossa existência, freqüentemente excedem suas próprias funções. Forte, cega e muitas vezes sutilmente, eles nos impulsionam, nos dominam e insistem em dirigir nossas vidas. 57 http://slidepdf.com/reader/full/na-opiniao-do-bill 57/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com * * * Procuramos construir um ideal sadio para nossa futura vida sexual. Submetemos cada relação sexual à seguinte prova: isso foi egoísmo ou não? Pedimos a Deus que moldasse nossos ideais e nos ajudasse a viver de acordo com eles. Lembramos sempre que nossos poderes sexuais foram dados por Deus e por isso eram bons, que não deveriam ser usados frívola ou egoisticamente e nem desprezados ou detestados. 1 – Os Doze Passos, pág. 33 2 – Alcoólicos Anônimos, pág. 87"
+  },
+  "143": {
+    "title": "Na escola de vida de A.A.",
+    "content": "Suponho que dentro de A.A. sempre estaremos disputando. Principalmente, acredito eu, acerca de como fazer para levar o melhor a um maior número de dbiênbhaedioros. eT ecroemmoo sc onoorsdseans adr isncoussssoõse sg riunpfaonst idsu sroabnrtee opes qpureónxaism doisf icseuilsd amdeess edse. Qualquer punhado de crianças em crescimento (e isso é o que somos) faria uma coisa dessa, e isso estaria de acordo com seu caráter. Essas são as dores do crescimento da infância e nós, na verdade, estamos passando por elas. Superar tais problemas, na escola de vida de A.A., é um saudável exercício. A.A. Atinge a Maioridade, pág. 208"
+  },
+  "144": {
+    "title": "Confiança cega?",
+    "content": "\\\"Certamente não pode haver confiança onde não há amor, nem pode haver amor verdadeiro onde reina a desconfiança. \\\"Mas a confiança exige que sejamos cegos, em relação aos motivos dos outros ou até dos nossos? Absolutamente; isso seria loucura. Certamente deveríamos avaliar, tanto a capacidade de fazer o mal como a capacidade de fazer o bem das pessoas em quem vamos confiar. Esse inventário particular pode revelar o grau de confiança que podemos depositar em qualquer situação que se apresente. \\\"Mas esse inventário precisa ser feito com espírito de compreensão e amor. Nada pode prejudicar tanto nosso julgamento, como as emoções negativas de suspeita, ciúme ou raiva. \\\"Tendo depositado nossa confiança numa outra pessoa, deveríamos fazer com que ela saiba disso. Desse modo, quase sempre, ela vai corresponder de maneira magnífica e muito além de nossa expectativa.\\\" Carta de 1966"
+  },
+  "145": {
+    "title": "Assumir a responsabilidade",
+    "content": "Aprender a viver na maior paz, companheirismo e fraternidade, com todo o mundo, é uma aventura comovente e fascinante. 58 http://slidepdf.com/reader/full/na-opiniao-do-bill 58/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Todo A.A. acabou descobrindo que pouco pode progredir nessa nova aventura da vida, sem antes voltar atrás e fazer, realmente, um exame preciso e profundo dos destroços humanos que, porventura, ele tenha deixado em seu passado. * * * A disposição de arcar com todas as conseqüências de nossos atos passados e, ao mesmo tempo, assumir a responsabilidade pelo bem-estar dos outros constitui o próprio espírito do Nono Passo. 1 – Os Doze Passos, pág. 2 – Os Doze Passos, pág."
+  },
+  "146": {
+    "title": "\"Faça como eu faço...\"",
+    "content": "Talvez com mais freqüência do que pensamos, não temos um contato profundo com alcoólicos que estão sofrendo o dilema da falta de fé. Ce eargtraemsseãnot ed noi qnugeu éemle sé. mEsatios us ecnesrtíov edl,e aq ruees pmeuitiota ds ev seezgeus riasnsoç aé iensdqivuiedcuidaol,. orgulho Nos primeiros anos de A.A., eu quase arruinei toda a organização com essa espécie de arrogância inconsciente. Deus, como eu O concebia, tinha que servir para todos. Algumas vezes minha agressão era sutil e outras vezes grosseira. Mas de qualquer forma era prejudicial – talvez até fatal – para muitos descrentes. É claro que esse tipo de coisa não está limitado ao trabalho do Décimo Segundo Passo. Pode surgir em nossas relações com todas as pessoas. Mesmo agora, encontro-me entoando o mesmo antigo refrão: \\\"Faça como eu faço, acredite no que acredito – ou então...\\\" Grapevine de abril de 1961"
+  },
+  "147": {
+    "title": "A.A. – A estrela-guia",
+    "content": "Podemos ser gratos a toda organização ou método que tente solucionar o problema do alcoolismo – seja a medicina, religião, educação ou pesquisa. Podemos ter a mente aberta a respeito desses esforços e podemos ser compreensivos quando os imprudentes falham. Não podemos esquecer que mesmo A.A. funcionou durante anos na base do \\\"ensaio e erro\\\". Como indivíduos, podemos e deveríamos trabalhar com aqueles que prometem sucesso – ainda que seja um pouco de sucesso. * * * Todos os pioneiros no campo do alcoolismo vão dizer, generosamente, que se não fosse pela prova viva da recuperação em A.A., eles não poderiam ter prosseguido. A.A. foi a estrela-guia da esperança e da ajuda que os manteve na Irmandade. Grapevine de março de 1958"
+  },
+  "148": {
+    "title": "59",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 59/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Mais do que conforto Quando me sinto deprimido, repito para mim mesmo declarações como estas: \\\"O sofrimento é a pedra de toque do progresso...\\\" \\\"Medo de nada...\\\" \\\"Isso também vai passar...\\\" \\\"Essa experiência pode se transformar em benefício\\\". Esses fragmentos de oração trazem muito mais do que um mero conforto. Eles me mantêm no caminho da aceitação perfeita, acabam com minha compulsão de sentimento de culpa, depressão, revolta e orgulho e às vezes me dão a coragem para mudar as coisas que posso e sabedoria para perceber a diferença. Grapevine de março de 1962"
+  },
+  "149": {
+    "title": "Orientação para um caminho melhor",
+    "content": "Quase nenhum de nós gostava de fazer o auto-exame, a demolição de nosso orgulho e a confissão das imperfeições que os Passos requerem. Mas víamos que on ap droegseraspmear arneçaalm dean vteid fau, ndcai ofonramvaa pcaorma oo sa oeusttárovsa me otísn vhiavmenods oc.hegado a acreditar Portanto, quando fomos abordados por aquelas pessoas que haviam resolvido o problema, só nos restava pegar o simples conjunto de instrumentos espirituais que foi colocado a nosso alcance. * * * Nas Tradições de A.A. está implícita a confissão de que nossa Irmandade tem suas falhas. Confessamos que temos determinados defeitos, como sociedade, e que esses defeitos nos ameaçam continuamente. As Tradições nos orientam para melhorar nossa maneira de trabalhar e viver, e elas são para a sobrevivência e harmonia do grupo o que os Doze Passos de A.A. são para a sobriedade e paz de espírito de cada membro. 1 – Alcoólicos Anônimos, pág. 48 2 – A.A. Atinge a Maioridade, pág. 87"
+  },
+  "150": {
+    "title": "Sem limites",
+    "content": "A meditação é alguma coisa que pode ser desenvolvida cada vez mais. Ela não tem limites, tanto em extensão como em profundidade. Ajudados por essa instrução e exemplo, como podemos ver, ela é essencialmente uma aventura individual que cada um de nós realiza à sua maneira. Mas seu objetivo é sempre o mesmo: melhorar nosso contato consciente com Deus, com Sua graça, sabedoria e amor. E vamos lembrar sempre que a meditação é na realidade muito prática. Um de seus primeiros frutos é o equilíbrio emocional. Com ela podemos alargar e aprofundar o canal de ligação entre nós e Deus, como nós O concebemos. Os Doze Passos, pág. 88"
+  },
+  "151": {
+    "title": "60",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 60/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Começar a perdoar No momento em que examinamos um desentendimento com uma outra pessoa, nossas emoções de colocam na defensiva. Para evitar de encarar as ofensas que fizemos a uma outra pessoa, salientamos, com ressentimento, as ofensas que ela nos fez. Prevalecendo disso nos agarramos à sua má conduta, como a desculpa perfeita para minimizar ou esquecer a nossa. A essa altura precisamos logo nos segurar. Não vamos esquecer que os alcoólicos não são os únicos atormentados por emoções doentias. Em muitos casos estamos, na realidade, lidando com companheiros sofredores, pessoas que tiveram suas desgraças aumentadas por nós. Se estamos a ponto de pedir perdão para nós mesmos, por que não deveríamos começar perdoando a todos eles? Os Doze Passos, pág. 68"
+  },
+  "152": {
+    "title": "O poder milagroso",
+    "content": "No mais profundo de cada homem, mulher e criança está a idéia fundamental de um Deus. Ela pode estar obscurecida pela calamidade, pela pompa, pela adoração de outras coisas, mas de uma forma ou outra ela está ali, pois a fé num Poder Superior a nós mesmos e as demonstrações milagrosas desse Poder, nas vidas humanas, são fatos tão antigos como a própria humanidade. * * * \\\"A fé pode muitas vezes ser dada através de ensinamentos inspirados ou de um convincente exemplo pessoal de seus frutos. Pode às vezes ser obtida através da razão. Por exemplo, muitos clérigos acreditam que São Tomás de Aquino provou realmente a existência de Deus por pura lógica. Mas o que pode uma pessoa fazer quando todos esses falham? Esse era meu doloroso dilema. \\\"Foi somente quando cheguei a acreditar firmemente que era impotente perante o álcool, somente quando apelei para um Deus que poderia existir, que experimentei um despertar espiritual. Essa experiência libertadora veio primeiro, em seguida veio a fé – na verdade, uma dádiva!\\\" 1 – Alcoólicos Anônimos, pág. 74 2 – Carta de 1966"
+  },
+  "153": {
+    "title": "Sem raiva",
+    "content": "Vamos supor que A.A. esteja sob ataque do público ou que caia em grande ridículo, tendo de fato pouca ou nenhuma justificativa. Nossa melhor defesa nessas situações seria não se defender absolutamente – isto é, completo silêncio a nível público. Se, com bom humor deixarmos os críticos completamente sozinhos, mais depressa se calarão. Caso seus ataques continuem e fique claro que eles estão desinformados, pode ser conveniente comunicar-se com eles, de modo temperado e informativo. 61 http://slidepdf.com/reader/full/na-opiniao-do-bill 61/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com No entanto, se uma certa crítica ao A.A. for parcial ou totalmente justificável, será por bem dar conhecimento privativamente aos críticos, acompanhado de nossos agradecimentos. Mas em circunstância alguma deveríamos mostrar raiva ou qualquer tentativa de punição ou agressão. * * * O que devemos reconhecer é que nos regozijamos com alguns de nossos defeitos. A raiva farisaica também pode ser muito agradável. De um modo perverso, podemos até sentir prazer pelo fato de muitas pessoas nos aborrecerem, pois isso nos traz uma cômoda sensação de superioridade. Doze Conceitos para Serviços Mundiais, págs. 73 e 74 Os Doze Passos, págs. 56 e 57"
+  },
+  "154": {
+    "title": "Um antigo temor era o de de Aslsi zreesc aeí dreacsa –íd ea so. Ngrou pproincípio, quase todo alcoólico",
+    "content": "de quem nos aproximávamos começava a ter deslizes, isso quando ele conseguia realmente ficar sóbrio. Outros permaneciam abstêmios por seis meses ou talvez um ano e daí escorregavam. Isso foi sempre uma verdadeira catástrofe. Olhávamos uns para os outros e nos perguntávamos: \\\"Qual o próximo?\\\" Hoje, embora as recaídas sejam dificuldades muito sérias, como grupo as conduzimos a passos largos. O medo desapareceu. O álcool sempre ameaça o indivíduo, mas sabemos que não pode destruir o bem-estar comum. * * * \\\"Parece que não adianta discutir com os \\\"que recaem\\\", a respeito do método apropriado para se manter sóbrio. Afinal de contas, por que deveriam as pessoas que estão bebendo contar às que estão sóbrias como isso deveria ser feito? \\\"Só por brincadeira, pergunte a eles se estão se divertindo. Se estiverem muito barulhentos ou importunos, gentilmente se afaste do caminho deles\\\". 1 – A.A. Atinge a Maioridade, pág. 88 2 – Carta de 1942"
+  },
+  "155": {
+    "title": "Construído por um e por muitos",
+    "content": "Damos graças a nosso Pai Celestial que, através de tantos amigos e através de tantos meios e canais tem nos permitido construir esse maravilhoso edifício do espírito, no qual estamos agora residindo – essa catedral, cujos fundamentos já repousam nos quatro cantos do mundo. Em sua enorme edificação inscrevemos nossos Doze Passos de recuperação. Nas paredes laterais, os esteios das Tradições de A.A. foram colocados para nos manter em unidade até quando Deus quiser. Ansiosos corações e mãos levantaram o espiral de nossa catedral em seu devido lugar. Esse espiral leva o nome de Serviço. Que ele possa sempre estar apontado em direção a Deus. * * * 62 http://slidepdf.com/reader/full/na-opiniao-do-bill 62/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Não é somente a alguns que devemos o notável desenvolvimento de nossa unidade e de nossa capacidade de levar a mensagem de A.A. a todos os lugares. Devemos a muitos; na verdade, é ao trabalho de todos nós que devemos essas maravilhosas bênçãos\\\". 1 – A.A. Atinge a Maioridade, pág. 209 2 – Palestra de 1959"
+  },
+  "156": {
+    "title": "Percepção de humildade",
+    "content": "Uma melhor percepção de humildade inicia uma mudança revolucionária em nossa maneira de ver. Nossos olhos começam a se abrir aos excelentes valores que vieram diretamente do doloroso esvaziamento do ego. Até agora, nossas vidas foram em grande parte dedicadas à fuga do sofrimento e dos problemas. A fuga através da garrafa foi sempre nossa solução. Emnistãéori,a e tmra nAsf.oAr.m, oadboses,r vpaemlao hsu em eilsdcaudtea,m eoms .v Paloorr etos dion elsatdimo ávviemiso.s o fracasso e a * * * Para aqueles que têm progredido em A.A., a humildade leva a um claro reconhecimento do que e de quem realmente somos, seguido de uma tentativa sincera de nos tornar aquilo que poderíamos ser. 1 – Os Doze Passos, pág. 64 2 – Os Doze Passos, pág. 48"
+  },
+  "157": {
+    "title": "A imaginação pode ser construtiva",
+    "content": "Lembramos, com uma certa tristeza, o valor que dávamos à imaginação, à medida que ela tentava buscar a realidade através da garrafa. Sim, não é verdade que nós nos divertíamos com esse tipo de pensamento? E hoje, embora sóbrios, não tentamos muitas vezes fazer a mesma coisa? Talvez nosso problema não estivesse no fato de usarmos a imaginação. Talvez o verdadeiro problema fosse nossa quase total incapacidade de dirigir a imaginação em direção aos objetivos certos. Não há nada de errado com a imaginação construtiva; todo empreendimento sólido depende dela. Afinal de contas, ninguém pode construir uma casa sem antes imaginar um plano. Os Doze Passos, pág. 87"
+  },
+  "158": {
+    "title": "A tolerância na prática",
+    "content": "\\\"Descobrimos que os princípios de tolerância e amor tinham que ser enfatizados na prática. Não podemos nunca dizer (ou insinuar) a alguém que ele deva concordar com nossa fórmula ou ser excomungado. O ateu pode se levantar numa reunião de A.A., ainda negando a Divindade, mas relatando o quanto mudou em atitude e ponto de vista. Sabemos por experiência que ele em pouco tempo mudará de idéia a respeito de Deus, mas ninguém lhe diz que ele deve fazer isso. 63 http://slidepdf.com/reader/full/na-opiniao-do-bill 63/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"A fim de levar ainda mais longe o princípio de aceitação e tolerância, não exigimos nenhuma religião de ninguém. Todas as pessoas com problema alcoólico que queiram se livrar dele e se ajustar bem às circunstâncias da vida tornam-se membros de A.A., simplesmente se ligando a nós. Nada é preciso, a não ser sinceridade. Mas não exigimos nem isso. \\\"Numa atmosfera como essa, o ortodoxo, o heterodoxo e o descrente se misturam e juntos são felizes e úteis. Uma oportunidade de obter crescimento espiritual é aberta a todos\\\". Carta de 1940"
+  },
+  "159": {
+    "title": "Entre os extremos",
+    "content": "\\\"A pergunta de fato é se podemos aprender tudo de nossas experiências, pelas quais podemos crescer e ajudar outros a crescerem à semelhança e imagem de D\\\"Seaubse.mos que se nos negarmos a fazer aquilo que é razoavelmente possível para nós, seremos castigados. E seremos igualmente castigados se presumirmos ter uma perfeição, que simplesmente não existe. \\\"Aparentemente, o caminho da relativa humildade e do progresso teria que estar entre esses extremos. Em nosso lento progresso, fugindo da revolta, a verdadeira perfeição está sem dúvida muito distante\\\". Carta de 1959"
+  },
+  "160": {
+    "title": "Os racionalizadores e os modestos",
+    "content": "Nós, os alcoólicos, somos os maiores racionalizadores do mundo. Fortalecidos com a desculpa de que estamos fazendo grandes coisas para o bem de A.A., podemos, através da quebra do anonimato, continuar com nossa antiga e desastrosa busca do poder e prestígio pessoal, honras públicas e dinheiro – as mesmas ambições implacáveis que quando frustradas uma vez nos conduziram à bebida. * * * O Dr. Bob foi na realidade uma pessoa muito mais humilde do que eu, e o anonimato ele compreendeu muito facilmente. Quando se soube com toda a segurança que ele estava para morrer, alguns de seus amigos sugeriram que se erguesse um monumento ou mausoléu em sua homenagem e de sua esposa Anne – digno de um fundador e sua esposa. Contando-me a esse respeito, o Dr. Bob sorriu e disse: \\\"Deus os abençoe. Eles têm boa intenção, mas que sejamos enterrados, tanto você como eu, da mesma maneira como são todas as pessoas\\\". No cemitério de Akron, onde jazem o Dr. Bob e Anne, a lápide simples não diz sequer uma palavra a respeito de A.A. Esse exemplo comovedor e definitivo de modéstia provará ser de maior valor para A.A., a longo prazo, do que qualquer promoção pública ou qualquer monumento grandioso. 1 – A.A. Atinge e Maioridade, pág. 262 2 – A.A. Atinge a Maioridade, págs. 122 e 123 64 http://slidepdf.com/reader/full/na-opiniao-do-bill 64/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "161": {
+    "title": "Inventário de quem?",
+    "content": "Não contamos as experiências íntimas de um outro membro, sem estar certos de que ele aprovaria. Achamos melhor, quando possível, nos limitar às nossas próprias histórias. Um homem pode criticar ou gozar dele mesmo, e isso vai afetar os outros de maneira favorável, mas a crítica ou o ridículo dirigido a alguma outra pessoa, muitas vezes produz efeito contrário. * * * Uma constante análise de nossas qualidades e deficiências e o verdadeiro desejo de aprender e de crescer, por esse meio, para nós constituem uma necessidade. Nós, alcoólicos, aprendemos isso com dificuldade. Em todos os tempos e lugares, é claro, pessoas mais experientes do que nós adotaram a prática da auto- análise e da crítica rigorosa. 12 –– OAslc Doóolziec oPsa Assnoôsn, ipmágo.s ,7 p6ágs. 129 e 130"
+  },
+  "162": {
+    "title": "\"Mantenha-o simples\"",
+    "content": "\\\"Precisamos distinguir bem entre a simplicidade espiritual e a simplicidade funcional. Quando dizemos que A.A. não prega proposição teológica, a não ser Deus, como nós O concebemos, simplificamos muito a vida de A.A., evitando conflito e rejeição. \\\"Mas quando entramos nas questões de ação, pelos grupos, áreas e por A.A. como um todo, achamos que devemos nos organizar um pouco para levar a mensagem – ou então enfrentar o caos. E o caos não é simplicidade\\\". * * * Aprendi que o temporário ou aparentemente bom pode muitas vezes não ser aquilo que é sempre o melhor. Quando se trata da sobrevivência de A.A., nem o nosso melhor será bom o suficiente. 1 – Carta de 1966 2 – A.A. Atinge a Maioridade, pág. 263"
+  },
+  "163": {
+    "title": "O alívio e a alegria",
+    "content": "Quem pode dar uma explicação de todas as misérias que já sofremos e quem pode avaliar o alívio e a alegria que os últimos anos nos trouxeram? Quem pode possivelmente contar os grandes resultados do que o trabalho de Deus, através de A.A., já pôs em movimento? E quem pode desvendar o grande mistério de nossa total libertação da escravidão, uma escravidão que leva à mais fatal e desesperada obsessão, que por séculos tinha dominado a mente e o corpo dos homens e mulheres como nós? * * * 65 http://slidepdf.com/reader/full/na-opiniao-do-bill 65/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Achamos que o bom humor e o riso são úteis. As pessoas de fora às vezes ficam chocadas, quando manifestamos alegria contando uma experiência aparentemente trágica, do passado. Mas por que não deveríamos rir? Estamos recuperados e ajudamos os outros a se recuperarem. Que maior motivo de regozijo poderia haver do que esse? 1 – A.A. Atinge a Maioridade, pág. 40 2 – Alcoólicos Anônimos, pág. 135"
+  },
+  "164": {
+    "title": "Um princípio salvador",
+    "content": "Essa prática de admitir os próprios defeitos a uma outra pessoa é, sem dúvida, muito antiga. Isso tem sido válido, em todos os séculos, e caracteriza a vida de todas as pessoas espiritualizadas e verdadeiramente religiosas. Mas hoje a religião não é nem de longe a única defensora desse princípio shaulmvaadnoor . tOems p dsieq udiiastcraesr nei mpseicnótolo geo cso anphoenctaimme an tgorsa npdreá ntieccoess sdidaasd fea qlhuaes t oddeo ssuear própria personalidade e de discutí-las com uma pessoa compreensiva e digna de confiança. No que se refere aos alcoólicos, A.A. vai ainda mais longe. A maioria de nós declararia que sem a corajosa admissão de nossos defeitos para um outro ser humano, não poderíamos nos manter sóbrios. Até que estejamos dispostos a tentar isso, parece evidente que a graça de Deus não nos tocará para expulsar nossas obsessões destrutivas. Os Doze Passos, pág. 46"
+  },
+  "165": {
+    "title": "\"Sucesso\" no trabalho do décimo segundo passo",
+    "content": "\\\"Percebemos agora que no trabalho do Décimo Segundo Passo os resultados imediatos não são tão importantes. Algumas pessoas começam a trabalhar com outras e têm sucesso imediato. É possível que fiquem convencidas. Aqueles de nós que não são tão bem-sucedidos, no início, ficam deprimidos. \\\"De fato, o servidor que é bem-sucedido difere daquele que não é, apenas porque teve sorte com seus prováveis membros. Ele simplesmente aborda recém-chegados que estão prontos e capazes de parar de beber imediatamente. Com os mesmos prováveis membros, a pessoa aparentemente mal sucedida teria obtido quase os mesmos resultados. Você tem que trabalhar com muitos recém- chegados, para poder obter uma média\\\". * * * Toda verdadeira comunicação deve ser baseada na necessidade mútua. Vimos que cada padrinho teria que admitir humildemente suas próprias necessidades, do mesmo modo que seu afilhado. 1 – Carta de 1942 2 – A.A. Today, pág. 10"
+  },
+  "166": {
+    "title": "66",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 66/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Medo de nada Embora nós de A.A. estejamos vivendo num mundo caracterizado por medo destrutivos como nunca houve na história, vemos grandes setores de fé e inúmeras aspirações em direção à justiça e confraternização. Contudo, nenhum profeta ousa dizer se o futuro do mundo será uma terrível destruição ou o começo, sob a vontade de Deus, da mais brilhante era já conhecida pela humanidade. Estou certo de que nós, AAs, compreendemos essa perspectiva. Em pequena escala, temos experimentado esse mesmo estado de terrível incerteza, cada um em sua própria vida. Sem orgulho, podemos dizer que não tememos o futuro do mundo, qualquer que ele seja. Isso porque nos tornamos capazes de sentir profundamente e dizer: \\\"Não teremos medo de nada – seja feita Tua vontade, não a nossa\\\". Grapevine de janeiro de 1962"
+  },
+  "167": {
+    "title": "Progresso em vez de perfeição",
+    "content": "Ao estudar os Doze Passos, muitos de nós reclamam: \\\"Que tarefa! Não posso fazê-la toda\\\". Não desanime. Nenhum de nós conseguiu aderir completamente a estes princípios. Não somos santos. O que importa é que estejamos dispostos a crescer espiritualmente. Os princípios apresentados são orientações para o progresso. Pretendemos o progresso espiritual, em vez da perfeição espiritual. * * * \\\"Nós, alcoólicos recuperados, não somos tão irmãos nas virtudes como somos em nossos defeitos e em nossas lutas comuns para vencê-los\\\". 1 – Alcoólicos Anônimos, pág.75"
+  },
+  "168": {
+    "title": "Aceitando as dádivas de Deus",
+    "content": "\\\"Embora muitos teólogos afirmem que as súbitas experiências espirituais levem a uma distinção especial ou a algum tipo de ordenação divina, eu questiono esse ponto de vista. Todo ser humano, qualquer que sejam seus atributos para o bem ou para o mal, é uma parte da economia espiritual divina. Portanto, cada um de nós tem seu lugar, e não posso aceitar que Deus pretenda exaltar um mais que o outro. \\\"Desta forma, é preciso que todos nós aceitemos qualquer dádiva positiva que recebamos, com profunda humildade, tendo sempre em mente que nossas atitudes negativas foram em primeiro lugar necessárias, como um meio de nos reduzir a um estado tal que nos deixasse prontos para receber uma dádiva positiva, através da experiência da conversão. Nosso próprio alcoolismo e a imensa deflação que finalmente daí resultou, constituem na verdade a base sobre a qual repousa nossa experiência espiritual\\\". Carta de 1964 67 http://slidepdf.com/reader/full/na-opiniao-do-bill 67/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "169": {
+    "title": "O aprendizado não termina nunca",
+    "content": "\\\"Minha experiência, como membro antigo, é em alguns pontos paralela à sua e as de muitos outros. Todos nós descobrimos que chega o momento em que não mais podemos conduzir os negócios funcionais dos grupos, áreas ou, em meu caso, de A.A. como um todo. Em última análise, só podemos valer tanto quanto tenha se justificado nosso exemplo espiritual. Dessa forma, nós nos tornamos símbolos úteis – e isso é praticamente tudo\\\". * * * \\\"Tornei-me discípulo do movimento de A.A., ao invés do professor que eu outrora achava que era\\\". 1 – Carta de 1964 2 – Carta de 1949"
+  },
+  "170": {
+    "title": "A vontade de quem?",
+    "content": "Temos visto AAs pedirem, com muita sinceridade e fé, orientação explícita de Deus sobre assuntos que variam, desde desastrosas crises domésticas ou financeiras, até a correção de pequenas falhas pessoais, como a impontualidade. Um homem que tenta dirigir rigorosamente sua vida por esse tipo de oração, com essa necessidade egoísta de respostas divinas, é uma pessoa especialmente confusa. A qualquer pergunta ou crítica a suas ações, ele logo fala de sua confiança na oração como um guia para todos os assuntos, sejam eles importantes ou não. Ele pode ter esquecido a possibilidade de que seus desejos e a tendência humana de racionalizar tenham distorcido sua assim chamada orientação. Com a melhor das intenções, ele tende a impor sua própria vontade em qualquer situação ou problema, com a confortável segurança de que está agindo sob a direção específica de Deus. Os Doze Passos, pág. 94"
+  },
+  "171": {
+    "title": "Benefícios e mistérios",
+    "content": "\\\"A preocupação de A.A. com a sobriedade é às vezes mal interpretada. Para alguns, essa simples virtude parece ser o único benefício de nossa Irmandade. Pensam que somos bêbados recuperados e que em outros aspectos mudamos para melhor, pouco ou nada. Essa suposição está muito longe da verdade. Sabemos que uma sobriedade permanente pode ser alcançada apenas por uma revolucionária mudança na vida e perspectiva do indivíduo – por um despertar espiritual que pode eliminar o desejo de beber\\\". * * * \\\"Você está se perguntando, como muitos de nós devem estar: 'Quem sou eu?' 'Onde estou?' 'Para onde vou?' O processo de esclarecimento é geralmente lento. 68 http://slidepdf.com/reader/full/na-opiniao-do-bill 68/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Mas, no fim, nossa busca sempre traz uma descoberta. Esses grandes mistérios são, afinal de contas, mantidos em completa simplicidade. A disposição de desenvolver-se é a essência de todo crescimento espiritual.\\\" 1 – Carta de 1966 2 – Carta de 1955"
+  },
+  "172": {
+    "title": "Este assunto de honestidade",
+    "content": "\\\"Somente Deus pode saber o que é honestidade absoluta. Logo, cada um de nós tem que imaginar com o máximo de nossa capacidade – o que é esse grande ideal. \\\"Falíveis como somos e sempre seremos nesta vida, seria presunção supor que poderemos alcançar uma honestidade absoluta. O melhor que podemos fazer é atingir uma melhor qualidade de honestidade. \\\"hÀonse vsteizdeasd ep\\\"r.e Nciãsoa mpoodse cmoolos,c asor bo o a dmisofra raccei mdea udma ai n'pdeirsfceriitma ihnoandeas t\\\"idvaedrde'a, dfeeirriar outras pessoas, cruel e desnecessariamente. Sempre se deve perguntar: 'Qual é a coisa melhor e mais cheia de amor que posso fazer?'\\\" Carta de 1966"
+  },
+  "173": {
+    "title": "As raízes da realidade",
+    "content": "Iniciemos um inventário pessoal, o Quarto Passo. Sem fazer um inventário periódico, um negócio geralmente vai à falência. Fazer um inventário comercial é um processo que consiste em conhecer e enfrentar os fatos. É um esforço para se descobrir a verdade sobre a mercadoria em estoque. Um dos objetivos é revelar os bens danificados ou que não têm condições de serem vendidos, de desfazer-se deles logo, sem pesar. Para que o dono do negócio seja bem- sucedido, ele não pode se enganar a respeito dos valores. Tínhamos que fazer exatamente a mesma coisa com nossas vidas. Tínhamos que fazer um inventário com honestidade. <br><br> \\\"Tenho excelentes razões para saber como os momentos de percepção podem construir uma vida inteira de serenidade espiritual. As raízes da realidade, suplantando as ervas daninhas neuróticas, vão promover uma base firme, apesar do furacão das forças que nos destruiriam ou que usaríamos para nos destruir\\\". 1 – Alcoólicos Anônimos, pág. 78 2 – Carta de 1949"
+  },
+  "174": {
+    "title": "Forças construtivas",
+    "content": "Minha opinião era tão arraigada, como a que freqüentemente vemos hoje em dia nas pessoas que se dizem ateístas ou agnósticas. Sua vontade de descrer é tão forte, que parecem preferir a morte do que uma busca sincera de Deus, feita com a mente aberta. Felizmente para mim e para muitos como eu que buscaram A.A., 69 http://slidepdf.com/reader/full/na-opiniao-do-bill 69/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com as forças construtivas, produzidas em nossa Irmandade, quase sempre venceram essa colossal teimosia. Abatidos e completamente derrotados pelo álcool, frente a frente com a prova viva da libertação e rodeados por aqueles que podem nos falar do fundo do coração, finalmente nos rendemos. A seguir, paradoxalmente, nos encontramos numa nova dimensão, o verdadeiro mundo do espírito e da fé. Boa vontade suficiente, mente aberta suficiente – e aí está! A.A. Today, pág. 9"
+  },
+  "175": {
+    "title": "Aspectos da tolerância",
+    "content": "Todos os tipos de pessoas têm encontrado caminho em A.A. Não faz muito tempo, estive conversando em meu escritório com um membro que leva o título de Condessa. Nessa mesma noite fui a uma reunião de A.A. Era inverno e na gpuoartrad avdaa neonstsraods ac aessatcaovsa. Puemrg ucnavteail:h e\\\"Qirou emde éb aaqixuae lee?s\\\"t aEtu raal gquéume greesnptiolmndeenut:e \\\"Oh!, ele está aqui há muito tempo. Todo mundo gosta dele. Ele pertencia ao grupo de Al Capone.\\\" Isso mostra como A.A. é hoje em dia universal. <br><br> Não temos o desejo de convencer ninguém de que só existe um meio pelo qual a fé pode ser adquirida. Todos nós, sem distinção de raça, credo ou cor, somos filhos de um Criador vivo, com quem podemos estabelecer um relacionamento em termos simples e compreensíveis, tão logo estejamos dispostos e sejamos honestos o suficiente para tentar. 1 – A.A. Atinge a Maioridade, págs. 92 e 93 2 – Alcoólicos Anônimos, pág. 46"
+  },
+  "176": {
+    "title": "Domínio e exigência",
+    "content": "O fato principal é que deixamos de reconhecer nossa total incapacidade de manter um verdadeiro entrosamento com um outro ser humano. Nossa egomania prepara duas armadilhas desastrosas. Ou insistimos em dominar as pessoas que conhecemos, ou dependemos muito delas. Se nos apoiamos demais nas pessoas, mais cedo ou mais tarde vamos nos decepcionar, pois também são seres humanos e possivelmente não podem satisfazer às nossas constantes exigências. Assim, nossa insegurança cresce e se inflama. Quando temos o hábito de tentar manipular os outros, para atender a nossos obstinados desejos, eles se revoltam e resistem fortemente. Desenvolvemos, então, sentimentos feridos, mania de perseguição e um desejo de desforra. <br><br> Minha dependência significa exigência – uma exigência da posse e controle das pessoas e condições que me cercam. 1 – Os Doze Passos, pág. 43 2 – Grapevine de janeiro de 1958 70 http://slidepdf.com/reader/full/na-opiniao-do-bill 70/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "177": {
+    "title": "Dinheiro – antes e depois",
+    "content": "Na época em que bebíamos, gastávamos como se o dinheiro nunca fosse acabar, embora entre uma bebedeira e outra, às vezes fôssemos ao outro extremo e nos tornássemos quase avarentos. Sem perceber, estávamos apenas acumulando fundos para a próxima farra. O dinheiro era para nós o símbolo do prazer e da auto-importância. Quando nossa maneira de beber piorou muito, o dinheiro era apenas um imperioso requisito que poderia nos proporcionar o gole seguinte e o conforto do desligamento que ele trazia por alguns momentos. <br><br> Embora a recuperação financeira esteja sendo alcançada por muitos de nós, descobrimos que não podemos pôr o dinheiro em primeiro lugar. Para nós, o bem-estar material sempre vem depois do progresso espiritual; nunca o precede. 12 –– OAslc Doóolziceo Psa Assnoôsn, ipmágo.s ,1 p0á6g. 131"
+  },
+  "178": {
+    "title": "Com os pés no chão",
+    "content": "Aqueles de nós que passaram muito tempo no mundo da falsa espiritualidade, eventualmente viram a infantilidade disso. O mundo do sonho foi substituído por um grande sentido de realidade, acompanhado de uma crescente consciência do poder de Deus em nossas vidas. Chegamos a acreditar que Ele gostaria que mantivéssemos nossas cabeças nas nuvens com Ele, mas que nossos pés ficassem firmes no chão. É aí onde estão nossos semelhantes, e é aí onde nosso trabalho deve ser feito. Essas são as realidades para nós. Não achamos nenhuma incompatibilidade entre uma experiência espiritual poderosa e uma vida útil, sadia e feliz. Alcoólicos Anônimos, pág. 133"
+  },
+  "179": {
+    "title": "Enfrentando a raiva",
+    "content": "Poucas pessoas foram mais atingidas pelos ressentimentos do que nós alcoólicos. Uma explosão de mau gênio poderia estragar nosso dia, e um sentimento de revolta bem alimentado poderia nos tornar miseravelmente inúteis. Além do mais, nunca fomos capazes de distinguir a raiva justificada da não justificada. A nosso ver, nossa indignação era sempre justificada. A raiva, esse luxo que às vezes as pessoas mais equilibradas têm, poderia nos manter sob uma bebedeira emocional indefinidamente. Essas \\\"bebedeiras secas\\\" com freqüência nos levavam diretamente à garrafa. <br><br> Nada melhor do que o controle da língua e da pena. Devemos evitar a crítica feita com raiva, a discussão violenta, o mau humor e o desdém em silêncio. Estas são armadilhas emocionais que têm como isca o orgulho e o espírito de vingança. Quando somos tentados pela isca, deveríamos estar preparados para 71 http://slidepdf.com/reader/full/na-opiniao-do-bill 71/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com dar um passo atrás e pensar. Não podemos pensar nem agir para alcançar um bom objetivo, até que o hábito do autocontrole tenha se tornado automático. 1 – Os Doze Passos, pág. 78 2 – Os Doze Passos, pág. 79"
+  },
+  "180": {
+    "title": "Problema da comunidade",
+    "content": "A resposta ao problema do alcoolismo parece estar na educação – nas salas de aula, nas faculdades de medicina, entre os clérigos e empregadores, nas famílias e no público em geral. Do berço à sepultura, o bêbado e o alcoólico em potencial terão de ser completamente cercados de uma verdadeira e profunda compreensão e de uma constante sucessão de informações. Isso significa uma verdadeira educação, apresentada adequadamente. Até aqui, grande parte dessa educação tinha atacado mais a imoralidade das bebedeiras do qAugeo ara d, oqeuneçma dsoe aelnccoaorlrisemgao .dessa educação? Obviamente, ela é um trabalho da comunidade e de especialistas. Individualmente, nós AAs podemos ajudar, mas A.A. como tal não pode, e não deveria entrar diretamente nesse campo. Portanto, devemos confiar em outras organizações, em amigos de fora e em sua boa vontade para fornecer grande quantidade de dinheiro e esforço. Grapevine de março de 1958"
+  },
+  "181": {
+    "title": "Perfeição imaginária",
+    "content": "Quando nós, os primeiros AAs, tivemos o primeiro vislumbre de como poderíamos ser espiritualmente orgulhosos, inventamos esta expressão: \\\"Não tente ser Santo tão depressa!\\\" A velha advertência pode parecer mais um daqueles fáceis álibis que podem nos desculpar de não tentar o melhor que podemos. No entanto, uma visão mais profunda revela exatamente o contrário. Essa é a maneira de A.A. prevenir a cegueira do orgulho e as perfeições imaginarias que não possuímos. <br><br> Somente o Primeiro Passo, onde fizemos a admissão total de que éramos impotentes perante o álcool, pode ser praticado com absoluta perfeição. Os outros onze Passos enunciam ideais perfeitos. São metas para as quais nos dirigimos e a medida pela qual avaliamos nosso progresso. 1 – Grapevine de junho de 1961 2 – Os Doze Passos, pág. 58"
+  },
+  "182": {
+    "title": "A realidade das experiências espirituais",
+    "content": "\\\"Talvez você levante a questão da alucinação contra a divina imagem de uma autêntica experiência espiritual. Duvido que alguém já tenha definido com autoridade o que é realmente uma alucinação. Contudo, é certo que todos os que tiveram experiência espiritual afirmam a realidade delas. A melhor evidência 72 http://slidepdf.com/reader/full/na-opiniao-do-bill 72/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com dessa realidade são os frutos posteriores. Aqueles que receberam essas dádivas da Graça mudaram muito, quase sempre para melhor. Quase não se pode dizer isso daqueles que tiveram alucinações. \\\"Alguns poderiam me achar presunçoso, quando digo que minha própria experiência é real. Contudo, posso afirmar seguramente que, em minha vida e nas vidas de inúmeras outras pessoas, os frutos dessa experiência foram reais, e os benefícios além da estimativa\\\". Palestra de 1960"
+  },
+  "183": {
+    "title": "Um observador alarmado",
+    "content": "\\\"Durante vários infrutíferos anos, estive num estado que poderia ser chamado de observando com alarme pelo bem do movimento. Achava que era meu dever sempre 'corrigir situações'. Raramente alguém era capaz de me dizer o que eu dTeinvheari qau fea zaeprr,e ned nerin, gaturéamvé sj adme agirsa nfdoei beesfmor-çsou,c ceodmid om einmh am per ódpirziear e oxp qeurieê nfcaizae.r. \\\"Quando me punha a vigiar os outros, descobri que com freqüência eu estava motivado pelo medo do que eles estavam fazendo, farisaísmo e mesmo absoluta intolerância. Em conseqüência, poucas vezes consegui corrigir alguma coisa. Eu só levantava barreiras de ressentimentos que cortavam qualquer sugestão, exemplo, compreensão ou amor\\\". <br><br> \\\"Os AAs freqüentemente dizem: Nossos líderes não dirigem por mandato; lideram pelo exemplo. Se tivéssemos que afetar os outros, favoravelmente, precisaríamos praticar o que pregamos – e esquecer também o pregar. O bom exemplo fala por si mesmo.\\\" 1 – Carta de 1945 2 – Carta de 1966"
+  },
+  "184": {
+    "title": "Enfrentando a adversidade",
+    "content": "\\\"Nosso crescimento espiritual e emocional em A.A. não depende tanto do sucesso como de nossos fracassos e contratempos. Se você tiver isso em mente, acho que sua recaída terá o efeito de chutá-lo escada acima, em vez de para baixo. \\\"Nós AAs, não tivemos nenhum professor melhor do que a velha Senhora Adversidade, a não ser naqueles casos em que recusamos o ensinamento\\\". <br><br> \\\"De vez em quando somos vítimas da crítica. Quando estamos irritados e feridos, é difícil não pagar na mesma moeda. Entretanto, podemos nos afastar e então nos examinar, perguntando se essas críticas têm fundamento. Se assim for, podemos admitir nossos defeitos para eles. Geralmente isso leva a um entendimento mútuo\\\". \\\"Suponhamos que nossos críticos sejam injustos. Então podemos tentar uma persuasão calma. Se continuarem os falatórios, nos é possível – de coração – 73 http://slidepdf.com/reader/full/na-opiniao-do-bill 73/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com perdoá-los. Talvez um senso de humor possa ser nossa salvação, por isso podemos tanto perdoar como esquecer\\\". 1 – Carta de 1958 2 – Carta de 1966"
+  },
+  "185": {
+    "title": "Bumerangue",
+    "content": "Quando estava com dez anos, eu era um rapaz alto e desajeitado e me sentia muito mal com isso, porque os moleques menores que eu sempre levavam vantagens nas brigas. Eu me lembro de que estive muito deprimido durante um ano ou mais, daí comecei a desenvolver uma grande vontade de vencer. Um dia, meu avô chegou com um livro sobre a Austrália e me disse: \\\"Este livro diz que ninguém, a não ser um camponês australiano, sabe fabricar e atirar um bumerangue\\\". Pfaebnrsiecia:r \\\"eA aqtuiria er sutám m biunmhae roapnogrutue.n\\\"i dBaedme.,\\\" q \\\"uSaelrqeuie or pmroimleeqiuroe hpoomdeermia ntear Aummaé riidcéai aa como essa. Isso poderia ter durado dois ou três dias como duas ou três semanas. Mas tive uma força motivadora que se manteve durante seis meses, fiz um bumerangue que pôde dar a volta no pátio da igreja, em frente da casa, quase atingindo meu avô na cabeça quando o bumerangue estava voltando. Com emoção, lancei a moda de um outro tipo de bumerangue, um que quase me matou posteriormente. A.A. Atinge a Maioridade, págs. 48 e 49"
+  },
+  "186": {
+    "title": "\"O único requisito...\"",
+    "content": "Na Terceira Tradição, A.A. está na verdade dizendo a todo bebedor problema: \\\"Você será um membro de A.A. se assim disser. Você mesmo pode declarar que faz parte da Irmandade; ninguém pode deixá-lo de fora. Seja você quem for, seja qual for o ponto a que você tenha chegado, sejam quais forem suas complicações emocionais – mesmo seus crimes – não queremos deixá-lo de fora. Queremos apenas ter a certeza de que você terá a mesma oportunidade de obter a sobriedade que nós tivemos.\\\" <br><br> Não queremos negar a ninguém a oportunidade de se recuperar do alcoolismo. Queremos abranger o maior número possível de pessoas, nunca ser exclusivistas. 1 – As Doze Tradições, pág. 21 2 – Grapevine de agosto de 1946"
+  },
+  "187": {
+    "title": "Palavra ou ação?",
+    "content": "Ao fazer reparações, raramente é aconselhável se abordar um indivíduo, que ainda sofra a injustiça que lhe fizemos, e anunciar que nos tornamos religiosos. Isso deveria ser chamado de agressão com o queixo. Por que sermos chamados 74 http://slidepdf.com/reader/full/na-opiniao-do-bill 74/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com de chatos ou fanáticos religiosos? Se fizermos isso, poderemos destruir uma futura oportunidade de levar uma mensagem benéfica. Mas a pessoa que ouvir nossas reparações ficará bem impressionada com nosso sincero desejo de reparar um dano. Ela vai se interessar mais por uma demonstração de boa vontade do que pela conversa das descobertas espirituais. Alcoólicos Anônimos, pág. 89"
+  },
+  "188": {
+    "title": "Vencer as provas",
+    "content": "Em nosso modo de pensar, qualquer esquema para combater o alcoolismo, que se proponha a proteger totalmente o doente da tentação, está destinado ao fracasso. Se o alcoólico tenta se proteger, ele pode ser bem-sucedido por algum tempo, mas geralmente acaba tendo a maior das explosões. Já tentamos esses métodos. Essas tentativas de fazer o impossível sempre fracassaram. Nossa resposta é libertar-se do álcool, e não fu*g*i*r dele. \\\"A fé sem obras é morta\\\". Essa é uma aterradora verdade para o alcoólico! Porque se um alcoólico deixa de aperfeiçoar e engrandecer sua vida espiritual, por meio do trabalho e do sacrifício próprio em benefício dos demais, ele não pode vencer as provas e os momentos de fraqueza que esperam por ele. Se não trabalhar, com certeza voltará a beber, e se beber, certamente morrerá. Então, a fé será realmente morta. 1 – Alcoólicos Anônimos, pág. 109 2 – Alcoólicos Anônimos, pág. 34"
+  },
+  "189": {
+    "title": "Experimentadores",
+    "content": "Nós, agnósticos, gostávamos de A.A., tudo bem, e estávamos prontos para dizer que ele fazia milagres. Mas recusávamos ante a meditação e a oração, tão obstinadamente quanto o cientista, que se recusava a realizar certa experiência, por medo que ela viesse provar que sua teoria favorita estava errada. Quando finalmente experimentamos, e surgiram resultados inesperados, nós nos sentimos diferentes; de fato percebemos que ficamos diferentes e assim aceitamos a meditação e a oração. E descobrimos que isso pode acontecer com qualquer pessoa que tente. Já foi dito e muito bem que \\\"aqueles que zombam da oração são, quase sempre, os que não a experimentaram suficientemente\\\". Os Doze Passos, pág. 84"
+  },
+  "190": {
+    "title": "O modo de vida de A.A. no lar",
+    "content": "Mesmo que o alcoólico não corresponda, não há razão para você ignorar seus familiares. Você deveria continuar a manter relações amigáveis com eles, expondo o conceito de A.A. sobre o alcoolismo e seu tratamento. Se aceitarem isso e também aplicarem nossos princípios a seus problemas, há uma chance 75 http://slidepdf.com/reader/full/na-opiniao-do-bill 75/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com maior do chefe da família se recuperar. E mesmo que ele continue a beber, a família vai achar a vida mais suportável. <br><br> A não ser que a família de um novo membro esteja disposta a viver de acordo com os princípios espirituais, achamos que o alcoólico não deveria insistir nisso. Os familiares mudarão com o tempo. O melhor comportamento do alcoólico geralmente convencerá a família muito melhor do que suas palavras. Alcoólicos Anônimos, pág. 106 Alcoólicos Anônimos, pág. 94 *Hoje, a iniciação do modo de vida de A.A. no lar é o principal propósito dos Grupos Familiares Al-Anon, que contam aproximadamente (conforme estatística de 1983) com 20.000 grupos no mundo todo. Esses grupos são constituídos de esposas, esposos e parentes de alcoólicos. O sucesso do Al-Anon tem sido enorme, levando os familiares a uma vida satisfatória."
+  },
+  "191": {
+    "title": "O começo da humildade",
+    "content": "\\\"Há poucos absolutos inerentes nos Doze Passos. Quase todos os Passos estão abertos à interpretação, baseada na experiência e visão do indivíduo. \\\"Conseqüentemente, o indivíduo é livre para começar os Passos no ponto em que ele puder ou quiser. Deus, como nós O concebemos, pode ser definido como um 'Poder maior...' ou o Poder Superior. Para milhares de membros, o próprio grupo de A.A. tem sido, no início, um 'Poder Superior'. Esse conhecimento é fácil de aceitar, se o recém-chegado sabe que os membros, em sua maioria, estão sóbrios e ele não. \\\"Sua admissão é o começo da humildade – pelo menos o recém-chegado está disposto a renunciar à idéia de que ele mesmo é Deus. Esse é o começo de que ele precisa. Se seguir esse procedimento, ele vai relaxar e praticar todos os Passos que puder, e certamente crescerá espiritualmente\\\". Carta de 1966"
+  },
+  "192": {
+    "title": "Levando a mensagem",
+    "content": "A maravilhosa energia que o Décimo Segundo Passo libera, pela qual ele leva nossa mensagem ao alcoólico que ainda sofre e que, finalmente, põe os Doze Passos em ação, aplicando-os a todas as nossas atividades, é o desfecho, a magnífica realidade de A.A. <br><br> Nunca fale com um alcoólico, com ares de superioridade moral ou espiritual, simplesmente lhe apresente o conjunto de instrumentos espirituais, para que ele o examine. Mostre-lhe como esses instrumentos funcionaram para você. Ofereça-lhe amizade e camaradagem. 1 – Os Doze Passos, pág. 96 2 – Alcoólicos Anônimos, pág. 104 76 http://slidepdf.com/reader/full/na-opiniao-do-bill 76/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "193": {
+    "title": "O álibi espiritual",
+    "content": "Nossas primeiras tentativas de fazer inventários provaram ser pouco realistas. Eu costumava ser um campeão em auto-exame irrealista. Em certas ocasiões, eu só queria ver o lado de minha vida que parecesse bom. Então exagerava muito as virtudes que eu supunha ter conquistado. Depois me felicitava pelo grande trabalho que estava fazendo em A.A. Isso naturalmente gerava uma terrível ânsia por ainda mais \\\"talento\\\" e ainda mais aprovação. Eu estava voltando ao velho padrão de meus dias de bebedeira. Aqui estavam as mesmas metas – poder, fama e aplauso. Além disso, eu tinha o melhor álibi possível – o álibi espiritual. O fato de que eu tinha, realmente, um objetivo espiritual, fazia esse grande absurdo parecer perfeitamente correto. Grapevine de junho de 1961"
+  },
+  "194": {
+    "title": "A obsessão e a resposta",
+    "content": "A idéia de que de algum modo, algum dia, vai controlar e desfrutar da bebida constitui a grande obsessão de todo bebedor anormal. A persistência dessa ilusão é incrível. Muitos a perseguem até às portas da loucura e da morte. <br><br> O alcoolismo, não o câncer, era minha doença, mas qual a diferença? O alcoolismo também não era um consumidor do corpo e da mente? O alcoolismo levaria mais tempo para matar, mas o resultado era o mesmo. Então decidi, que se houvesse um grande Médico que pudesse curar a doença do alcoolismo, o melhor que eu poderia fazer era procurá-Lo imediatamente. 1 – Alcoólicos Anônimos, pág. 49 2 – A.A. Atinge a Maioridade, pág. 56"
+  },
+  "195": {
+    "title": "A linguagem do coração",
+    "content": "Por que, nesse ponto da história, Deus escolheu para comunicar Sua graça curadora a tantos de nós? Cada aspecto dessa expansão global pode estar relacionado com uma simples e crucial palavra. A palavra é \\\"comunicação\\\". Tem havido uma comunicação salvadora de vidas entre nós, com o mundo que nos rodeia e com Deus. Desde o princípio, a comunicação em A.A. não tem sido apenas a transmissão de idéias e atitudes saudáveis. Porque somos irmãos no sofrimento e porque nossos meios comuns de libertação são para nós eficientes, apenas quando levados constantemente aos outros, nossos canais de contatos têm estado sempre carregados com a linguagem do coração. A.A. Today, págs. 7 e 8"
+  },
+  "196": {
+    "title": "77",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 77/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Antídoto para o medo Quando nossas falhas geram o medo, nós então temos uma doença da alma. Essa doença, por sua vez, gera mais defeitos de caráter. O medo irracional de que nossos instintos não sejam satisfeitos nos leva a cobiçar os bens dos outros, a desejar ardentemente sexo e poder, a ficar com raiva quando nossas exigências instintivas são ameaçadas, a sentir inveja quando as ambições dos outros parecem ser realizadas enquanto as nossas não. Comemos, bebemos e nos apossamos de mais do que precisamos, sempre por medo de não ter o suficiente. E verdadeiramente alarmados frente à perspectiva de trabalho, permanecemos preguiçosos. Desperdiçamos tempo e protelamos ou, na melhor das hipóteses, trabalhamos de má vontade e sem energia. Esses medos são os cupins que, incessantemente, devoram os alicerces de qualquer tipo de vida que tentamos construir. <br><br> Cnaodnaf ocrommee çcar eas dcee saa pfaér,e ccreers. cNeó as dseeg Au.rAan. çdae sicnotebrriiomr.o sO q ugera nnodses om aendtoíd loattoe nbtáes idcoo para o medo é o despertar espiritual. 1 – Os Doze Passos, págs. 39 e 40 2 – Grapevine de janeiro de 1962"
+  },
+  "197": {
+    "title": "Onde leva a racionalização",
+    "content": "\\\"Você sabe o talento que temos para a racionalização. Se, para nós mesmos, justificamos plenamente uma recaída, então nossa propensão para racionalizar quase certamente justificará uma outra, talvez com desculpas diferentes. Mas uma justificação leva a uma outra, e em breve estamos de volta à garrafa em tempo integral\\\". <br><br> Inúmeras vezes, a experiência mostra que mesmo aquele que toma pílula \\\"controladamente\\\" pode perder o controle. As mesmas racionalizações loucas que antigamente caracterizavam sua maneira de beber começam a arruinar sua existência. Ele acha que, se as pílulas podem curar a insônia, podem também curar suas preocupações. Os médicos, nossos amigos, raras vezes são diretamente culpados pelos lamentáveis resultados que tantas vezes experimentamos. É muito fácil, para os alcoólicos, comprar essas drogas perigosas, e uma vez de posse delas, o bebedor muitas vezes é capaz de usá-las sem nenhum critério. Carta de 1959 Grapevine de novembro de 1945"
+  },
+  "198": {
+    "title": "Contar ao público?",
+    "content": "\\\"Alguns AAs de notoriedade mundial às vezes dizem: Se eu contar ao público que estou em Alcoólicos Anônimos, isso vai então trazer muitos outros. 78 http://slidepdf.com/reader/full/na-opiniao-do-bill 78/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Expressa assim a crença de que nossa Tradição do anonimato não está certa – Pelo menos para eles\\\". \\\"Esquecem que, durante seus dias de bebedeiras, suas principais metas eram prestígio e a ambição de se elevar socialmente. Não percebem que quebrando o anonimato, estão inconscientemente perseguindo outra vez aquelas antigas ilusões perigosas. Esquecem que preservar o anonimato significa muitas vezes o sacrifício do desejo pessoal de poder, prestígio e dinheiro. Não vêem que, se essas lutas ser tornarem gerais em A.A., o curso de nossa história seria mudado; que estariam lançando a semente de nossa própria destruição como sociedade.\\\" \\\"No entanto, posso felizmente dizer que, embora muitos de nós sejam tentados – e eu fui um deles –, poucos de nós aqui na América realmente quebram nosso anonimato, a nível público.\\\" Carta de 1958"
+  },
+  "199": {
+    "title": "A arrogância e seu oposto",
+    "content": "Um provável membro muito teimoso foi levado pela primeira vez a uma reunião de A.A., onde dois oradores (ou talvez palestrantes) falavam sobre o tema \\\"Deus, como eu O concebo\\\". Sua atitude lembrava arrogância. De fato, o último orador se excedeu em suas convicções teológicas. Os dois estavam repetindo o que eu fazia anos atrás. Em tudo o que diziam estava implícita a mesma idéia: \\\"Gente, ouça o que estamos dizendo. Nós temos a única verdadeira marca de A.A. – e seria melhor que vocês a aceitassem!\\\" O novo provável membro disse que ele sabia disso – e saiu. Seu padrinho protestou que isso não era realmente A.A. Mas era tarde demais; ninguém pôde abordá-lo depois disso. <br><br> Vejo a \\\"humildade por hoje\\\" como uma posição sadia e segura entre os violentos extremos emocionais. É um lugar tranqüilo, onde posso ter bastante perspectiva e bastante equilíbrio para dar mais um pequeno passo pela estrada claramente marcada que indica a direção dos valores eternos. 1 – Grapevine de abril de 1961 2 – Grapevine de junho de 1961"
+  },
+  "200": {
+    "title": "Fonte de força",
+    "content": "Quando estourou a Segunda Guerra Mundial, esse princípio espiritual teve seu primeiro grande teste. Membros de A.A. entraram nas forças armadas e foram espalhados pelo mundo todo. Seriam eles capazes de aceitar a disciplina, ficando debaixo de fogo e suportando a monotonia e a miséria da guerra? O tipo de dependência que aprenderam em A.A. os levaria em frente? Sim, levou. Tiveram até menos recaídas alcoólicas ou bebedeiras emocionais do que os AAs que estavam em casa, fora de perigo. Mostraram tanta resistência e 79 http://slidepdf.com/reader/full/na-opiniao-do-bill 79/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com valentia quanto qualquer outro soldado. Tanto no Alaska como nas praias de Salermo, sua dependência de um Poder Superior funcionou. Longe de ser uma fraqueza, essa dependência foi sua maior fonte de força. Os Doze Passos, pág. 29"
+  },
+  "201": {
+    "title": "Escolha ilimitada",
+    "content": "Inúmeros alcoólicos são atormentados com a terrível convicção de que, se alguma vez se aproximarem de A.A., serão forçados a aceitar algum tipo de fé ou teologia. Eles não compreendem que a fé nunca é um imperativo para ser membro de A.A.; que a sobriedade pode ser alcançada com um mínimo aceitável de fé e que nossos conceitos de um Poder Superior e Deus – como nós O concebemos – oferece a cada um uma escolha quase ilimitada de crença espiritual e de ação. Ao falar com o provável membro, enfa*ti*z*e bem o fator espiritual. Se o indivíduo for agnóstico ou ateu, deixe bem claro que ele não tem que concordar com sua concepção de Deus. Ele pode optar por qualquer concepção que queira, desde que tenha sentido para ele. O principal é que ele esteja disposto a acreditar num Poder Superior a ele mesmo e que viva segundo os princípios espirituais. 1 – Grapevine de abril de 1961 2 – Alcoólicos Anônimos, pág. 102"
+  },
+  "202": {
+    "title": "A hora da decisão",
+    "content": "\\\"Nem todas as grandes decisões podem ser tomadas, simplesmente anotando os prós e os contras de uma determinada situação, por mais útil e necessário que seja esse processo. Não podemos sempre depender daquilo que nos parece lógico. Quando há dúvidas acerca de nossa lógica, contamos com Deus e procuramos ouvir a voz da intuição. Se, na meditação, essa voz é persistente o suficiente, podemos ter bastante confiança em agir de acordo com ela, e não de acordo com a lógica. \\\"Se, depois de tentar nos guiar por essas duas coisas, ainda estivermos em dúvida, então deveríamos esperar uma maior orientação e, quando possível, adiar por algum tempo as decisões importantes. Então com maior conhecimento de nossa situação, a lógica e a intuição podem estar bem de acordo no caminho certo. \\\"Mas se a decisão deve ser tomada na hora, não vamos fugir dela por medo. Certa ou errada, sempre podemos tirar proveito da experiência.\\\" Carta de 1966"
+  },
+  "203": {
+    "title": "80",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 80/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com A verdadeira tolerância Aos poucos começamos a ser capazes de aceitar os erros dos outros, assim como suas virtudes. Inventamos a poderosa e significativa frase: \\\"Vamos amar sempre o que há de melhor nos outros – e nunca ter medo do que eles têm de pior.\\\" <br><br> Finalmente começamos a perceber que todas as pessoas, inclusive nós, estão de alguma forma emocionalmente doentes e muitas vezes erradas. Quando isso acontece, nos aproximamos da verdadeira tolerância e percebemos o que significa de fato o verdadeiro amor ao próximo. 1 – Grapevine de janeiro de 1962 2 – Os Doze Passos, pág. 80"
+  },
+  "204": {
+    "title": "A formação do caráter",
+    "content": "Unãmo aé vdeez a dqmuei raa rm qauieo rfirae qdüee nntóesm neanstcee d ceoixmam uomsa q uinef ienleids aedxec eddea mde sseejuo ps rnoaptóusriatois., Quando nos guiam cegamente, ou quando obstinadamente exigimos que nos proporcionem mais satisfações ou prazeres do que nos são possíveis ou devidos, é nesse ponto que nos afastamos do grau de perfeição que Deus deseja para nós aqui na terra. Essa é a medida de nossos defeitos de caráter ou, se você preferir, de nossos pecados. Se pedirmos, Deus certamente perdoará nossas negligências. Mas em nenhum caso, Ele nos torna brancos como a neve e nos mantém assim sem nossa cooperação. Isso é alguma coisa que supomos estar dispostos a fazer. Ele quer apenas que tentemos, da melhor maneira possível, progredir na formação do caráter. Os Doze Passos, pág. 55"
+  },
+  "205": {
+    "title": "Virtude a auto-ilusão",
+    "content": "Eu costumava me confortar com a crença exagerada de minha própria honestidade. Meus parentes da New England tinham me ensinado a santidade de todos os compromissos e contratos de negócio, dizendo: \\\"A palavra do homem é sua fiança\\\". De acordo com isto, a honestidade nos negócios era sempre fácil; nunca enganei ninguém. Contudo, esse pequeno fragmento de virtude logo ocasionou alguns riscos interessantes. Nunca deixei de desprezar meus companheiros da Wall Street, que costumavam enganar seus clientes. Isso era bastante arrogante, mas a seguinte auto-ilusão ainda foi pior. Minha apreciada honestidade nos negócios tinha agora se convertido numa confortável capa, sob a qual eu ocultava os muitos sérios defeitos que bloqueavam outros setores de minha vida. Estando certo desta virtude, foi fácil concluir que eu tinha todas as outras. Durante muitos anos isso me impediu de dar uma olhada dentro de mim mesmo. Grapevine de agosto de 1961 81 http://slidepdf.com/reader/full/na-opiniao-do-bill 81/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "206": {
+    "title": "Orando pelos outros",
+    "content": "Mesmo orando sinceramente, ainda podemos cair em tentação. Formamos idéias sobre o que achamos ser a vontade de Deus para com as outras pessoas. Dizemos para nós mesmos: \\\"Este deveria ser curado de sua doença fatal\\\" ou \\\"Aquele deveria ser libertado de sua crise emocional\\\" e oramos para obter estas determinadas coisas. Claro que essas orações representam, no fundo, atos de bondade, mas muitas vezes se baseiam na suposição de que conhecemos a vontade de Deus a respeito da pessoa para quem oramos. Isso significa que, ao lado de uma oração sincera, pode existir em nós uma certa dose de presunção e vaidade. A experiência de A.A. é que, especialmente nesses casos, deveríamos orar para que se faça a vontade de Deus, seja qual for, tanto para os outros como para nós mOse sDmoozse. Passos, págs. 90 e 91"
+  },
+  "207": {
+    "title": "O futuro da irmandade",
+    "content": "\\\"Parece certo que A.A. pode se manter firme em qualquer lugar e em qualquer situação. A.A. cresceu acima de qualquer dependência, que alguma vez poderia ter tido, de personalidades ou esforços de alguns dos membros mais antigos como eu. Vêm surgindo pessoas novas, capazes e vigorosas, aparecendo onde são necessárias. Além disso, A.A. atingiu maturidade espiritual o suficiente para saber que sua verdadeira dependência é de Deus.\\\" <br><br> Na verdade, nosso primeiro dever, quanto ao futuro de A.A., é o de manter em plena força o que agora temos. Só o mais vigilante cuidado pode assegurar isso. Nunca deveríamos ser embalados em complacente auto-satisfação, devido a grande aclamação e sucesso que temos em toda parte. Essa é a sutil tentação que poderia nos deixar atônitos hoje, talvez para nos desintegrar amanhã. Temos estado sempre unidos para enfrentar e vencer as falhas e crises. Os problemas têm sido nossos estimulantes. No entanto, como seremos capazes de enfrentar os problemas do sucesso? 1 – Carta de 1940 2 – A.A. Today, pág. 106"
+  },
+  "208": {
+    "title": "A razão – uma ponte para a fé",
+    "content": "Enfrentamos honestamente a questão da fé. Não podíamos evitar a polêmica. Alguns de nós já tinham atravessado a ponte da razão em direção ao litoral da fé, onde mãos amigas se estendiam nos dando as boas-vindas. Ficamos agradecidos pela razão nos ter levado tão longe. No entanto, por algum motivo, não nos atrevíamos a botar o pé no litoral. Talvez estivéssemos dependendo demais da razão e não quiséssemos perder seu apoio. 82 http://slidepdf.com/reader/full/na-opiniao-do-bill 82/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Mas sem saber, não tínhamos sido levados até onde estávamos, por um certo tipo de fé? Não é verdade que acreditávamos em nosso próprio raciocínio? Não é verdade que tínhamos confiança em nossa capacidade de pensar? E não era isso uma espécie de fé? Sim, tínhamos fé, de maneira objetiva, tínhamos sido fiéis ao deus da razão. Assim, descobrimos que, de uma maneira ou de outra, a fé estava sempre presente. Alcoólicos Anônimos, pág. 69"
+  },
+  "209": {
+    "title": "Nunca o mesmo outra vez",
+    "content": "Descobriu-se que quando um alcoólico plantava na mente de outro a idéia da verdadeira natureza de sua doença, essa pessoa jamais voltaria a ser a mesma. Após cada bebedeira, ela diria a si mesma: \\\"Talvez esses AAs tenham razão.\\\" Depois de algumas dessas experiências, muitas vezes antes do começo de grandes dificuldades, ele voltaria a nós*, *c*onvencido. Nos primeiros anos, aqueles dentre nós que ficaram sóbrios em A.A. eram, na verdade, casos horríveis e completamente sem esperança. Mas depois começamos a ter sucesso com alcoólicos moderados, e mesmos com alguns alcoólicos em potencial. Começavam a aparecer pessoas mais jovens. Chegavam muitas pessoas que ainda tinham trabalho, lar, saúde e posição social. Naturalmente foi necessário que esses recém-chegados chegassem emocionalmente ao fundo do poço. Mas eles não tiveram que chegar a todos os tipos de fundo de poço possíveis para admitir que estavam derrotados. 1 – Os Doze Passos, pág. 15 2 – A.A. Atinge a Maioridade, pág. 177"
+  },
+  "210": {
+    "title": "Livre da escravidão",
+    "content": "No Terceiro Passo, muitos de nós nos dirigimos a nosso Criador, como nós O concebíamos: \\\"Deus, a Ti ofereço minha vida para que a construas e faças dela que for de Tua vontade. Liberta-me da escravidão do ego, a fim de fazer melhor Tua vontade. Remove minhas dificuldades, para que minha vitória sobre elas sirva de testemunho àqueles a quem eu ajudaria, com Teu poder, Teu amor e Teu modo de vida. Que eu possa sempre fazer Tua vontade!\\\" Pensamos bem antes de tomar essas medidas, para termos a certeza de que estávamos prontos. Então, começamos a nos entregar inteiramente a Ele. Alcoólicos Anônimos, pág. 77"
+  },
+  "211": {
+    "title": "Alcançando a humildade",
+    "content": "Percebemos que não precisávamos sempre apanhar e levar cacetadas para ter humildade. Ela poderia ser alcançada, ou procurando-a voluntariamente, ou pelo constante sofrimento. <br><br> 83 http://slidepdf.com/reader/full/na-opiniao-do-bill 83/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Em primeiro lugar, procuramos obter um pouco de humildade, sabendo que morreremos de alcoolismo se não o fizermos. Depois de algum tempo, embora ainda possamos nos revoltar, até certo ponto, começamos a praticar a humildade, porque essa é a coisa certa a se fazer. Chega então o dia em que, finalmente livres da revolta, praticamos a humildade, porque no fundo a queremos como um modo de vida.\\\" 1 – Os Doze Passos, pág. 65 2 – Carta de 1966"
+  },
+  "212": {
+    "title": "Fé e ação",
+    "content": "A educação e o treinamento religiosos de seu provável membro podem ser bem superiores aos que você tenha. Nesse caso, ele vai duvidar que você possa acrescentar alguma coisa ao que ele já conhece. Mas assu adse speajraercáe sma bfeurn cpioorn qaru eb eams .p Tróaplvrieazs ecloe nsveijcaç uõmes enxãeom fpulnoc dioen qaurea ma ,f ée nsqouzainnhtoa não basta. Para ser vital, a fé deve ser acompanhada de auto-sacrifício, altruísmo e ação construtiva. Admita a possibilidade dele saber mais a respeito de religião do que você, mas chame a atenção dele para o fato de que, por mais profundas que sejam sua fé e educação religiosa, essas qualidades não poderiam lhe ter servido muito, caso contrário ele não estaria solicitando ajuda. <br><br> O Dr. Bob não precisava de mim para sua orientação espiritual. Ele tinha mais do que eu. Na verdade o que ele mais precisava, quando nos encontramos pela primeira vez, era de uma profunda deflação e da compreensão que somente um bêbado pode dar a outro. O que eu precisava era de humildade, de esquecimento de mim mesmo e de estabelecer um verdadeiro parentesco com um outro ser humano de meu próprio tipo. 1 – Alcoólicos Anônimos, págs. 102 e 103 2 – A.A. Today, pág. 10"
+  },
+  "213": {
+    "title": "Complete a limpeza da casa",
+    "content": "Muitas vezes, os recém-chegados procuram guardar para si mesmos os fatos desagradáveis referentes às suas vidas. Tentando evitar a experiência humilhante do Quinto Passo, eles se voltaram para métodos mais fáceis. Quase sem exceção se embriagaram. Tendo perseverado no resto do programa, perguntaram-me por que recaíram. Achamos que a razão é que eles nunca completaram sua limpeza de casa. Fizeram seu inventário, mas continuaram agarrados a alguns de seus piores defeitos. Reconheceram que apenas tinham perdido seu egoísmo e medo; reconheceram que apenas tinham se humilhado. Mas não tinham aprendido a suficiente humildade, coragem e honestidade, como deveriam ter aprendido, até que contaram a uma outra pessoa, toda sua vida. 84 http://slidepdf.com/reader/full/na-opiniao-do-bill 84/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Alcoólicos Anônimos, págs. 85 e 86"
+  },
+  "214": {
+    "title": "Apenas tentar",
+    "content": "Em minha adolescência eu tinha que ser um atleta, porque eu não era atleta. Tinha que ser músico, porque não podia entoar a melodia mais simples. Tinha que ser líder de minha classe no internato. Tinha que ser o primeiro em tudo, porque em meu coração perverso eu me sentia em mim mesmo a última das criaturas de Deus. Não podia aceitar minha profunda sensação de inferioridade, e assim me tornei capitão do time de beisebol, e assim aprendi a tocar violino. Tinha que ser sempre o líder. Foi essa espécie de exigência \\\"tudo ou nada\\\" que mais tarde me destruiu. <br><br> \\\"Estou contente porque você vai tentar esse novo trabalho. Mas esteja certo de qnuãoe vdaeiv aop efanlahsa 'rt,e nntãaor' .p Soes svoo cfêa lthivare'r, ae nattãitou dveo cdêe qpuraet i'dceavmoe sneter bveami -gsaurcaendtiidr oo, fracasso, que por sua vez vai garantir sua recaída na bebida. Mas se você considerar o empreendimento como apenas uma experiência construtiva, então tudo sairá bem.\\\" 1 – A.A. Atinge a Maioridade, pág. 49 2 – Carta de 1958"
+  },
+  "215": {
+    "title": "Treinamentos construtivos",
+    "content": "Existem aqueles em A.A., a quem gostamos de chamar de nossos críticos \\\"destrutivos\\\". Conduzem pela força, são \\\"politiqueiros\\\", fazem acusações para atingir seus alvos – tudo pelo bem de A.A., naturalmente! Mas aprendemos que esses sujeitos não são tão destrutivos assim. Deveríamos ouvir cuidadosamente o que eles dizem. Algumas vezes eles estão dizendo toda a verdade; outras vezes somente parte da verdade. Se estivermos a seu alcance, toda a verdade, parte da verdade ou a falta da verdade pode ser igualmente desagradáveis para nós. Se eles estiverem completamente certos, ou mesmo com um pouco da verdade, será melhor então agradecer-lhes e fazer nosso próprio inventário, admitindo que estávamos errados. Caso seja tolice, poderemos ignorar isso ou colocar todas as cartas na mesa e tentar convencê-los. Caso isso falhe, poderemos sentir pena deles por estarem doentes demais para entender e poderemos tentar esquecer todo o assunto. Há poucos meios melhores de auto-análise e desenvolvimento da paciência do que a prova a que nos submetem esses membros bem-intencionados, mas equivocados. Doze Conceitos para Serviços Mundiais, pág. 43"
+  },
+  "216": {
+    "title": "Depois da \"lua-de-mel\"",
+    "content": "85 http://slidepdf.com/reader/full/na-opiniao-do-bill 85/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Para a maioria de nós, os primeiros anos de A.A. se parecem com uma lua-de- mel. Há uma nova e poderosa razão para nos manter vivos, há uma grande alegria em tudo. Durante algum tempo estamos afastados dos principais problemas da vida. Isso tudo é muito bom. \\\"Mas quando a lua-de-mel termina, somos obrigados a carregar nossos fardos, como todas as outras pessoas. É aí que começam os testes. Talvez o grupo nos tenha levado para caminhos diferentes. Talvez tenham aumentado as dificuldades em casa, ou no trabalho, ou no mundo lá fora. Então os antigos padrões de comportamento reaparecem. O que revela a extensão de nosso progresso é o modo como reconhecemos e lidamos com esse comportamento.\\\" <br><br> Os sábios sempre souberam que ninguém pode melhorar sua vida até que o auto- exame venha a se tornar um hábito regular, até que ele admita e aceite as coisas como são, e até que tente corrigir o que está errado, com paciência e p1e –r sCevaretraa ndçea 1.954 2 – Os Doze Passos, pág. 76"
+  },
+  "217": {
+    "title": "A esperança nascida do desespero",
+    "content": "Carta ao Dr. Carl Jung: \\\"Muitas experiências de conversão, qualquer que seja a variedade, têm como denominador comum o profundo colapso do ego. O indivíduo enfrenta um dilema impossível. \\\"Em meu caso, o dilema tinha sido criado por minha compulsão pela bebida, e o profundo sentimento de desespero tinha sido grandemente intensificado por meu médico. Esse sentimento ainda mais se aprofundou, quando meu amigo alcoólico me falou de seu veredito de desespero, a respeito de Rowland H. \\\"No despertar de minha experiência espiritual, veio-me uma visão de uma sociedade de alcoólicos. Se cada sofredor levasse a mensagem, a um outro, de que para o alcoolismo não há esperança no campo cientifico, ele seria capaz de levar todo recém-chegado de espírito aberto a uma experiencia espiritual transformadora. Esse conceito foi a base do sucesso que desde então A.A. tem obtido.\\\" Grapevine de janeiro de 1963"
+  },
+  "218": {
+    "title": "Felizes – quando somos livres",
+    "content": "Para a maioria das pessoas normais a bebida significa a libertação da preocupação, do aborrecimento e da ansiedade. É a intimidade alegre com os amigos e um sentimento de que a vida é boa. Mas não foi o que aconteceu conosco, nos últimos tempos de nossas pesadas bebedeiras. Os velhos prazeres desapareceram. Havia um desejo ardente de gozar a vida, como nunca, e uma dolorosa ilusão de que algum novo controle 86 http://slidepdf.com/reader/full/na-opiniao-do-bill 86/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com milagroso nos permitisse fazê-lo. Havia sempre mais uma tentativa e mais um fracasso. <br><br> Estamos certos de que Deus nos quer ver felizes, alegres e livres. Portanto, não podemos compartilhar a crença de que esta vida seja necessariamente um vale de lágrimas, embora em certa época tenha sido exatamente isso para muitos de nós. Mas ficou claro que vivíamos criando nossa própria miséria. 1 – Alcoólicos Anônimos, pág. 157 2 – Alcoólicos Anônimos, págs. 135 e 136"
+  },
+  "219": {
+    "title": "Dispostos a acreditar",
+    "content": "Não permita que qualquer preconceito contra termos espirituais possa impedi-lo de se perguntar, o que eles poderiam significar para você. No começo, era disso qnuoess par pecriimsáeviarma roesl apçaãroa dcoarn sinciíecniote a cuomm cDreesucsi,m ceonmtoo ensópsir Oitu caol,n pcaerbaí aemstoasb.e Mlecaeisr adiante passamos a aceitar muitas coisas que nos pareciam inteiramente fora de alcance. Isso era crescimento, mas para crescer tínhamos que começar de algum modo. Assim, no princípio, usamos nossas próprias concepções de Deus, ainda que limitadas. \\\"Precisávamos nos fazer apenas uma simples pergunta: 'Acredito, ou estou mesmo disposto a acreditar que exista um Poder Superior a mim?' Assim que o indivíduo possa dizer que acredita, ainda que seja em pequeno grau, ou esteja disposto a acreditar, nós lhe asseguramos enfaticamente, que ele está no caminho.\\\" Alcoólicos Anônimos, págs. 63 e 64"
+  },
+  "220": {
+    "title": "Em sociedade",
+    "content": "À medida que progredíamos espiritualmente, ficava claro que, se esperávamos algum dia nos sentir emocionalmente seguros, teríamos que colocar nossa vida na base do dar e receber; teríamos que desenvolver o hábito de viver em sociedade ou fraternidade com todos que nos cercam. Vimos que precisaríamos sempre dar de nós mesmos, sem esperar nada em troca. Quando persistimos nisso, descobrimos que aos poucos as pessoas eram atraídas para nós, como nunca foram antes. E mesmo que elas nos desapontassem, poderíamos ser compreensivos e não seriamos tão seriamente afetados. <br><br> A unidade, a eficiência e mesmo a sobrevivência de A.A. sempre dependerão de nossa contínua boa vontade de renunciar a nossos desejos e ambições pessoais, para a segurança e bem-estar comum. Do mesmo modo que o sacrifício significa sobrevivência para o indivíduo, também significa unidade e sobrevivência para o grupo e para a Irmandade de A.A. como um todo. 1 – Os Doze Passos, pág. 102 2 – A.A. Atinge a Maioridade, pág. 257 87 http://slidepdf.com/reader/full/na-opiniao-do-bill 87/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "221": {
+    "title": "Deus não nos abandonará",
+    "content": "\\\"Acabo de saber que você está suportando magnificamente a adversidade – sendo essa adversidade seu estado de saúde. Isso me dá a oportunidade de expressar minha gratidão por sua recuperação em A.A. e especialmente pela demonstração de seus princípios, que você nos está agora, de maneira tão inspiradora, dando a todos nós.\\\" \\\"Você gostará de saber que os AAs têm superado quase todas as dificuldades a este respeito. Acho que isso é porque estamos tão certos de que Deus não vai nos abandonar nos momentos difíceis; na verdade Ele não nos abandonou quando bebíamos. E assim será para o resto de nossa vida.\\\" \\\"Certamente Ele não tenciona nos salvar de todos os problemas e da adversidade. Nem, no fim, Ele nos salva da chamada morte, uma vez que ela é ampaennsaõse sa. pCaosmsa rgeesmpe iptoar aa eusmsaas ncooivsaa sv, isdeai ,q oune dveo chêa bteitmar uemmao sf ée mmu SitUo AgrSa nmdeu.i\\\"tas Carta de 1966"
+  },
+  "222": {
+    "title": "De quem é a culpa?",
+    "content": "No Quarto Passo procuramos resolutamente nossos próprios erros. Onde tínhamos sido egoístas, desonestos, interesseiros e medrosos? Embora uma dada situação não tivesse sido criada inteiramente por nossa falta, muitas vezes tentamos jogar a culpa unicamente na outra pessoa envolvida. Finalmente vimos que o inventário deveria ser nosso, não da outra pessoa. Assim, admitimos nossos defeitos honestamente e nos dispusemos a colocar esses assuntos em ordem. Alcoólicos Anônimos, pág. 81"
+  },
+  "223": {
+    "title": "Uma Irmandade – muitas crenças",
+    "content": "Como sociedade, nunca devemos nos tornar tão vaidosos a ponto de supor que temos sido os autores e inventores de uma nova religião. Humildemente refletiremos que cada um dos princípios de A.A. foi tirado de fontes antigas. <br><br> Um ministro na Tailândia escreveu: \\\"Levamos os Doze Passos de A.A. ao maior mosteiro budista dessa província, e o sacerdote responsável pela organização disse: 'Pois bem, esses Passos são excelentes! Para nós, budistas, isso poderia ser ligeiramente mais aceitável, se vocês tivessem inserido a palavra 'bem' em seus Passos, em vez de 'Deus'. Entretanto, vocês dizem nesses Passos que é um Deus como cada qual O concebe, e isso certamente incluir o bem. Sim, os Doze Passos de A.A. certamente serão aceitos pelos budistas daqui.' \\\" <br><br> 88 http://slidepdf.com/reader/full/na-opiniao-do-bill 88/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Os membros mais antigos de St. Louis recordaram como o Padre Edward Dowling ajudou a começar o grupo deles, que era composto por uma grande maioria de protestantes, mas isso não o perturbava em absoluto. 1 – A.A. Atinge a Maioridade, pág. 207 2 – A.A. Atinge a Maioridade, págs. 73 e 74 3 – A.A. Atinge a Maioridade, pág. 34"
+  },
+  "224": {
+    "title": "Liderança em A.A.",
+    "content": "Nenhuma sociedade pode funcionar bem sem uma liderança capaz em todos os seus níveis, e A.A. não pode ser exceção. Precisa ser dito, entretanto, que nós de A.A. acalentamos, algumas vezes, a idéia de que podemos passar com quase nenhuma liderança pessoal. Somos capazes de distorcer a idéia tradicional dos \\\"princípios acima das personalidades\\\", a tal ponto que não haveria \\\"apuetôrsmoantaolsid iamdpee\\\"s aslogauism, ate nnata nliddoe raagnrçaad. aIrs tsood roesd.undaria, de qualquer maneira, em Um líder no serviço de A.A. é portanto um homem (ou uma mulher) que pode pessoalmente colocar princípios, planos e normas em ação de maneira tão delicada e efetiva que leva o resto de nós a querer apoiá-lo e ajudá-lo em sua tarefa. Quando um líder nos guia pela força excessiva, nós nos revoltamos; mas quando ele se torna um submisso cumpridor de ordens e não usa nenhum critério próprio – então, ele realmente não é um líder. Doze Conceitos para Serviços Mundiais, págs. 41 e 42"
+  },
+  "225": {
+    "title": "A resposta no espelho",
+    "content": "Enquanto bebíamos tínhamos certeza de que nossa inteligência, apoiada pela força de vontade, poderia muito bem controlar nossa vida interior e nos garantir sucesso no mundo em que vivemos. Essa corajosa filosofia, na qual cada individuo fazia o papel de Deus, soava bem, mas ainda tinha que passar pela prova de fogo: será que ela realmente funcionava? Uma boa olhada no espelho foi uma suficiente resposta. <br><br> Meu despertar espiritual foi muito rápido e absolutamente convincente. De repente me tornei uma parte – embora pequenina – de um cosmo que era dirigido pela justiça e pelo amor, na pessoa de Deus. Apesar das conseqüências de minha própria obstinação e ignorância, ou de meus companheiros de viagem na terra, a verdade ainda era essa. Essa era minha nova e positiva certeza – e ela nunca me abandonou. 1 – Os Doze Passos, págs. 27 e 28 2 – Grapevine de janeiro de 1962 89 http://slidepdf.com/reader/full/na-opiniao-do-bill 89/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "226": {
+    "title": "Humildade é para a Irmandade, também",
+    "content": "Nós, AAs, às vezes exageramos as virtudes de nossa Irmandade. Vamos nos lembrar de que na verdade só algumas dessas virtudes caíram do céu. Para começar, fomos forçados a elas pelo cruel chicote do alcoolismo. Finalmente adotamos essas atitudes, não porque quisemos, mas porque tivemos que fazê-lo. Então, à medida que o tempo confirmava que nossos princípios básicos eram certos, começamos a ficar de acordo, porque achamos que isso era o correto. Alguns de nós, principalmente eu, então ajustamo-nos com alguma relutância. Mas finalmente chegamos a um ponto onde estamos dispostos a concordar, com alegria, com os princípios que a experiência, sob a graça de Deus, nos tem ensinado. A.A. Atinge a Maioridade, pág. 200"
+  },
+  "227": {
+    "title": "A sobriedade é suficiente?",
+    "content": "O alcoólico é como um furacão, arrastando em seu caminho as vidas dos outros. Corações são dilacerados. Relações são rompidas. Afetos são destruídos. Hábitos egoístas e sem consideração mantêm o lar em tumulto. Achamos que um indivíduo não pensa, quando diz que a sobriedade é suficiente. É como o fazendeiro que saiu de seu esconderijo, depois do ciclone, e ao encontrar sua casa destruída, disse para sua esposa: \\\"Não vejo nenhum problema aqui, minha velha. Não foi bom a ventania ter passado?\\\" <br><br> Perguntamos, a nós mesmos, o que queremos dizer quando falamos que \\\"prejudicamos\\\" outras pessoas. Afinal, que tipo de \\\"danos\\\" as pessoas causam aos outros? Para definir a palavra \\\"dano\\\", de maneira prática, poderíamos dizer que é o resultado do choque dos instintos, que ocasiona prejuízos físicos, mentais, emocionais ou espirituais, àqueles que nos cercam. 1 – Alcoólicos Anônimos, pág. 93 2 – Os Doze Passos, pág. 79"
+  },
+  "228": {
+    "title": "O começo da verdadeira afinidade",
+    "content": "Quando chegamos em A.A. e pela primeira vez na vida nos encontramos entre pessoas que pareciam nos compreender, a sensação de pertencer foi muito emocionante. Achamos que o problema de isolamento tinha sido resolvido. Mas logo descobrimos que embora não estivéssemos mais sozinhos, no sentido social, ainda sofríamos das antigas angústias do ansioso isolamento. Enquanto não falássemos, com toda a franqueza, de nossos conflitos e ouvíssemos mais alguém fazer o mesmo, ainda não fazíamos parte. O Quinto Passo foi a resposta. Ele foi o começo de uma verdadeira afinidade com o homem e com Deus. Os Doze Passos, pág. 47 90 http://slidepdf.com/reader/full/na-opiniao-do-bill 90/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "229": {
+    "title": "O dia do regresso ao lar",
+    "content": "\\\"Assim como a sobriedade significa vida longa e felicidade para o indivíduo, a unidade significa exatamente a mesma coisa para nossa Sociedade como um todo. Unidos, vivemos; desunidos, perecemos.\\\" <br><br> \\\"Devemos pensar profundamente em todos aqueles doentes que ainda virão ao A.A. Quando eles procuram retornar à fé e à vida, queremos que encontrem em A.A. tudo o que encontramos e ainda mais, se for possível. Nenhum cuidado, nenhuma vigilância, nenhum esforço para preservar a constante eficiência e a força espiritual de A.A. será grande demais para nos pôr inteiramente de prontidão para o dia do regresso deles ao lar\\\". 1 – Carta de 1949 2 – Palestra de 1959"
+  },
+  "230": {
+    "title": "Amam todo o mundo?",
+    "content": "Poucas pessoas podem afirmar com sinceridade que amam todo o mundo. Quase todos nós precisamos admitir que temos amado apenas algumas pessoas, que temos sido indiferentes a muitas. Quanto às outras – bem, temos tido realmente antipatia ou ódio delas. Nós, AAs, descobrimos que precisamos de alguma coisa muito melhor, a fim de manter nosso equilíbrio. A idéia de que podemos amar possessivamente algumas pessoas, ignorar muitas e continuar a temer ou odiar quem quer que seja, tem que ser abandonada, mesmo que seja aos poucos. Podemos procurar não fazer exigências descabidas àqueles que amamos. Podemos demonstrar bondade, onde antes não tínhamos demonstrado. Com aqueles que não simpatizamos, podemos pelo menos começar a prática da justiça e cortesia, talvez nos esforçando para compreendê-los e ajudá-los. Os Doze Passos, pág. 80"
+  },
+  "231": {
+    "title": "Privilegiados por comunicar",
+    "content": "Todos devem concordar que nós, AAs, somos pessoas incrivelmente felizardas; felizardas porque sofremos tanto; felizardas porque podemos conhecer, compreender e amar uns aos outros, de forma bem aceitável. Esses atributos e virtudes raramente caem do céu. Na verdade, a maioria de nós sabe muito bem que essas dádivas são raras, que tem sua verdadeira origem em nossa fraternidade nascida de um sofrimento comum e de uma libertação comum, pela graça de Deus. Assim sendo, somos privilegiados por nos comunicar uns com os outros, num grau e de uma maneira quase nunca ultrapassada por nossos amigos não- alcoólicos do mundo que nos rodeia. <br><br> 91 http://slidepdf.com/reader/full/na-opiniao-do-bill 91/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Eu costumava me envergonhar de minha situação e não falava sobre isso. Mas hoje confesso francamente que tenho tendência à depressão, e isso tem atraído para mim outros com a mesma tendência. Trabalhar com eles tem me ajudado bastante.\\\"* 1 – Grapevine de outubro de 1959 2 – Carta de 1954 *Bill acrescentou que não tem depressão desde 1955"
+  },
+  "232": {
+    "title": "O valor da vontade humana",
+    "content": "Muitos recém-chegados, tendo experimentado pouca, mas constante deflação, sentiam uma crescente convicção de que a vontade humana não tem nenhum valor. Ficamos convencidos, e com razão, de que além do álcool muitos outros problemas não vão ser resolvidos apenas pela vontade do indivíduo. Csuoanst updróop, rhiáa sc ecrotnads icçoõiessa,s e qleu ep roe cinisdai vdíedsueon svoozlvinehr oa pboodae v foanzteard. eS.o Qziunahnod eo àa dluqzu idree boa vontade, ele é então a única pessoa que pode tomar a decisão de se esforçar no caminho espiritual. Tentar fazer isso é na verdade um ato de sua própria vontade. É usar corretamente essa faculdade. Na verdade, todos os Doze Passos de A.A. requerem um constante esforço pessoal para se ficar de acordo com seus princípios e, assim esperamos, com a vontade de Deus. Os Doze Passos, pág. 30"
+  },
+  "233": {
+    "title": "Vida diária",
+    "content": "A.A. enfatiza que o inventário pessoal é difícil, porque muitos de nós realmente nunca tivemos o hábito de fazer uma meticulosa auto-análise. Uma vez que essa saudável prática tenha se tornado um hábito, passará a ser tão interessante e proveitosa que o tempo gasto não será perdido, pois esses minutos e algumas vezes horas gastas com auto-exame conseguem tornar melhores e mais felizes todas as outras horas do dia. Finalmente, nossos inventários passam a ser uma necessidade de nossa vida diária, e não uma coisa rara ou à parte. Os Doze Passos, pág. 77"
+  },
+  "234": {
+    "title": "Prisioneiros libertados",
+    "content": "Carta a um grupo numa prisão: \\\"Todo A.A. foi, num certo sentido, um prisioneiro. Cada um de nós se trancou fora da sociedade; cada um conheceu o estigma social. Tudo para vocês tem sido mesmo muito difícil; no caso de vocês, a sociedade também construiu uma muralha a seu redor. Mas não existe realmente uma diferença essencial; esse é um fato que praticamente todos os AAs agora reconhecem.\\\" \\\"Portanto, quando vocês, membros, ingressarem no mundo de A.A., fora da prisão, podem ter a certeza de que ninguém vai se preocupar em comentar que 92 http://slidepdf.com/reader/full/na-opiniao-do-bill 92/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com vocês cumpriram pena. O que estão tentando ser – não o que foram – é tudo o que importa para nós.\\\" <br><br> \\\"As dificuldades mentais e emocionais são às vezes muito difíceis de se tolerar, enquanto estamos tentando manter a sobriedade. Mas vemos, no decorrer do tempo, que vamos superando esses problemas, o que constitui na verdade uma prova de vida de A.A. A adversidade nos dá uma maior oportunidade de crescer, do que a comodidade ou o sucesso\\\". 1 – Carta de 1949 2 – Carta de 1964"
+  },
+  "235": {
+    "title": "Em busca da fé perdida",
+    "content": "Muitos AAs podem dizer a uma pessoa sem fé: \\\"Fomos desviados da fé que teísnthávamamoos sq guaannhdaon dcori annoç jaosg.o C doam v iad ac.h Iesgsoa dear ad aon ismucaedsosro e m noatse fraiazli,a afcehliazmeso.\\\"s que \\\"Por que deveríamos nos preocupar com abstrações teológicas e deveres religiosos ou com o estado de nossas almas, aqui ou no além? A vontade de ganhar nos levaria para frente.\\\" \\\"Então o álcool começou a nos dominar. Finalmente, quando todos os nossos cartões de contagem de pontos marcavam 'zero' e vimos que mais um golpe nos poria fora do jogo para sempre, tivemos que buscar nossa fé perdida. Foi em A.A. que reencontramos.\\\" Os Doze Passos, pág. 20"
+  },
+  "236": {
+    "title": "Perfeição – apenas o objetivo",
+    "content": "Nós, seres humanos, não podemos ter humildade absoluta. No máximo, podemos apenas vislumbrar o significado e o esplendor desse perfeito ideal. Só Deus pode Se manifestar no absoluto; nós, seres humanos, precisamos viver e crescer no domínio do relativo. Assim sendo, buscamos o progresso, na humildade, para o dia de hoje. <br><br> Poucos de nós podem estar prontos, rápida ou facilmente, mesmo para olhar em direção à perfeição moral e espiritual; queremos obter somente o tanto de perfeição que possamos alcançar na vida, de acordo, é claro, com as mais variadas idéias que tenhamos sobre o que nos é necessário. Lutamos erradamente por um objetivo auto-determinado, em vez de lutar pelo objetivo perfeito que é aquele que pertence a Deus. 1 – Grapevine de junho de 1961 2 – Os Doze Passos, págs. 57 e 58"
+  },
+  "237": {
+    "title": "Nenhuma ordem é dada",
+    "content": "93 http://slidepdf.com/reader/full/na-opiniao-do-bill 93/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Nem a Conferência de Serviços de A.A., nem sua Junta de Custódios, nem o mais humilde comitê de grupo pode dar uma única ordem a um membro de A.A. e fazê-lo cumprir, e muito menos puni-lo. Tentamos fazer isso muitas vezes, mas o resultado foi sempre um absoluto fracasso. Grupos já tentaram expulsar membros, mas os que foram expulsos voltaram às reuniões, dizendo: \\\"Isso para nós é a vida, vocês não podem nos manter de fora.\\\" Comitês instruíram muitos AAs a deixarem de trabalhar com aquele que não pára de recair e obtiveram deles apenas esta resposta: \\\"Como faço o trabalho do Décimo Segundo Passo, é assunto meu. Quem são vocês para julgar?\\\" Isso não significa que um A.A. não receba conselhos ou sugestões de membros mais experientes. Ele simplesmente se recusa a receber ordens. As Doze Tradições, pág. 54"
+  },
+  "238": {
+    "title": "\"A autopiedade é um dos mOai ms ianrfteírliizoe ds ae edmesbgraiastgaunetezs defeitos que conhecemos.",
+    "content": "É um entrave a todo progresso espiritual e pode interromper toda comunicação eficiente com nossos semelhantes, por causa de sua excessiva exigência de atenção e simpatia. É uma forma piegas de martírio ao qual nos damos ao luxo, doentemente. \\\"Qual é o remédio? Bem, vamos ter que dar uma boa olhada em nós mesmos, e uma ainda melhor nos Doze Passos de recuperação de A.A. Quando virmos como muitos de nossos companheiros de A.A. usaram os Passos para vencer grandes sofrimentos e adversidades, estaremos inspirados para tentar em nós mesmos esses princípios tão úteis à vida. Carta de 1966"
+  },
+  "239": {
+    "title": "Quando e como dar",
+    "content": "As pessoas que clamam por dinheiro e abrigo, como uma condição para sua sobriedade, estão no caminho errado. Mas às vezes proporcionamos a um novo provável membro essas mesmas coisas – quando se torna claro que ele está disposto a colocar a recuperação em primeiro lugar. A questão não é se vamos dar ou não, mas quando e como dar. Quando colocamos nosso trabalho num plano material, o alcoólico começa a confiar mais em esmolas do que num Poder Superior e no grupo de A.A. Ele continua a insistir que não pode vencer o álcool, até que suas necessidades materiais sejam satisfeitas. Bobagem! Alguns de nós sofreram duros golpes para aprender a seguinte verdade: com ou sem trabalho, com ou sem esposa, simplesmente não paramos de beber, enquanto dependermos, materialmente, de outras pessoas antes de depender de Deus. Alcoólicos Anônimos, pág. 106 94 http://slidepdf.com/reader/full/na-opiniao-do-bill 94/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "240": {
+    "title": "Duros com nós mesmos, mas ter consideração pelos outros",
+    "content": "Não podemos revelar às nossas esposas ou pais alguma coisa que os faça sofrer ou os torne infelizes. Não temos o direito de salvar nossa pele à custa deles. Aquelas partes de nossa vida causaram danos, contamos para uma outra pessoa que vai compreender, mas que não fique afetada. A regra é que devemos ser duros com nós mesmos, mas sempre ter consideração pelos outros. <br><br> O bom-senso vai sugerir que deveríamos ganhar tempo, ao fazer reparações a nossos familiares. No princípio pode ser imprudente revelar certos episódios desagradáveis. Embora possamos estar inteiramente dispostos a revelar o pior, devemos lembrar que não podemos adquirir nossa paz de espírito à custa dos outros. 1 – Alcoólicos Anônimos, pág. 87 2 – Os Doze Passos, pág. 73"
+  },
+  "241": {
+    "title": "No meio termo",
+    "content": "\\\"Em alguns setores de A.A., o anonimato é levado ao ponto de verdadeiro absurdo. Os membros se comunicam tão pouco, que não sabem nem mesmo o sobrenome dos outros e nem onde moram. É como se fosse uma cela subterrânea.\\\" \\\"Em outros setores, vemos exatamente o contrário. É difícil evitar que os AAs gritem demais diante do público em geral, fazendo espetaculares 'roteiros de palestra' para bancar o importante.\\\" \\\"Entretanto, sabemos que desses extremos, aos poucos nos colocamos no meio- termo. A maioria dos palestrantes não agüenta muito tempo, e os exageradamente anônimos são capazes de sair do esconderijo, respeitando seus amigos AAs, seus colegas de trabalho, etc. Acho que a tendência é em direção ao meio-termo, que é provavelmente onde deveríamos estar.\\\" Carta de 1959"
+  },
+  "242": {
+    "title": "Solte-se completamente",
+    "content": "Depois do fracasso, de minha parte, de querer que alguns bêbados parassem de beber, o Dr. Silkworth novamente me fez lembrar a observação do professor William James de que a verdadeira transformação ocasionada pelo despertar espiritual quase sempre se baseia numa calamidade e colapso. \\\"Pare de lhes pregar sermões\\\", o Dr. Silkworth dizia, \\\"e lhes dê primeiro os duros fatos médicos. Isso pode acalmá-los tão profundamente que possam vir a querer fazer qualquer coisa para ficar bem. Então poderão aceitar aquelas suas idéias espirituais e ainda um Poder Superior.\\\" <br><br> 95 http://slidepdf.com/reader/full/na-opiniao-do-bill 95/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Pedimos que você seja destinado desde o início. Alguns de nós procuramos nos agarrar às nossas antigas idéias, e o resultado foi nulo – até que nos deixamos conduzir completamente. 1 – A.A. Atinge a Maioridade, pág. 12 2 – Alcoólicos Anônimos, pág. 73"
+  },
+  "243": {
+    "title": "PENSAMENTOS MATINAIS",
+    "content": "Ao acordar, pensemos nas próximas vinte e quatro horas. Pedimos para Deus dirigir nossos pensamentos, especialmente que eles sejam desligados da autopiedade e dos motivos desonestos ou de interesse próprio. Livres deles, podemos utilizar nossas faculdades mentais com segurança, pois Deus nos deu a cabeça para ser usada. Nossos pensamentos estarão num nível mais alto, quando começarmos a clareá-los, eliminando os motivos errados. Sume t epmenossa qmueen dtoec iindtiur iqtuivaol doous udmoias cdaemciisnãhoo.s D toamí raer,l apxeadmimoos,s faa Dzeemuso sin isspsiora cçoãom, calma e muitas vezes ficamos surpresos ao ver como chegam as respostas certas, pouco depois de termos tentado isso. Geralmente concluímos nossa meditação com uma oração, pedindo que durante todo o dia nos seja mostrado qual o próximo passo a ser dado, especialmente que sejamos libertados da vontade própria, quando esta nos causar danos. Alcoólicos Anônimos, págs. 96 e 97"
+  },
+  "244": {
+    "title": "Em direção à maturidade",
+    "content": "Muitos membros mais antigos, que têm submetido a \\\"cura das bebedeiras\\\" de A.A. a severos, mas bem-sucedidos testes, descobrem que ainda lhes falta sobriedade emocional. Para obter isso, devemos desenvolver uma maturidade e equilíbrio verdadeiros (quer dizer, humildade) em nossas relações com nós mesmos, com nossos semelhantes e com Deus. <br><br> Não permitamos nunca que A.A. seja uma entidade fechada; nunca devemos negar nossa experiência, quando ela for útil e valiosa para o mundo que nos rodeia. Devemos permitir que nossos membros, individualmente, atendam o chamado de cada um dos campos da atividade humana. Devemos permitir a eles que levem a experiência e o espírito de A.A. em todos esses assuntos, sempre que exista algo de bom que possa ser realizado, porque não somente Deus nos salvou do alcoolismo; o mundo nos recebeu de volta em sua cidadania. 1 – Grapevine de janeiro de 1958 2 – A.A. Atinge a Maioridade, pág. 208"
+  },
+  "245": {
+    "title": "Combate sem ajuda",
+    "content": "96 http://slidepdf.com/reader/full/na-opiniao-do-bill 96/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Na verdade, poucos são aqueles que, assaltados pelo tirano álcool, venceram o combate sem ajuda. É um fato estatístico que os alcoólicos quase nunca se recuperam, só por meio de seus próprios recursos. <br><br> A caminho de Point Barrow, no Alaska, dois prováveis membros saíram juntos e levaram com eles uma barraca e uma caixa de uísque. O tempo ficou ruim, e a temperatura baixou para 20 graus negativos; eles estavam tão bêbados que deixaram o fogo apagar. Escapando da morte, por congelamento, um deles acordou a tempo de reacender o fogo. Saiu para procurar combustível e logo avistou um tambor vazio de óleo, cheio de água congelada. Embaixo do gelo, ele avistou um objeto amarelo-avermelhado. Eles descongelaram o tal objeto, e era um livro de A.A. Um deles leu o livro e parou de beber. A lenda diz que ele se tornou o fundador de um de nossos grupos mais longínquos do norte. 1 – Os Doze Passos, pág. 14 2 – A.A. Atinge a Maioridade, pág. 75"
+  },
+  "246": {
+    "title": "O instinto de viver",
+    "content": "Quando homens e mulheres ingerem tanto álcool, a ponto de destruir suas vidas, cometem um ato totalmente contra a natureza. Contrariando seu desejo instintivo de auto-preservação, parecem estar inclinados à autodestruição. Lutam contra seu mais profundo instinto. À medida que vão progressivamente se humilhando pela terrível surra administrada pelo álcool, a graça de Deus pode penetrar neles e expulsar sua obsessão. Aqui, seu poderoso instinto de viver pode cooperar plenamente com o desejo de seu Criador de lhes dar uma nova vida. <br><br> \\\"A característica central da experiência espiritual consiste em dar a quem a recebe uma nova e melhor motivação, fora de toda proporção a qualquer processo de disciplina, crença e fé. \\\"Essas experiências não podem nos tornar íntegros de uma vez; constituem um renascimento a uma nova e verdadeira oportunidade.\\\" 1 – Os Doze Passos, pág. 54 2 – Carta de 1965"
+  },
+  "247": {
+    "title": "Você já experimentou?",
+    "content": "\\\"Uma vez que se supõe que a mente aberta e o experimento sejam os atributos indispensáveis de nossa civilização 'científica', parece estranho que tantos cientistas se recusem a provar pessoalmente a hipótese de que Deus veio primeiro e o homem depois. Preferem acreditar que o homem é um produto acidental da evolução; que Deus, o Criador, não existe. \\\"Só posso informar que experimentei os dois conceitos e que, em meu caso, o conceito de Deus provou ser uma base melhor para a vida do que o conceito que está centralizado no ser humano. 97 http://slidepdf.com/reader/full/na-opiniao-do-bill 97/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Entretanto, eu seria o primeiro a defender seu direito de pensar, como melhor lhe pareça. Simplesmente faço esta pergunta: 'Em sua própria vida, já tentou realmente pensar e atuar como se pudesse existir um Deus? Você já experimentou?'\\\" Carta de 1950"
+  },
+  "248": {
+    "title": "Precisamos de ajuda de fora",
+    "content": "Era evidente que uma auto-avaliação, feita a sós, e admissão de nossos defeitos, baseada só nessa avaliação, nem de longe seriam suficientes. Tínhamos que ter ajuda de fora, se quiséssemos saber e admitir a verdade a nosso respeito – a ajuda de Deus e de um outro ser humano. Somente através de uma discussão sobre nós mesmos, sem esconder nada, somente com a disposição de seguir conselho e aceitar orientação, poderíamos chaummiinldhaadr ee.m direção ao pensamento correto, à honestidade sólida e à verdadeira <br><br> Se estivermos enganando a nós mesmos, um conselheiro competente pode ver isso rapidamente. E, à medida que ele habilmente nos afasta de nossas fantasias, ficamos surpresos ao descobrir que temos poucos dos costumeiros ímpetos de nos defender das verdades desagradáveis. De nenhuma outra forma podem desaparecer prontamente o medo, o orgulho e a ignorância. Depois de um certo tempo, percebemos que estamos colocados, numa nova e firme base para a integridade, e agradecidos damos crédito a nossos padrinhos, cujos conselhos nos indicaram o caminho. 1 – Os Doze Passos, pág. 49 2 – Grapevine de agosto de 1961"
+  },
+  "249": {
+    "title": "Dádivas de Deus",
+    "content": "Percebemos que o sol nunca se põe para a Irmandade de A.A.; que mais de trezentos e cinqüenta mil pessoas agora se recuperam de sua doença; que começamos em toda parte a transpor as enormes barreiras de raça, credo e nacionalidade. Essa certeza de que tantos de nós têm sido capazes de encontrar nossas responsabilidades, sobriedade, crescimento e eficiência no confuso mundo em que vivemos, certamente nos dará a mais profunda alegria e satisfação. Mas, como pessoas que sempre aprenderam pelo modo mais difícil, com certeza não vamos nos felicitar. Temos que saber que esses bens são dádivas de Deus, que em parte se combinaram com uma crescente boa vontade de nossa parte de descobrir e fazer Sua vontade para conosco. Grapevine de julho de 1965 98 http://slidepdf.com/reader/full/na-opiniao-do-bill 98/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "250": {
+    "title": "Oração nos momentos de tensão",
+    "content": "Quando me sinto sob grandes tensões, prolongo minhas caminhadas diárias e repito lentamente nossa Oração da Serenidade, ao ritmo de meus passos e respiração. Se sinto que meu sofrimento foi em parte causado pelos outros, tento repetir: \\\"Deus, concedei-me a serenidade para amá-los mais e nunca ter medo daquilo que eles têm de pior\\\". Esse benéfico processo curativo de repetição, que às vezes precisa durar alguns dias, raramente deixou de me restituir pelo menos uma perspectiva viável e equilíbrio emocional. Grapevine de março de 1962"
+  },
+  "251": {
+    "title": "Aceite o inevitável",
+    "content": "\\\"nNósã,o o sse b êsbinatdao tsã,o a pdreesnednecmoroasj aad dou ar arse pspeneiatos. dessa recaída. Praticamente sempre, \\\"Sua idéia de mudar-se para outro lugar pode ser boa ou pode não ser. Talvez você tenha entrado em dificuldades econômicas ou emocionais que não podem ser resolvidas onde você está. Mas talvez você esteja fazendo justamente o que todos nós já fizemos, em certas ocasiões: talvez você esteja fugindo. Por que você não procura pensar nisso, com cuidado, novamente? \\\"Você está realmente pondo a recuperação em primeiro lugar ou está fazendo com que ela dependa de outras pessoas, lugares ou circunstâncias? Você pode achar muito mais fácil aceitar o inevitável, onde está agora e, com a ajuda do programa de A.A., sair vitorioso. Pense bem nisso antes de tomar uma decisão.\\\" Carta de 1949"
+  },
+  "252": {
+    "title": "Já não estamos sozinhos",
+    "content": "O alcoolismo significava solidão, embora estivéssemos cercados de pessoas que nos amavam. Mas quando nossa prepotência afastou todo o mundo e nosso isolamento foi completo, começamos a bancar o importante em botequins de última categoria. Quando também isso acabou, tivemos que perambular, sozinhos, pela rua para depender da caridade dos transeuntes. Ainda procuramos encontrar a segurança emocional, dominando ou nos fazendo dependentes dos outros. Mesmo quando nossa sorte não era das piores, não obstante nos encontramos sozinhos no mundo. Ainda inutilmente procuramos obter segurança, através de algum tipo de domínio ou dependência. Para aqueles de nós que eram assim, A.A. teve um significado muito especial. Nessa irmandade começamos a aprender a nos relacionar bem com as pessoas que nos compreendem; não temos mais que estar sozinhos. Os Doze Passos, pág. 103"
+  },
+  "253": {
+    "title": "\"Olhar antes de saltar?\"",
+    "content": "99 http://slidepdf.com/reader/full/na-opiniao-do-bill 99/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Os homens e mulheres sábios dão, com razão, um grande valor à virtude da prudência. Eles sabem que, sem esse importantíssimo atributo, pouca sabedoria terão. \\\"Não basta apenas 'olhar antes de saltar'. Se nosso olhar for cheio de medo, suspeita ou raiva, teria sido melhor não ter olhado nem agido.\\\" <br><br> \\\"Perdemos o medo de tomar decisões, grandes ou pequenas, quando compreendemos que, no caso de nossa escolha ser errada, podemos aprender, se é que podemos, com a experiência. No caso de nossa decisão ser a certa, podemos agradecer a Deus por nos dar a coragem e a graça que nos permitiram agir desse modo.\\\" Cartas de 1966"
+  },
+  "254": {
+    "title": "Satisfações de uma vida correta",
+    "content": "Cdeo mnoos séo sm caoramvpilahnohseoi rsoesn,t iar fqimue dneã ose tre úmteoiss qeu per osfeur nedsapmeceinatlme feenltiez edsi.f eProeunccoiasd does nós podem ser líderes proeminentes, nem queremos ser. O serviço prestado com prazer, as obrigações honestamente cumpridas, os problemas bem aceitos ou resolvidos, com a ajuda de Deus, o conhecimento de que, tanto no lar como no mundo lá fora, somos companheiros num esforço comum, o fato de que, perante Deus, todos os seres humanos são importantes, a prova de que o amor, livremente oferecido, na certa traz um total retorno, a certeza de que não mais estamos isolados e sozinhos em prisões autoconstruídas, a segurança de que podemos nos adaptar e fazer parte do esquema de coisas criadas por Deus – essas são as satisfações de uma vida correta, que não poderiam ser substituídas por nenhuma pompa ou grande quantidade de riquezas materiais. Os Doze Passos, pág. 110"
+  },
+  "255": {
+    "title": "Uma compreensão mais ampla",
+    "content": "Para alcançar mais alcoólicos, será necessário que a compreensão de A.A. e a boa vontade pública, em relação ao A.A., comecem a crescer em toda parte. Precisamos ainda nos relacionar melhor com a medicina, religião, empregadores, governos, tribunais, prisões, hospitais psiquiátricos e todas as entidades ligadas ao campo do alcoolismo. Precisamos da boa vontade, cada vez maior, por parte dos editores, escritores, televisão e rádio. Esses meios de publicidade – local, nacional e internacional – deveriam tornar-se cada vez mais acessíveis. <br><br> Nada é mais importante para o futuro bem-estar de A.A. do que a maneira pela qual utilizamos o colosso dos modernos meios de comunicação. Usados bem e com altruísmo, podem produzir resultados que ultrapassem nossa imaginação. Se usarmos mal esse grande instrumento, seremos destruídos pelas manifestações egoístas de nossa própria gente. Contra esse perigo, o anonimato 100 http://slidepdf.com/reader/full/na-opiniao-do-bill 100/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com dos membros de A.A., perante o público em geral, é nosso escudo e nossa proteção. 1 – Doze Conceitos para Serviços Mundiais, pág. 54 2 – Grapevine de novembro de 1960"
+  },
+  "256": {
+    "title": "Uma experiência \"especial\"",
+    "content": "Fui o receptor de uma grandiosa experiência mística ou \\\"iluminação\\\", e no princípio foi natural eu sentir que essa experiência me fazia sobressair como alguém muito especial. Mas ao relembrar agora esse grandioso acontecimento, só posso me sentir muito agradecido. Agora ficou claro que as únicas características especiais de minha experiência foram a rapidez dela e a convicção imediata e irresistível que ela trouxe. Eexnptreertiaênntcoia, efmoi , teomdo ess osêsn ocuiat,r oigs uaaslp àeqcutoesl,a ersetcoeub icdear tpoo rd eq uqaulqe umeri nmheam pbrórop rdiae A.A. que tenha praticado arduamente nosso programa de recuperação. Certamente a graça que ele recebe é também de Deus; a única diferença é que ele se torna ciente de sua dádiva, mais gradualmente. Grapevine de julho de 1962"
+  },
+  "257": {
+    "title": "A chave da sobriedade",
+    "content": "A incomparável capacidade de cada A.A. de se identificar com o recém-chegado e levá-lo a se recuperar não depende, de forma alguma, de seu grau de instrução, eloqüência ou qualquer outra capacidade especial. A única coisa que importa é que ele é um alcoólico que encontrou a chave da sobriedade. <br><br> Em minha primeira conversa com o Dr. Bob, insisti muito na impossibilidade da medicina fazer algo em seu caso, usando sem receio as palavras com que o Dr. Silkworth descreveu o dilema do alcoólico: \\\"a obsessão mais a alergia\\\". Apesar do Dr. Bob ser médico, isso era novo para ele; eram más notícias. E o fato de eu ser um alcoólico e saber por experiência própria o que estava falando, abrandou o golpe. Como vocês vêem, em nossa conversa houve total reciprocidade. Eu tinha abandonado a pregação. Sabia que eu precisava desse alcoólico como ele precisava de mim. 1 – As Doze Tradições, págs. 33 e 34 2 – A.A. Atinge a Maioridade, pág. 63"
+  },
+  "258": {
+    "title": "Sob a superfície",
+    "content": "Alguns farão objeção a muitas das perguntas que deveriam ser respondidas num inventário moral, porque acham que seus próprios defeitos de caráter não tinham sido tão flagrantes. A estes pode ser sugerido que um exame consciente 101 http://slidepdf.com/reader/full/na-opiniao-do-bill 101/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com provavelmente vai revelar justamente os defeitos relacionados com as perguntas rejeitadas. Pelo fato de nossa história não parecer tão ruim, na superfície, ficamos muitas vezes embaraçados, ao descobrir que isso se deve simplesmente ao fato de termos enterrado esses mesmos defeitos no mais profundo de nosso ser, sob grossa camada de auto-justificação. Esses foram os defeitos que nos levaram finalmente ao alcoolismo e à miséria. Os Doze Passos, págs. 43 e 44"
+  },
+  "259": {
+    "title": "Servidor, não amo",
+    "content": "Em A.A., descobrimos que não importava tanto qual era nossa condição econômica, mas importava muito qual era nossa condição espiritual. Conforme melhoramos nossa perspectiva espiritual, aos poucos o dinheiro se transformou em nosso servidor e não em nosso amo. Ele veio a ser um meio de troca de amor e serviço, com aqueles que nos cercam*.** Um dos Membros Solitários de A.A. é um pastor de ovelhas australiano, que vive a 3.200 quilômetros da cidade mais próxima, onde anualmente ele vende sua lã. A fim de conseguir melhores preços, ele tinha que ir à cidade num determinado mês do ano Mas quando soube que ia ser realizado um grande encontro regional de A.A., em data posterior, quando os preços de lã teriam baixado, ele assumiu feliz um prejuízo financeiro para então fazer sua viagem. Eis o quanto significava uma reunião de A.A. para esse homem. 1 – Os Doze Passos, pág. 108 2 – A.A. Atinge a Maioridade, págs. 27 e 28"
+  },
+  "260": {
+    "title": "Realidade interior",
+    "content": "À medida que a humanidade estuda o mundo material, nos é constantemente revelado que sua aparência exterior não é, de modo algum, a realidade interior. A prosaica trave de aço é uma massa de elétrons, girando uns ao redor dos outros, em velocidade incrível, e esses pequenos corpos são governados por leis precisas. Assim nos diz a Ciência. Não temos nenhuma razão para duvidar disso. Entretanto, quando é sugerida a hipótese perfeitamente lógica, de que além do mundo material, como o contemplamos, existe uma inteligência criadora, orientadora e todo-poderosa, no mesmo instante vem à tona nosso traço perverso de temperamento e procuramos nos convencer de que isso não é verdade. Se fosse certa nossa argumentação, significaria que a vida se originou do nada, que nada significa e que não leva a nada. Alcoólicos Anônimos, pág. 65"
+  },
+  "261": {
+    "title": "\"Pesquisa corajosa\"",
+    "content": "102 http://slidepdf.com/reader/full/na-opiniao-do-bill 102/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Minha auto-análise tem sido freqüentemente falha. Às vezes tenho deixado de compartilhar meus defeitos com as pessoas certas; outras vezes tenho confessado os defeitos delas, em lugar dos meus, e ainda outras vezes, minha confissão dos defeitos tem sido mais de queixas, em alta voz, acerca de minhas circunstâncias e meus problemas. <br><br> Quando A.A. sugere um destemido inventário moral, isso deve parecer a todo recém-chegado que lhe estamos pedindo mais do que ele é capaz de fazer. Cada vez que ele tenta olhar para dentro de si, o orgulho diz: \\\"Você não precisa percorrer esse caminho...\\\" e o medo diz: \\\"Não se atreva a olhar!\\\" Mas o orgulho e o medo desse tipo não passam de bichos-papões. Uma vez que façamos inventário com toda a boa vontade e nos esforcemos para fazê-lo minuciosamente, uma luz maravilhosa invade essa cena nebulosa. À medida que persistimos, nasce um tipo de confiança totalmente novo, e a sensação de alívio c1o –m G ar aqpueavl ifnine adlem jeunntheo n does d1e9p5a8ramos é incrível. 2 – Os Doze Passos, pág. 40"
+  },
+  "262": {
+    "title": "Responsabilidades individuais",
+    "content": "Vamos enfatizar que nossa aversão à disputa de uns com os outros, ou com quem quer que seja, não é considerada uma excepcional virtude, que dá direito aos AAs de se sentirem superiores às outras pessoas. Nem essa aversão significa que os membros de A.A. estão deixando de cumprir suas responsabilidades individuais como cidadãos. Nesse caso eles deveriam se sentir livres para agir como acham que é certo, em relação aos assuntos públicos de nossos tempos. Mas em se tratando de A.A. como um todo, a coisa é bem diferente. Como grupo, não entramos em controvérsia pública, porque estamos certos de que nossa sociedade perecerá se assim fizermos. As Doze Tradições, pág. 54"
+  },
+  "263": {
+    "title": "Medo e fé",
+    "content": "A conquista da libertação do medo é uma tarefa para toda a vida; é algo que nunca pode ficar completamente concluído. Ao sermos duramente atacados, estarmos gravemente enfermos ou em qualquer situação de séria insegurança, todos nós vamos reagir a essa emoção – bem ou mal, conforme o caso se apresente. Somente os que enganam a si mesmos alegam que estão totalmente livres do medo. <br><br> Finalmente vimos que a fé em alguma forma de Deus era parte de nosso ser. Algumas vezes tivemos que procurá-Lo persistentemente, mas Ele estava ali. Ele era tão real como éramos nós. Encontramos a Grande Realidade no mais profundo de nosso ser. 1 – Grapevine de janeiro de 1962 103 http://slidepdf.com/reader/full/na-opiniao-do-bill 103/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com 2 – Alcoólicos Anônimos, pág. 71"
+  },
+  "264": {
+    "title": "O passo que nos mantém crescendo",
+    "content": "Algumas vezes, quando os amigos nos dizem o bem que estamos fazendo, sabemos melhor o que se passa dentro de nós. Sabemos que não estamos fazendo o bem, o suficiente. Não podemos ainda lidar com a vida como ela é. Em alguma parte deve haver uma falha séria, em nossa prática e desenvolvimento espirituais. Qual é ela, então? O mais provável mesmo é que localizemos nossa dificuldade em nossa falta de compreensão ou negligência, em relação ao Décimo Primeiro Passo de A.A. – prece, meditação e a orientação de Deus. Os outros Passos podem manter muitos de nós sóbrios e de certa forma atuando. Mardaus amo eDntéec eim troab aPlrhiamremiroos sPeamspsore pneoldee. nos manter crescendo, se tentarmos Grapevine de junho de 1958"
+  },
+  "265": {
+    "title": "Nem dependência, nem auto-suficiência",
+    "content": "Quando insistíamos, como crianças, em que as pessoas nos protegessem e cuidassem de nós ou em que o mundo deveria nos dar uma vida melhor, então o resultado era desastroso. As pessoas que mais amávamos muitas vezes nos repeliam ou nos abandonavam por completo. Não era fácil suportar nossa desilusão. Já não percebíamos que, embora adultos na idade, estávamos ainda nos comportando de maneira infantil, tentando transformar todos – amigos, esposas, maridos, até o próprio mundo – em pais protetores. Recusávamos aprender que a dependência exagerada das pessoas não dá certo, porque todas as pessoas são falíveis, e até a melhor delas muitas vezes vai nos desapontar, especialmente quando nossas exigências, quanto à atenção, se tornarem irracionais. <br><br> Estamos agora numa base diferente: a base da confiança e da dependência de Deus. Confiamos no Deus infinito, e não em nossos seres finitos. Enquanto fizermos exatamente como achamos que Ele quer que façamos e humildemente confiarmos Nele, Ele é capaz de nos ajudar a enfrentar a calamidade com a serenidade. 1 – Os Doze Passos, pág. 102 2 – Alcoólicos Anônimos, pág. 82"
+  },
+  "266": {
+    "title": "Dar graças",
+    "content": "Embora eu ainda encontre dificuldade para aceitar a dor e a ansiedade de hoje com um certo grau de serenidade – como aqueles que estão mais avançados na 104 http://slidepdf.com/reader/full/na-opiniao-do-bill 104/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com vida espiritual parecem poder aceitá-las – entretanto, posso agradecer a dor atual. Encontro disposição para fazer isso, ao recordar as lições aprendidas através do sofrimento passado – lições que têm me levado às bênçãos que agora desfruto. Posso recordar como as agonias do alcoolismo, a dor da revolta e o orgulho frustrado com freqüência me levaram à graça de Deus, e em conseqüência a uma nova liberdade. Grapevine de março de 1962"
+  },
+  "267": {
+    "title": "Na retaguarda de nossas desculpas",
+    "content": "Nós, bêbados, somos campeões em fabricar desculpas e racionalizações. É tarefa do psiquiatra encontrar as causas mais profundas de nossa conduta. Apesar de não ter instrução em psiquiatria, podemos, depois de algum tempo em Aqu.Ae .,t êvmer qsuideo n ocsasuossa mdoost ivpoosr n ãfoo rtçêams sdideosc oo nqhueec ipdeanss ápvaarmao sn óqsu.e fPoosrsteamnt oe, deveríamos buscar, com o mais profundo respeito, interesse e benefício, as descobertas da psiquiatria. <br><br> \\\"O crescimento espiritual, através da prática dos Doze Passos de A.A., mais a ajuda de um bom padrinho, geralmente podem revelar a maioria das razões mais profundas de nossos defeitos de caráter, pelo menos a um grau que satisfaça nossas necessidades práticas. Entretanto, deveríamos ser gratos a nossos amigos, no campo da psiquiatria, que tanto têm enfatizado a necessidade de se pesquisar as motivações falsas e muitas vezes inconscientes.\\\" 1 – A.A. Atinge a Maioridade, pág. 212 2 – Carta de 1966"
+  },
+  "268": {
+    "title": "Aquelas outras pessoas",
+    "content": "\\\"Assim como você, muitas vezes me considerei a vítima do que as outras pessoas dizem e fazem. Mas todas as vezes que eu confessei os pecados dessas pessoas, principalmente daquelas cujos pecados eram diferentes dos meus, descobri que as coisas só pioraram. Meu próprio ressentimento e minha autopiedade muitas vezes me tornaram quase inútil para todos. \\\"Assim sendo, agora, se alguém fala mal de mim, primeiro pergunto a mim mesmo se há alguma verdade no que foi dito. Se não há nenhuma, procuro me lembrar de que também tive períodos em que falava amargamente dos outros; que o falatório maligno é apenas um sintoma da permanência de nossa doença emocional, e conseqüentemente, que nunca devo ficar com raiva devido às injustiças de uma pessoa doente. \\\"Com muita dificuldade, tenho procurado sempre perdoar as outras pessoas e a mim mesmo. Você recentemente tem tentado fazer isso?\\\" Carta de 1946 105 http://slidepdf.com/reader/full/na-opiniao-do-bill 105/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "269": {
+    "title": "Quando a infância termina",
+    "content": "\\\"Você deve recordar que todo grupo de A.A. começa, como deveria, através dos esforços de uma só pessoa e de seus amigos – um fundador e sua hierarquia. Não existe outro modo. \\\"Mas quando a infância termina, os primeiros líderes têm que abrir caminho para essa democracia que surge das raízes e eventualmente se coloca de lado a liderança auto-eleita do passado.\\\" <br><br> Carta ao Dr. Bob: \\\"Em todos os lugares, os grupos de A.A. colocaram as atividades de serviço em suas próprias mãos. Os fundadores locais e seus amigos estão agora de lado. Por que tanta gente esquece isso, quando pensa no futuro de nossos serviços mundiais, nunca vou entender. \\\"qEuavnednotu aal mreecnetbee mos. Ngrãuop oosb spteagnatem, éa pdoisresíçvãeol eq utea lvneãzo eos bfaaçnajmem. Dsuea q huearlaqnuçear modo, já são adultos; A.A. lhes pertence; vamos entregá-lo para eles.\\\" 1 – Carta de 1950 2 – Carta de 1949"
+  },
+  "270": {
+    "title": "Honestidade e recuperação",
+    "content": "Ao fazer inventário, um membro poderia considerar questões, como por exemplo: Como minha busca egoísta de relação sexual prejudicou outras pessoas e a mim mesmo? Quais as pessoas prejudicadas, e até que ponto? Como reagi a essas situações, na ocasião? Eu me consumi com sentimentos de culpa? Ou insisti em que era o perseguido e não o perseguidor, para assim me absolver? Como reagi à frustração em assuntos sexuais? Quando rejeitado, eu me tornava vingativo ou deprimido? Eu desforrava nas outras pessoas? Se houvesse rejeição ou frieza em casa, usava isso como desculpa para a promiscuidade? <br><br> Que nenhum alcoólico diga que não pode se recuperar, a não ser que ele tenha sua família de volta. Sua recuperação não depende das pessoas. Ela depende de sua relação com Deus, como ele pode concebê-Lo. 1 – Os Doze Passos, pág. 41 2 – Alcoólicos Anônimos, pág. 107"
+  },
+  "271": {
+    "title": "A.A. em duas palavras",
+    "content": "\\\"Todo o progresso de A.A. pode ser expressado em apenas duas palavras: humildade e responsabilidade. Todo nosso desenvolvimento espiritual pode ser medido, com precisão, conforme nosso grau de adesão a esses magníficos padrões. 106 http://slidepdf.com/reader/full/na-opiniao-do-bill 106/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"Uma humildade aprofundando-se sempre, acompanhada de uma crescente boa vontade para aceitar e cumprir as responsabilidades bem definidas – estas são realmente nossas pedras de toque para todo o crescimento na vida do espírito. Elas nos proporcionam a essência do bem, tanto no ser como no atuar. É por meio delas que conseguimos encontrar e fazer a vontade de Deus.\\\" Palestra de 1965 (publicada na Grapevine de janeiro de 1966)"
+  },
+  "272": {
+    "title": "Dificuldades provocadas por nós mesmos",
+    "content": "Egoísmo – egocentrismo! Achamos que essa é a causa de nossas dificuldades. Impulsionados por uma centena de formas de medo, auto-ilusão, interesse próprio e auto-piedade, pisamos em nossos semelhantes, e eles revidam. Algumas vezes nos ferem, aparentemente sem provocação, mas sempre acabamos descobrindo que em algum momento, no passado, tomamos decisões fbearsiedaods.as no egocentrismo, que mais adiante nos colocaram em situação de ser Assim, achamos que nossas dificuldades são basicamente provocadas por nós mesmos. Surgem de nós mesmos, e o alcoólico é um exemplo da prepotência desenfreada, embora ele geralmente não ache isso. Sobretudo, nós, alcoólicos, devemos nos desfazer desse egoísmo. Devemos, senão ele nos mata! Alcoólicos Anônimos, pág. 76"
+  },
+  "273": {
+    "title": "Amor constrangedor",
+    "content": "A vida de cada A.A. e de cada grupo é construída ao redor de nossos Doze Passos e Doze Tradições. Sabemos muito bem que a punição para a desobediência sistemática desses princípios é a morte do indivíduo e a dissolução do grupo. Uma força ainda maior para a unidade de A.A. é o amor- dedicação que temos por nossos companheiros e por nossos princípios. <br><br> Você poderia pensar que as pessoas na sede de A.A., em Nova York, certamente teriam que ter alguma autoridade pessoal. Mas há muito tempo, tanto os custódios como os secretários descobriram que não poderiam fazer nada mais do que dar leves sugestões aos grupos de A.A. Tiveram até que inventar duas frases que ainda aparecem em algumas cartas que escrevem: \\\"Claro que vocês têm toda a liberdade de resolver esse assunto como achar melhor. Mas a experiência da maioria, em A.A., parece sugerir...\\\" A sede mundial de A.A. não dá ordens. Ao contrário, é nossa maior transmissora das lições aprendidas com a experiência. 1 – Doze Conceitos para Serviços Mundiais, pág. 11 2 – As Doze Tradições, pág. 51"
+  },
+  "274": {
+    "title": "Conduzir-se sozinho",
+    "content": "107 http://slidepdf.com/reader/full/na-opiniao-do-bill 107/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Tratando-se de assuntos espirituais, conduzir-se sozinho é perigoso. Quantas vezes ouvimos pessoas bem-intencionadas proclamarem a orientação de Deus, quando era mais do que evidente que estavam muito enganadas. Faltando-lhes, tanto a prática quanto a humildade, tinham-se iludido e foram capazes de justificar o mais completo absurdo, sob a alegação de que era isso que Deus lhes havia dito. Pessoas com grande desenvolvimento espiritual quase sempre insistem em verificar, com amigos ou conselheiros espirituais, a orientação que sentem ter recebido de Deus. É certo, então, que um novato não deveria, dessa maneira, correr o risco de cometer erros tolos, talvez trágicos. Embora os comentários ou orientação dos outros possam não ser infalíveis, é provável que sejam mais específicos do que qualquer orientação direta que possamos receber, enquanto ainda somos inexperientes no estabelecimento do contato com um Poder Superior a nós mesmos. Os Doze Passos, pág. 50"
+  },
+  "275": {
+    "title": "Recuperação através da doação",
+    "content": "Para um novo provável membro, descreva em linhas gerais o programa de ação, explicando como você fez uma auto-análise, como colocou em ordem seu passado e por que está agora tentando ajudá-lo. É importante que ele perceba que o esforço que você faz para lhe transmitir isso é de vital importância para sua própria recuperação. Na verdade, ele pode estar ajudando-o mais do que você a ele. Explique-lhe claramente que ele não tem nenhuma obrigação para com você. <br><br> Nos primeiros seis meses de minha própria sobriedade, trabalhei arduamente com muitos alcoólicos. Nenhum deles correspondeu. Mas esse trabalho me manteve sóbrio. Não foi porque esses alcoólicos me dessem qualquer coisa. Meu equilíbrio emocional veio de minha tentativa de dar, não da exigência de receber. 1 – Alcoólicos Anônimos, pág. 103 2 – Grapevine de janeiro de 1958"
+  },
+  "276": {
+    "title": "Um Poder Superior para ateus",
+    "content": "\\\"Tenho feito muitas experiências com ateus, sendo boas, em sua maioria. Em A.A. todos têm o direito de ter sua própria opinião. É muito melhor manter uma sociedade aberta e tolerante do que conter qualquer pequeno distúrbio que essas opiniões possam ocasionar. Realmente não conheço ninguém que tenha morrido de alcoolismo, por causa das opiniões de algum ateu sobre o cosmo. \\\"Mas sempre peço a essas pessoas que tenham um 'Poder Superior' – por exemplo, seu próprio grupo. Quando elas chegam, a maioria das pessoas, no grupo, está sóbria, e elas estão bêbadas. Portanto, o grupo é um 'Poder Superior'. 108 http://slidepdf.com/reader/full/na-opiniao-do-bill 108/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Esse é um início suficientemente bom, e quase todos progridem partindo daí. Sei como se sentem, porque antes eu mesmo era assim\\\". Carta de 1962"
+  },
+  "277": {
+    "title": "Para aliviar nossa carga",
+    "content": "Só existe uma razão que poderia vir a modificar nosso desejo de revelar, por inteiro, os danos causados. Ela surgirá na rara situação em que fazer uma revelação completa poderia prejudicar seriamente a pessoa a quem estamos fazendo reparações. Ou, igualmente importante, a outras pessoas. Não podemos, por exemplo, dar uma explicação pormenorizada de uma aventura extraconjugal nos ombros de nosso desprevenido cônjuge. Não alivia nossa carga, quando imprudentemente tornamos mais pesadas as cruzes dos outros. Ao fazer reparações, deveríamos se*r* *sensíveis, ter tato, ser respeitosos e humildes, sem chegar ao servilismo. Como filhos de Deus, andamos de cabeça erguida, não nos arrastamos na frente de ninguém. 1 – Os Doze Passos, págs. 74 e 75 2 – Alcoólicos Anônimos, pág. 94"
+  },
+  "278": {
+    "title": "Fale alto, sem medo",
+    "content": "Poucos de nós são anônimos com respeito a nossos contatos diários. Esquecemos o anonimato nesse nível, porque achamos que nossos amigos e colegas deveriam saber a respeito de A.A. e o que ele tem feito por nós. Também queremos perder o medo de admitir que somos alcoólicos. Embora peçamos insistentemente aos repórteres para não divulgar nossa identidade, muitas vezes falamos ante reuniões semipúblicas. Queremos convencer a audiência de que nosso alcoolismo é uma doença e não temos mais medo de discutí-la diante de quem quer que seja. No entanto, se formos além desse limite, certamente perderemos para sempre o princípio do anonimato. Se cada A.A. se sentir livre para publicar seu nome, retrato e história, seremos lançados em breve numa grande orgia de publicidade pessoal. <br><br> \\\"Enquanto a chamada reunião pública é discutível por muitos membros de A.A., sou a favor, contanto que o anonimato seja respeitado nas notícias da imprensa e que não peçamos nada para nós, a não ser compreensão.\\\" 1 – Grapevine de janeiro de 1946 2 – Carta de 1949"
+  },
+  "279": {
+    "title": "A requintada arte de álibis",
+    "content": "109 http://slidepdf.com/reader/full/na-opiniao-do-bill 109/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com A maioria dos membros de A.A. sofreu severamente por causa da autojustificação, na época das bebedeiras. Para a maioria de nós, a autojustificação era a causa das desculpas para beber e para todos os tipos de comportamento louco e prejudicial. Tínhamos feito da invenção de álibis uma requintada arte. Tínhamos que beber, ou porque as coisas iam mal, ou porque iam bem. Tínhamos que beber porque, em casa, ou éramos sufocados com amor, ou não recebíamos amor algum. Tínhamos que beber porque, no trabalho, ou tínhamos grandes sucessos, ou tristes fracassos. Tínhamos que beber porque nossa pátria, ou havia ganho uma guerra, ou havia perdido a paz. E assim por diante, \\\"ad infinitum\\\". <br><br> Muitas vezes levávamos muito tempo para perceber como nossas emoções descontroladas nos vitimavam. Quando se tratava de outras pessoas, tínhamos q1u –e Oelsi mDionzaer Pa apsasloasv,r paá \\\"gc.u 3lp7a\\\" de nosso vocabulário e de nossos pensamentos. 2 – Os Doze Passos, pág. 38"
+  },
+  "280": {
+    "title": "Espiritualmente preparados",
+    "content": "Presumindo estar espiritualmente preparados, podemos fazer todo tipo de coisa que se supõe que os alcoólicos não possam. Ouvimos dizer que não devemos ir onde servem bebida; não devemos tê-la em casa; devemos evitar os amigos que bebem; devemos evitar os filmes com cenas de bebida; não devemos entrar em bares; nossos amigos devem esconder suas garrafas, quando vamos às suas casas; não devemos pensar ou finalmente ser lembrados do álcool. Nossa experiência mostra que isso não é necessariamente assim. Enfrentamos essas situações todos os dias. O alcoólico que não pode enfrentá- las ainda tem a mente alcoólica; existe algo de errado com seu estado espiritual. Sua única chance de manter a sobriedade seria a de viver em algum lugar da Groelândia, e ainda ali poderia aparecer um esquimó com uma garrafa de uísque e estragar tudo! Alcoólicos Anônimos, págs. 108 e 109"
+  },
+  "281": {
+    "title": "Nós como indivíduos",
+    "content": "Existe somente um teste seguro para todas as experiências espirituais: \\\"Por seus frutos os conhecereis.\\\" É por isso que acho que não deveríamos pôr em dúvida a transformação de alguém – quer seja súbita ou gradual. Nem deveríamos exigir que o tipo de transformação de alguém seja igual ao nosso, porque a experiência mostra que estamos aptos a receber aquilo que for mais útil para nossas próprias necessidades. <br><br> 110 http://slidepdf.com/reader/full/na-opiniao-do-bill 110/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Não existem dois seres humanos exatamente iguais, portanto cada um de nós, quando fizer o inventário, precisará determinar quais são seus próprios defeitos de caráter. Tendo encontrado os sapatos que lhe servem, deveria calçá-los e caminhar com a nova confiança de que, finalmente, está no caminho certo. 1 – Grapevine de julho de 1962 2 – Os Doze Passos, pág. 38"
+  },
+  "282": {
+    "title": "Instintos descontrolados",
+    "content": "Toda vez que uma pessoa impõe seus instintos irracionalmente aos outros, vem a infelicidade. Se a busca da riqueza pisa naqueles que venham a estar no caminho, então a raiva, a inveja e a vingança serão igualmente despertadas. Se o sexo se desenfreia, há um tumulto semelhante. Exigir de outras pessoas excessiva atenção, proteção e amor só pode despertar o dàso mexíingiêon ocuia as rqeuveo altsa pnroosv opcróapmr.i oQs uparnodteot oor edse s–e djou adse epmreosçtíõgeiso tdãeo udmoe inntdiaisv íqduuaon stoe descontrola, seja num grupo de mulheres costurando ou numa conferência internacional, outras pessoas sofrem e muitas vezes se revoltam. Esse choque de instintos pode produzir, tanto uma leve descortesia quanto uma grande revolta. Os Doze Passos, pág. 35"
+  },
+  "283": {
+    "title": "\"Impotentes perante o álcool\"",
+    "content": "Eu tinha caminhado continuamente ladeira abaixo, e naquele dia, em 1934, eu estava acamado no andar superior do hospital, sabendo pela primeira vez que estava completamente sem esperança. Lois estava no andar térreo, e o Dr. Silkworth estava tentando, com suas maneiras gentis, transmitir a ela o que estava acontecendo comigo e que meu caso era sem esperança. \\\"Mas Bill tem uma grande força de vontade\\\", ela disse. \\\"Ele tem tentado desesperadamente ficar bom. Doutor, por que ele não pode parar?\\\" Ele explicou que minha maneira de beber, uma vez que se tornou um hábito, ficou sendo uma obsessão, uma verdadeira loucura que me condenava a beber contra meu desejo. <br><br> \\\"Nos últimos estágios de nosso alcoolismo ativo, a vontade de resistir já não existe. Portanto, quando admitimos a derrota total e quando nos tornamos inteiramente dispostos a tentar os princípios de A.A., nossa obsessão desaparece e entramos numa nova dimensão – a liberdade sob a vontade de Deus, como nós O concebemos.\\\" 1 – A.A. Atinge a Maioridade, pág. 48 2 – Carta de 1966"
+  },
+  "284": {
+    "title": "Fé – um plano – e trabalho",
+    "content": "111 http://slidepdf.com/reader/full/na-opiniao-do-bill 111/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"A idéia de viver um \\\"plano de vinte e quatro horas\\\" aplica-se primeiramente à vida emocional do indivíduo. Emocionalmente falando, não devemos viver no ontem, nem no amanhã. \\\"Mas nunca fui capaz de ver que isso significa que o indivíduo, o grupo ou A.A. como um todo não deveria pensar como vai funcionar amanhã ou mesmo num futuro mais distante. A fé sozinha nunca construiu a casa em que você mora. Tinha que haver um plano e um bocado de trabalho para que essa casa se tornasse realidade. \\\"Nada é mais verdadeiro para nós, de A.A., do que o dizer público: 'A fé sem obras é morta'. Os serviços de A.A., todos destinados a fazer mais, e o melhor possível, o trabalho do Décimo Segundo Passo, são as 'obras' que garantem nossa vida e crescimento, impedindo a anarquia ou a estagnação.\\\" Carta de 1954"
+  },
+  "285": {
+    "title": "Falso orgulho",
+    "content": "A coisa alarmante, a respeito da cegueira do orgulho é a facilidade com que é justificada. Mas não precisamos enxergar longe para ver que a autojustificação é uma destruidora universal da harmonia e do amor. Ela coloca o homem contra o homem, a nação contra a nação. Através dela, toda a forma de tolice e violência pode ser arranjada de forma a parecer boa e até respeitável. <br><br> Seria falso orgulho se acreditar que Alcoólicos Anônimos é um remédio para todos os males, mesmo para o alcoolismo. 1 – Grapevine de junho de 1961 2 – A.A. Atinge a Maioridade, pág. 207"
+  },
+  "286": {
+    "title": "Superando ressentimentos",
+    "content": "Começamos a ver que o mundo e sua gente realmente tinham nos dominado. Sob essa infeliz condição, as más ações dos outros, imaginários ou reais, tinham força até para nos destruir, porque pelo ressentimento poderíamos ser levados de volta à bebida. Vimos que esses ressentimentos devem ser superados, mas como? Poderíamos não querê-los longe. Este foi nosso procedimento: percebemos que as pessoas que nos maltrataram talvez estivessem espiritualmente doentes. Então, pedimos a Deus que nos ajudasse a lhes mostrar a mesma tolerância, piedade e paciência que, com satisfação, teríamos para com um amigo doente. Hoje, evitamos a vingança e a discussão. Não podemos tratar as pessoas doentes dessa maneira. Se o fizermos, destruiremos nossa chance de ser úteis. Não podemos ser úteis a todas as pessoas, mas pelo menos Deus nos mostrará como ser bons e tolerantes para com todos. Alcoólicos Anônimos, págs. 80 e 81 112 http://slidepdf.com/reader/full/na-opiniao-do-bill 112/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "287": {
+    "title": "Aspectos da espiritualidade",
+    "content": "\\\"Entre os membros de A.A. existe ainda uma grande confusão a respeito do que é material e do que é espiritual. Prefiro acreditar que tudo é uma questão de motivo. Se usarmos nossos bens materiais de forma egoísta, então somos materialistas. Mas se os usarmos para ajudar os outros, então o material ajuda o espiritual.\\\" <br><br> \\\"Persiste a idéia de que os instintos são primariamente maus e são os obstáculos, frente aos quais toda a espiritualidade vacila. Acredito que a diferença entre o bem e o mal não é a diferença entre o espiritual e os instintos do indivíduo; penso que é a diferença entre o uso adequado e o uso inadequado dos instintos. O reconhecimento e a correta canalização dos instintos constituem a essência da verdadeira integridade.\\\" 12 –– CCaarrttaa ddee 11995584"
+  },
+  "288": {
+    "title": "Sobriedade emocional",
+    "content": "Se examinarmos cada perturbação que temos, seja grande ou pequena, encontraremos em sua raiz alguma dependência doentia e sua conseqüente exigência doentia. Com a ajuda de Deus, vamos continuamente renunciar a essas embaraçosas deficiências. Daí podemos ficar livres para viver e para amar; podemos então ser capazes de praticar o Décimo Segundo Passo, com nós mesmos e com os outros para obter a sobriedade emocional. Grapevine de janeiro de 1958"
+  },
+  "289": {
+    "title": "Quando os conflitos aumentam",
+    "content": "Algumas vezes eu seria forçado a examinar situações, onde estava agindo mal. No mesmo instante, eu começaria freneticamente a procurar desculpas. \\\"Essas\\\", eu exclamaria, \\\"são realmente faltas de um homem de bem\\\". Quando essa frase favorita fosse destruída, eu pensaria: \\\"Bem, se aquelas pessoas me tratassem sempre bem, eu não teria que me comportar da maneira que me comporto.\\\" A desculpa seguinte seria esta: \\\"Deus sabe muito bem que tenho terríveis compulsões. Simplesmente não posso vencê-las, só mesmo Ele vai ter que me tirar dessa.\\\" Finalmente chegava o momento em que eu exclamaria: \\\"Isso eu positivamente não farei! Nem mesmo tentarei.\\\" Claro que meus conflitos foram aumentando, porque eu estava completamente carregado de desculpas, recusas e revolta. <br><br> Numa auto-avaliação, o que nos vem à mente, quando estamos sozinhos, pode ser distorcido por nossa própria racionalização. A vantagem de falar com uma 113 http://slidepdf.com/reader/full/na-opiniao-do-bill 113/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com outra pessoa é que podemos obter, diretamente, seus comentários e conselhos a respeito de nossa situação. 1 – Grapevine de junho de 1961 2 – Os Doze Passos, pág. 50"
+  },
+  "290": {
+    "title": "Tempo versus dinheiro",
+    "content": "Nossa atitude, no sentido de conceder tempo, comparada com nossa atitude em dar dinheiro, apresenta um contraste interessante. Claro que damos muito de nosso tempo para as atividades de A.A., visando a nossa proteção e crescimento, mas também em consideração aos nossos grupos, nossas áreas, A.A. como um todo e, acima de tudo, nos dedicando ao recém-chegado. Considerados em termos de dinheiro, esses sacrifícios coletivos equivalem a uma grande soma. Mas quando se trata de realmente gastar dinheiro, particularmente para despesas gerais de serviço de A.A. muitos de nós tentam relutar. Pensamos na perda de todo aquele poder aquisitivo em nossos anos de bebedeiras, nas economias que poderíamos ter feito para emergências ou para a educação das crianças. Nos últimos anos, essas atitudes estão diminuindo em toda parte; elas desaparecem rapidamente quando uma necessidade verdadeira para um certo serviço de A.A. se torna clara. Os doadores raramente podem ver quais foram os verdadeiros resultados. Eles sabem bem, entretanto, que incontáveis milhares de outros alcoólicos e seus familiares serão certamente beneficiados. Doze Conceitos para Serviços Mundiais, págs. 67 e 68"
+  },
+  "291": {
+    "title": "Aquilo que acaba ou que alivia o sofrimento",
+    "content": "\\\"Acredito que, quando éramos alcoólicos ativos, bebíamos principalmente para acabar com o sofrimento de um tipo ou de outro – físico, emocional ou psíquico. É claro que cada pessoa tem um ponto fraco, e suponho que você tenha encontrado o seu – por essa razão é que recorremos à garrafa outra vez. \\\"Se eu fosse você, não me culparia tanto por isso; por outro lado, a experiência deveria redobrar sua convicção de que o álcool não tem um poder permanente para acabar com o sofrimento.\\\" <br><br> Em cada história de A.A., o sofrimento tinha sido o preço da admissão para uma nova vida. Mas esse preço tinha comprado mais do que esperávamos. Ele trouxe humildade, que logo descobrimos que era um remédio para o sofrimento. Começamos a ter menos medo do sofrimento e a desejar a humildade mais do que nunca. 1 – Carta de 1959 2 – Os Doze Passos, págs. 64 e 65"
+  },
+  "292": {
+    "title": "114",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 114/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com A respeito de companheirismo Caso a distorção da vida familiar, por causa do álcool, tenha sido grande, pode ser necessário um longo período de paciente esforço. Depois que o marido ingressa em A.A., a esposa pode ficar decepcionada, e até muito ressentida, pelo fato de A.A. ter feito o que não fizeram todos os seus anos de dedicação. Seu marido pode vir a se envolver tanto com A.A. e com seus novos amigos que ele, sem consideração, passa mais tempo fora de casa do que quando bebia. Então, cada um culpa o outro. Mas o alcoólico, reconhecendo o que sua esposa aturou, e agora entendendo bem o quanto a prejudicou, bem como a seus filhos, quase sempre retoma suas responsabilidades conjugais com a disposição de reparar o que pode e aceitar o que não pode. Ele insiste em praticar em seu lar todos os Doze Passos de A.A., obtendo muitas vezes excelentes resultados. A essa altura, ele começa com firmeza e com carinho a se comportar como um companheiro e não como um mOse nDinooz em Paaus.sos, pág. 105"
+  },
+  "293": {
+    "title": "Revolta ou aceitação",
+    "content": "Todos nós passamos por períodos em que somente podemos orar com o maior esforço. Às vezes, vamos ainda mais longe. Somos acometidos por uma revolta tão doentia que simplesmente não conseguimos orar. Quando essas coisas acontecem, não deveríamos achar que somos tão doentes. Deveríamos simplesmente voltar à prática da oração, tão logo possamos, fazendo o que sabemos ser bom para nós. <br><br> Uma pessoa que persiste na oração encontra-se na posse de grandes dádivas. Quando tem que lidar com situações difíceis, descobre que pode enfrentá-las. Pode aceitar a si mesma e o mundo que a cerca. Pode fazer isso porque agora aceita um Deus que é Tudo – e que ama a todos. Quando ela diz: \\\"Pai nosso que estais no céu, santificado seja Teu nome\\\", ela quer dizer isso profunda e humildemente. Quando em verdadeira meditação e portanto livre dos clamores do mundo, sabe que está nas mãos de Deus, que seu destino final está realmente seguro, aqui e no além, aconteça o que acontecer. 1 – Os Doze Passos, págs. 91 e 92 2 – Grapevine de junho de 1958"
+  },
+  "294": {
+    "title": "Amor + racionalidade = crescimento",
+    "content": "\\\"Parece para mim que o objetivo primordial de qualquer ser humano é o de crescer, como Deus pretendeu, sendo essa a natureza de todas as coisas em crescimento. \\\"Nossa busca deve ser em direção à realidade que podemos encontrar, incluindo a melhor definição e sentimento de amor que podemos adquirir. Se a capacidade de amar existe no ser humano, então ela certamente existe em seu Criador. 115 http://slidepdf.com/reader/full/na-opiniao-do-bill 115/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com \\\"A teologia me ajuda, porque a maioria de seus conceitos me faz acreditar que vivo num universo racional, sob o poder de um Deus amoroso e que minha própria irracionalidade pode aos poucos desaparecer. Esse é, suponho, o processo de crescimento para o qual somos destinados.\\\" Carta de 1958"
+  },
+  "295": {
+    "title": "Orando de maneira certa",
+    "content": "Achávamos que levávamos a sério as práticas religiosas quando, após uma apreciação honesta, descobrimos que tínhamos sido apenas superficiais. Ou, indo ao extremo, tínhamos mergulhado no emocionalismo e tínhamos também confundido isso com o verdadeiro sentimento religioso. Em ambos os casos, pedíamos algo sem dar nada. Nem sequer tínhamos orado de maneira certa. Sempre dizíamos: \\\"Concedei-me aasb scooluistaams qenutee qoue raom\\\",o re ma vDeze udse \\\"eS eajoa fperiótax iTmuoa. vAosnstiamd,e \\\"c. oNnãtion ueánvteamndoísa mnooss enganando e portanto incapazes de receber a graça suficiente para nos devolver sanidade. Os Doze Passos, págs. 23 e 24"
+  },
+  "296": {
+    "title": "Inventário diário",
+    "content": "Com freqüência, conforme analisamos todos os dias, só a mais minuciosa investigação vai revelar quais foram nossos verdadeiros motivos. Há casos em que nossa antiga inimiga, a racionalização, entrava em cena e justificava um comportamento que realmente era errado. A tentação aqui é imaginar que tínhamos bons motivos e razões, quando realmente não tínhamos. \\\"Criticávamos construtivamente\\\" alguém que achávamos que estava precisando, quando nosso verdadeiro motivo era vencer uma discussão inútil. Ou, estando ausente a pessoa interessada, achávamos que estávamos ajudando os outros a compreendê-la, quando na realidade nosso verdadeiro motivo era diminuí-la para que nos sentíssemos superiores. Feríamos aqueles que amávamos, porque eles precisavam \\\"aprender uma lição\\\", mas na verdade queríamos puni-los. Ficávamos deprimidos e queixávamos de que nos sentíamos mal, quando de fato estávamos pedindo principalmente simpatia e atenção. Os Doze Passos, pág. 82"
+  },
+  "297": {
+    "title": "Uma visão do todo",
+    "content": "\\\"Embora muitos de nós tenham tido que se esforçar violentamente para obter a sobriedade, contudo, essa irmandade nunca teve que lutar pela unidade perdida. Conseqüentemente, nós algumas vezes achamos que essa grande dádiva é merecida. Esquecemos que, se perdêssemos nossa unidade, os milhões de alcoólicos que ainda 'não conhecem' nunca poderiam ter sua chance\\\". 116 http://slidepdf.com/reader/full/na-opiniao-do-bill 116/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com <br><br> \\\"Costumávamos ser céticos a respeito das reuniões grandes de A.A., como convenções, achando que elas poderiam parecer exibicionismo, mas em compensação seu benefício é enorme. Enquanto o interesse de cada A.A. deva se centralizar principalmente naqueles em torno dele e em seu próprio grupo, é necessário e desejável que todos nós tenhamos uma visão mais ampla do todo. \\\"A Conferência de Serviços Gerais, em New York, também produz esse efeito naqueles que participam. É um processo que amplia a visão.\\\" 1 – Carta de 1949 2 – Carta de 1956"
+  },
+  "298": {
+    "title": "Um grande começo",
+    "content": "Mesmo o mais novo dos recém-chegados descobre as recompensas nunca iemstaág minaaidsa sc,e qguoa dnod oq pureo ecluer.a Easjusde aér nseau v ceormdapdaen hoe tiirpoo a ldceo ódloicaoç,ã aoq quueele nqãuoe eaxinigdea nada em troca. Ele não espera que seu companheiro sofredor lhe pague, ou mesmo lhe dê amor. E então ele descobre que, através do divino paradoxo desse tipo de doação, encontrou sua própria recompensa, tivesse ou não seu companheiro recebido alguma coisa. Seu próprio caráter pode ainda não estar bem formado, mas de alguma forma sabe que Deus permitiu que ele tivesse um grande começo, e sente que está à beira de novos mistérios, alegrias e experiências com as quais nunca havia sonhado. Os Doze Passos, pág. 96"
+  },
+  "299": {
+    "title": "Anonimato e sobriedade",
+    "content": "À medida que os grupos de A.A. se multiplicavam, aumentavam os problemas de anonimato. Entusiasmados com a recuperação espetacular de um companheiro alcoólico, muitas vezes discutíamos aspectos íntimos e dolorosos do seu caso, que apenas o padrinho deveria ouvir. A pessoa ofendida então declarava com razão que havia perdido a confiança. Quando essas histórias começaram a circular fora de A.A., a perda de confiança em nossas promessas de anonimato foi grande. Isso freqüentemente afastava as pessoas de nós. Claro que o nome de todo membro de A.A., e também sua história, tinham que ser mantidos em segredo, se ele quisesse. <br><br> Nós agora compreendemos perfeitamente que 100 por cento do anonimato pessoal, perante o público, é tão vital para a vida de A.A. como 100 por cento de sobriedade é vital para a vida de cada membro. Esse não é o conselho do medo; é a voz prudente de uma longa experiência. 1 – As Doze Tradições, pág. 60 2 – A.A. atinge a Maioridade, pág. 263"
+  },
+  "300": {
+    "title": "117",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 117/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Pessoas com fé Nós que atravessamos o caminho do agnosticismo e ateísmo, lhe pedimos para se despojar do preconceito, até do preconceito contra a religião organizada. Aprendemos que sejam quais forem as fraquezas humanas que os vários credos possam ter, estes têm dado propósito e orientação a milhares de indivíduos. As pessoas com fé têm uma idéia lógica do que seja a vida. Na realidade, não costumávamos ter nenhuma concepção racional. Costumávamos nos divertir, ridicularizando cinicamente as crenças e as práticas espirituais, quando poderíamos ter visto que muitas pessoas espiritualizadas, de todas as raças, cores e credos, estavam demonstrando ter um grau de equilíbrio emocional, felicidade e utilidade que deveríamos ter procurado para nós mesmos. Alcoólicos Anônimos, pág. 66"
+  },
+  "301": {
+    "title": "Para reconstruir a segurança",
+    "content": "Em nosso comportamento, com respeito à segurança financeira e emocional, nessas áreas, quantas vezes o medo, a cobiça, a possessividade e o orgulho fizeram o pior. Examinando seu passado empresarial ou empregatício, quase todo alcoólico pode fazer perguntas como estas: Além de meu problema de bebida, que defeitos de caráter contribuíram para minha instabilidade financeira? O medo e o complexo de inferioridade, acerca de minha competência no trabalho, destruíram minha confiança e me levaram a conflitos? Ou eu exagerava meu valor e bancava o importante? As mulheres de negócio, que estão em A.A., descobrirão naturalmente que muitas dessas perguntas também muitas vezes se referem a elas, e a dona-de- casa alcoólica pode inclusive trazer insegurança financeira à família. Na verdade, todos os alcoólicos precisam se examinar impiedosamente para constatar como seus próprios defeitos de personalidade destruíram sua segurança. Os Doze Passos, págs. 41 e 42"
+  },
+  "302": {
+    "title": "Camaradagem em perigo",
+    "content": "Nós, AAs, somos como os passageiros de um grande navio, momentos depois de serem salvos de um naufrágio, quando a camaradagem, a alegria e a democracia reinam na embarcação, desde a mesa de terceira classe até a mesa do capitão. Portanto, os diferentes sentimentos dos passageiros, nossa alegria por haver escapado do desastre, não diminuíram, quando seguimos nossos próprios caminhos. O sentimento de compartilhar um perigo comum – recaída no alcoolismo – continua sendo um elemento importante do poderoso vínculo que nos une em A.A. <br><br> Nossa primeira mulher alcoólica tinha sido paciente do Dr. Harry Tiebout, e ele lhe havia entregue uma cópia manuscrita do Livro Grande (Livro Azul). A 118 http://slidepdf.com/reader/full/na-opiniao-do-bill 118/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com primeira leitura a deixou revoltada, mas a segunda a convenceu. Em breve ela foi a uma reunião realizada em nossa sala de estar, e dali ela voltou para o sanatório, levando essa clássica mensagem a um companheiro paciente: \\\"Não estamos mais sozinhos.\\\" 1 – Alcoólicos Anônimos, pág. 37 2 – A.A. Atinge a Maioridade, págs. 16 e 17"
+  },
+  "303": {
+    "title": "Conselheiros afetuosos",
+    "content": "Se não tivesse sido abençoado por conselheiros afetuosos e sábios, eu poderia ter me arrebentado há muito tempo. Outrora, um médico me salvou da morte por alcoolismo, porque me obrigou a encarar a mortalidade dessa doença. Um outro médico, um psiquiatra, mais adiante me ajudou a manter a sanidade, porque me levou a descobrir alguns de meus defeitos mais profundos. De um clérigo aMdaqsu ieris soess v perrdecaidoesioross apmriingcoíps iofisz,e prealmos mquuaitios nmósa,i sA dAos ,q tueen tmameo ssu apgroirr ac voimve sr.uas capacidades profissionais. Aprendi que eu poderia recorrer a eles com respeito a qualquer problema que tivesse. Eu podia contar sempre com sua sabedoria e integridade. Muitos de meus amigos queridos, de A.A., têm estado comigo exatamente nessa mesma relação. Em muitas ocasiões, puderam ajudar onde outros não puderam, simplesmente porque eram AAs. Grapevine de agosto de 1961"
+  },
+  "304": {
+    "title": "O único propósito",
+    "content": "Existem aqueles que profetizam que A.A. pode muito bem tornar-se uma nova ponta de lança para um despertar espiritual no mundo todo. Quando nossos amigos dizem essas coisas, estão sendo não só generosos como sinceros. Mas nós, de A.A., devemos refletir que tal tributo e tal profecia poderiam bem provar ser uma bebida intoxicante para a maioria de nós – isto é, se realmente viermos a acreditar que esse é o verdadeiro propósito de A.A., e se começarmos a nos comportar dessa maneira. Portanto, nossa sociedade deverá ajustar-se prudentemente a seu único propósito: o de levar a mensagem ao alcoólico que ainda sofre. Devemos resistir à orgulhosa idéia de que uma vez que Deus nos tem feito bem numa área, estamos destinados a ser um meio de graça salvadora para todos. A.A. Atinge a Maioridade, págs. 207 e 208"
+  },
+  "305": {
+    "title": "Desde a raiz principal",
+    "content": "O princípio de que não encontraremos qualquer força duradoura, sem que antes admitamos a derrota total, é a raiz principal da qual germinou e floresceu nossa sociedade toda. <br><br> 119 http://slidepdf.com/reader/full/na-opiniao-do-bill 119/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com É dito a todo recém-chegado, e logo ele reconhece por si mesmo, que sua admissão humilde de impotência perante o álcool constitui seu primeiro passo em direção à libertação de seu poder embriagador. É dessa forma que, pela primeira vez, vemos a humildade como uma necessidade. Mas isso é apenas o começo. Afastar completamente nossa aversão à idéia de ser humildes, obter uma visão da humildade como o caminho que leva à verdadeira liberdade do espírito humano, dispostos a trabalhar para a conquista da humildade, como algo a ser desejado por si mesmo, demora muito, muito tempo para a maioria de nós. Uma vida inteira engrenada ao egocentrismo não pode ser mudada de repente. 1 – Os Doze Passos, pág. 14 2 – Os Doze Passos, págs. 62 e 63"
+  },
+  "306": {
+    "title": "A felicidade é a meta?",
+    "content": "\\\"Não acho que a felicidade ou a infelicidade seja o ponto principal. Como enfrentamos os problemas que chegam a nós? Como aprendemos através deles e transmitimos o que aprendemos aos outros, se é que querem aprender? \\\"Do meu ponto de vista, nós deste mundo somos alunos numa grande escola da vida. Isso é proposto para que tentemos crescer e ajudar nossos companheiros viajantes a crescerem no tipo de amor que não faz exigências. Em suma, procuramos progredir à imagem e semelhança de Deus, como nós O concebemos. \\\"Quando chega a dor, se espera que aprendamos a lição, com boa vontade, e que aprendamos a ajudar os outros a aprenderem. Quando a felicidade chega, a aceitamos como uma dádiva, e agradecemos a Deus por obtê-la\\\". Carta de 1950"
+  },
+  "307": {
+    "title": "O círculo e o triângulo",
+    "content": "Acima de nós, a Convenção Internacional, em St. Louis, em 1955, flutuava uma bandeira com a inscrição do novo símbolo de A.A., um círculo contendo um triângulo. O círculo simboliza A.A. no mundo inteiro, e o triângulo simboliza os Três Legados de A.A.: Recuperação, Unidade e Serviço. Talvez não seja por acaso que os sacerdotes e os profetas da antiguidade consideravam esse símbolo como uma forma de afastar os espíritos maus. <br><br> Quando em 1955, nós, os membros mais antigos, entregamos nossos Três Legados a todo o movimento, senti saudades dos velhos dias e ao mesmo tempo me senti grato pelo grande dia que estava vivendo agora. Eu não mais atuaria, nem decidiria, nem protegeria A.A. Por um momento, tive medo, da mudança que se realizava. Mas essa sensação logo passou. Podíamos depender da consciência de A.A., movida pela 120 http://slidepdf.com/reader/full/na-opiniao-do-bill 120/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com orientação de Deus, para assegurar o futuro de A.A. Meu trabalho daqui para frente ia ser \\\"soltar-me e entregar-me a Deus\\\". 1 – A.A. Atinge a Maioridade, pág. 125 2 – A.A. Atinge a Maioridade, pág. 43"
+  },
+  "308": {
+    "title": "Uma maneira de sair da depressão",
+    "content": "\\\"Durante uma fase aguda de depressão, evite tentar organizar sua vida inteira de uma só vez. Se você assumir compromissos tão pesados que com certeza vai deixar de cumpri-los, então está permitindo que seu inconsciente o engane. Assim, você vai continuar assegurando seu fracasso e, quando isso acontecer, você terá outra desculpa para cair ainda mais em depressão. \\\"Em resumo, a atitude de \\\"tudo ou nada\\\" é a mais destrutiva que existe. É melhor começar com a menor quantidade possível de atividade. Depois, tcroambaelchea nr opvaarma eanutme.e\\\"ntá-la dia a dia. Não fique frustrado com os retrocessos – Carta de 1960"
+  },
+  "309": {
+    "title": "Máxima espiritual",
+    "content": "É uma máxima espiritual que toda vez que estamos perturbados, seja qual for a causa, alguma coisa em nós está errada. Se alguém nos ofende e ficamos irritados, nós também estamos errados. Mas não há exceções nessa regra? O que dizer da raiva 'justificada\\\"? Se alguém nos engana, não temos o direito de ficar com raiva? E não deveríamos, com razão, ficar com raiva das pessoas hipócritas? Para nós, de A.A., esses acessos de raiva são muitas vezes perigosos. Descobrimos que mesmo a raiva justificada deveria ser deixada para aqueles que têm melhores condições de lidar com ela. Os Doze Passos, pág. 78"
+  },
+  "310": {
+    "title": "Aprendendo a confiar",
+    "content": "Todo o programa de A.A. se baseia no princípio da confiança mútua. Confiamos em Deus, confiamos em A.A. e confiamos uns nos outros. Portanto, não podemos deixar de confiar em nossos líderes em serviço. O \\\"Direito de Decisão\\\" que lhes oferecemos não é somente um meio prático de permitir que eles atuem e dirijam efetivamente, mas também um símbolo de nossa confiança implícita. <br><br> Se você chega ao A.A. sem convicção religiosa, pode, se quiser, fazer do próprio A.A. ou de seu grupo seu \\\"Poder Superior\\\". Aí se encontra um grande número de pessoas que resolveu seu problema com o álcool. Nesse sentido, essas pessoas certamente representam um poder superior a você. Mesmo esse mínimo de fé será suficiente. 121 http://slidepdf.com/reader/full/na-opiniao-do-bill 121/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Muitos membros que só dessa maneira atravessaram o limiar, lhe dirão que, uma vez do outro lado, sua fé se ampliou e se aprofundou. Libertados da obsessão pelo álcool, com suas vidas inexplicavelmente transformadas, vieram a acreditar num Poder Superior, e a maioria deles começou a falar em Deus. 1 – Doze Conceitos para Serviços Mundiais, pág. 18 2 – Os Doze Passos, pág. 19"
+  },
+  "311": {
+    "title": "Contando o pior",
+    "content": "Embora fossem muitas as variações, meu principal tema era sempre: \\\"Como sou terrível!\\\" Do mesmo modo como muitas vezes exagerava minhas mais modestas qualidades, por orgulho, assim também exagerava meus defeitos, através do sentimento de culpa. Em todos os lugares, eu vivia confessando tudo (e muito mais) a quem quisesse ouvir. Acreditem ou não, eu achava que pesasrate aem cpolnas iedxepraovsaiç iãsos od uem m ceounss oerloro es uemra gurmanad eg rbaenmde e shpuimritiuldaal.de de minha Mas, mais tarde, percebi profundamente que na verdade não tinha me arrependido dos danos que causei aos outros. Esses episódios eram apenas a base para contar histórias e fazer exibicionismo. Com essa compreensão, chegou o começo de um certo grau de humildade. Carta de junho de 1961"
+  },
+  "312": {
+    "title": "A tolerância nos mantém sóbrios",
+    "content": "\\\"A honestidade para com nós mesmos e para com os outros nos leva à sobriedade, mas é a tolerância que nos mantém sóbrios\\\". \\\"A experiência mostra que poucos alcoólicos vão se afastar por muito tempo de um grupo, só porque não gostam do modo como ele funciona. A maioria volta e se ajusta às condições existentes. Alguns vão a um grupo diferente ou formam um novo grupo\\\". \\\"Em outras palavras, uma vez que o alcoólico chega à conclusão de que não pode ficar bem sozinho, ele de alguma forma vai descobrir uma maneira de ficar bem e continuar bem na companhia dos outros. Tem sido sempre assim desde o início de A.A. e provavelmente sempre o será\\\". Carta de 1943"
+  },
+  "313": {
+    "title": "Finalmente, sob a luz do sol",
+    "content": "\\\"Quando se expressou a idéia de que poderia haver um Deus pessoal para mim, não gostei da idéia. Assim, meu amigo Ebby deu então uma sugestão que parecia ser original. Ele disse: \\\"Por que você não escolhe sua própria concepção de Deus? Essa pergunta atingiu-me fortemente. Derreteu a montanha de gelo intelectual, à sombra da qual eu tinha vivido e tremido durante muitos anos. Finalmente, eu estava sob a luz do sol.\\\" 122 http://slidepdf.com/reader/full/na-opiniao-do-bill 122/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com <br><br> Talvez seja possível encontrar explicações de experiência espirituais iguais às nossas, mas tentei muitas vezes explicar a minha e só obtive bons resultados, ao narrá-la. Conheço a sensação que isso me deu e os resultados alcançados, mas compreendi que nunca entenderei completamente suas implicações mais profundas. 1 – Alcoólicos Anônimos, pág. 36 2 – A.A. Atinge a Maioridade, pág. 40"
+  },
+  "314": {
+    "title": "Alto e baixo",
+    "content": "Quando nossa Irmandade era pequena, tratávamos somente de \\\"casos desesperados\\\". Muitos alcoólicos menos desesperados tentavam A.A., mas não eram bem-sucedidos, porque não podiam admitir sua desesperança. Ntraobsa alhnoo se s aetgéu dinotiess ,c aisrsroo sm nuad goaur.a Ogesm al,c cooómliceoças,r aqmue a a rinecdoan thinehcaemr s seauú adlec,o foalmisímlioa,. À medida que essa tendência crescia, jovens que mal passavam de alcoólicos em potencial uniam-se a eles. Como poderiam pessoas como essas aceitar o Primeiro Passo? Voltando às nossas próprias histórias de bebida, mostrávamos a eles que anos antes de reconhecê-lo, já havíamos perdido o controle, que mesmo naquela época nossa maneira de beber já não era um mero hábito, que era na verdade o começo de uma progressão fatal. Os Doze Passos, págs. 14 e 15"
+  },
+  "315": {
+    "title": "Superior a nós mesmos",
+    "content": "Se fosse suficiente um código moral ou uma melhor filosofia de vida para vencer o alcoolismo, muitos de nós teriam se recuperado há mais tempo. Mas descobrimos que esses códigos e filosofias não nos salvaram, por mais que tentássemos. Poderíamos querer ter moral, ter o conforto da filosofia, de fato poderíamos querer essas coisas com toda nossa força, mas o poder necessário para mudar não existia. Nossos recursos humanos, guiados pela vontade, não eram suficientes; fracassaram por completo. A falta de poder, esse era nosso dilema. Tínhamos que encontrar um poder, pelo qual pudéssemos viver – e ele tinha que ser um Poder Superior a nós mesmos. Alcoólicos Anônimos, págs. 65 e 66"
+  },
+  "316": {
+    "title": "Nosso manto protetor",
+    "content": "Quase todo repórter que faz a cobertura de A.A. se queixa, a princípio, da dificuldade de escrever sua história sem nomes. Mas esquece rapidamente sua dificuldade, quando compreende que há um grupo de pessoas que não se preocupa de forma alguma com a aclamação. 123 http://slidepdf.com/reader/full/na-opiniao-do-bill 123/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Provavelmente é a primeira vez em sua vida que faz uma reportagem sobre uma organização que não quer publicidade pessoal. Embora ele seja cético a respeito, essa sinceridade evidente transforma-o num amigo de A.A. <br><br> Movidos pelo espírito do anonimato, tentamos deixar de lado nossos desejos naturais de distinção pessoal como membro de A.A., tanto entre nossos companheiros alcoólicos como ante o público em geral. À medida que pomos de lado aquelas aspirações mais humanas, acreditamos que cada um de nós toma parte na confecção de um manto protetor que cobre toda nossa sociedade e sob o qual podemos crescer e trabalhar em unidade. 1 – Grapevine de março de 1946 2 – As Doze Tradições, pág. 62"
+  },
+  "317": {
+    "title": "Acho que a visão é a capacVidisaãdoe adléem fa dzoer d biao adse ehsotijme ativas, tanto para o futuro",
+    "content": "imediato como para um futuro mais distante. Alguns poderiam sentir que esse tipo de esforço seria uma heresia contra \\\"Um dia de cada vez\\\". Mas esse princípio valioso realmente se refere à nossa vida mental e emocional e quer dizer principalmente que não somos tolos, para lamentar o passado nem sonhar com o futuro de olhos abertos. Como indivíduos e como irmandade, vamos certamente sofrer se deixarmos toda a tarefa do planejamento para o amanhã, nas mãos da Providência. A verdadeira Providência Divina foi dar a nós, seres humanos, uma considerável capacidade de antevisão e Ela evidentemente espera que a usemos. Naturalmente, podemos muitas vezes cometer erros de cálculo quanto ao futuro, no todo ou em parte, mas o pior é recusar-se a pensar nele. Doze Conceitos para Serviços Mundiais, pág. 44"
+  },
+  "318": {
+    "title": "Perdão",
+    "content": "Através do Quinto Passo, que é de vital importância, começamos a ter a sensação de que poderíamos ser perdoados, fosse o que fosse que tivéssemos pensado ou feito. Muitas vezes, ao trabalhar nesse Passo com nossos padrinhos ou conselheiros espirituais, pela primeira vez nos sentimos verdadeiramente capazes de perdoar os outros, não importando quão profundamente sentíssemos que eles tivessem nos ofendido. Nosso inventário moral nos tinha convencido de que todo perdão era desejável, mas foi somente quando fizemos resolutamente o Quinto Passo que soubemos no íntimo que éramos capazes, tanto de aceitar o perdão como também de perdoar. Os Doze Passos, págs. 47 e 48"
+  },
+  "319": {
+    "title": "124",
+    "content": "http://slidepdf.com/reader/full/na-opiniao-do-bill 124/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Duas autoridades Muitas pessoas se admiram como A.A. pode funcionar sob uma anarquia tão aparente. Outras sociedades têm que ter lei, força, sanção e penalidade, administradas por pessoas autorizadas. Felizmente para nós, achamos que não precisamos de nenhuma autoridade humana. Temos duas autoridades que são muito mais eficientes. Uma é benigna, a outra é maligna. Existe Deus, nosso pai, que muito simplesmente diz: \\\"Estou esperando que você faça a minha vontade.\\\" A outra autoridade chama-se bebida alcoólica e diz: \\\"É melhor você fazer a vontade de Deus ou então eu o matarei.\\\" <br><br> As Tradições de A.A. não são regras, nem regulamentos nem leis. Nós as obedecemos de boa vontade, porque devemos e porque queremos obedecer. Talvez o segredo de sua força se encontre no fato de que essas comunicações de vital importância venham da experiência dr vida e estão arraigadas no amor. 12 –– AA..AA.. ATotidnagye, ap áMg.a i1o1ridade, pág. 95"
+  },
+  "320": {
+    "title": "Dirigindo todo o espetáculo",
+    "content": "A maioria das pessoas tenta viver de acordo com seus impulsos. Cada pessoa é como um ator querendo dirigir todo o espetáculo e que está sempre procurando arranjar as luzes, o cenário e os outros atores, a seu modo. Se só seus arranjos prevalecerem, se as pessoas só fizerem o que ele quer, o espetáculo será ótimo. Geralmente o que acontece? O espetáculo não sai muito bem. Admitindo que ele possa ter falhado de alguma forma, está certo de que os outros são mais culpados. Ele fica com raiva, indignado e cheio de autopiedade. Ele não é na realidade um egoísta, mesmo quando está tentando ser útil? Não é vítima da ilusão de que só ele poderá obter satisfação e felicidade deste mundo, unicamente se ele manejá-lo bem? Alcoólicos Anônimos, págs. 75 e 76"
+  },
+  "321": {
+    "title": "Os resultados da oração",
+    "content": "Quando o cético tenta o processo da oração, ele deveria começar a somar os resultados. Se persistir, é quase certo que encontrará mais serenidade, mais tolerância, menos medo e menos raiva. Ele vai adquirir uma coragem calma, sem nenhuma tensão. Pode ver o \\\"fracasso\\\" e o \\\"sucesso\\\" como realmente são. Os problemas e a calamidade começam a significar educação em vez de destruição. Ele vai se sentir mais livre e mais sadio. A idéia de que ele pode ter se hipnotizado por auto-sugestão vem a ser ridícula. Seu senso de utilidade e de direção aumentará. Suas ansiedades começarão a diminuir. Sua saúde física talvez melhore. Coisas imprevistas e maravilhosas começarão a acontecer. Melhorarão surpreendentemente as relações com a família e com os de fora. Grapevine de junho de 1958 125 http://slidepdf.com/reader/full/na-opiniao-do-bill 125/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com"
+  },
+  "322": {
+    "title": "Faça-o com calma – mas faça",
+    "content": "Protelar é na realidade ter preguiça. <br><br> \\\"Tenho observado que algumas pessoas podem suportar algum adiamento, porém, poucas pessoas podem viver em completa rebeldia.\\\" <br><br> \\\"Temos sido bem sucedidos, confrontando muitos bebedores-problema com essa terrível alternativa: 'Ou nós, AAs, fazemos isso, ou morremos.' Uma vez que isso esteja firme em sua mente, quanto mais ele beber, mais a corda aperta.\\\" \\\"Como muitos alcoólicos têm dito: 'Cheguei ao ponto em que ou permanecia em A.A. ou do lado de fora. De modos que aqui estou!'\\\" 1 – Os Doze Passos, pág. 57 23 –– CCaarrttaa ddee 11995520"
+  },
+  "323": {
+    "title": "Tateando em direção a Deus",
+    "content": "\\\"Mais do que a maioria das pessoas, acho que os alcoólicos querem saber quem são, o que é sua vida, se têm uma origem divina e um destino determinado, bem como se existe um sistema de justiça e amor no cosmo. \\\"Essa é a experiência de muitos de nós nos primeiros estágios de bebedeiras, sentir que temos tido vislumbres do Absoluto e um sentimento intensificado de identificação com o cosmo. Ao mesmo tempo que esses vislumbres e sentimentos são, sem dúvida, válidos, eles são deformados e finalmente arrastados para o dano químico, espiritual e emocional forjado pelo próprio álcool. \\\"Em A.A. e em muitos enfoques religiosos, os alcoólicos encontram muito mais daquilo que meramente observaram e sentiram, quando, tateando, procuravam encontrar seu caminho em direção a Deus, no álcool.\\\" Carta de 1960"
+  },
+  "324": {
+    "title": "Espiritualidade e dinheiro",
+    "content": "Alguns de nós ainda perguntam: \\\"O que é exatamente o Terceiro Legado? E até onde vai a ação de Serviço?\\\" Vamos começar com meu próprio padrinho, Ebby. Quando Ebby soube o quanto era sério meu problema com a bebida, resolveu me visitar. Ele estava em New York, e eu no Brooklin. Não bastava tomar a decisão; ele teve que entrar em ação e gastar dinheiro. Ele me chamou ao telefone e em seguida tomou o metrô; o custo total foi de dez centavos. No momento em que telefonou e tomou o metrô, a espiritualidade e o dinheiro começaram a se misturar. Um sem o outro não teria chegado a nada. 126 http://slidepdf.com/reader/full/na-opiniao-do-bill 126/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com Naquele exato momento e lugar, Ebby estabeleceu o princípio de A.A. em ação, que exige sacrifício de muito tempo e dinheiro. A.A. Atinge a Maioridade , págs. 125 e 126"
+  },
+  "325": {
+    "title": "A humildade traz a esperança",
+    "content": "Agora que não somos mais fregueses de bares e bordéis, agora que trazemos para casa o dinheiro recebido pelo trabalho, agora que estamos tão ativos em A.A. e agora que as pessoas nos felicitam por esses sinais de progresso – bem, naturalmente continuamos a nos felicitar. Claro que ainda não estamos ainda muito perto da humildade. <br><br> Deveríamos estar dispostos a tentar a humildade, procurando remover nossas imperfeições, da mesma forma que fizemos quando admitimos que éramos immepsomteons tpeos dpeerriaa nntoes o d áevlcoolovle re à v siaenmidoasd ae .acreditar que um Poder Superior a nós Se a humildade pôde nos permitir encontrar a graça, através da qual pôde ser banida a obsessão mortal do álcool, então deve haver esperança de se obter o mesmo resultado, em relação a qualquer outro problema que possamos ter. 1 – Grapevine de junho de 1961 2 – Os Doze Passos, pág. 66"
+  },
+  "326": {
+    "title": "Crítica bem recebida",
+    "content": "\\\"Muito obrigado por sua carta de crítica. Estou certo de que, se não fosse por suas críticas violentas, A.A. teria progredido mais lentamente. \\\"Quanto a mim, cheguei ao ponto de dar grande valor às pessoas que me criticaram, fossem críticas justas ou injustas. Tanto uma como outra, muitas vezes me impediram de fazer coisas piores do que realmente tenho feito. Espero que as críticas injustas tenham me ensinado a ter um pouco de paciência. Mas as justas têm sempre prestado um grande serviço a todos os membros de A.A. – e têm me ensinado muitas lições valiosas.\\\" Carta de 1955"
+  },
+  "327": {
+    "title": "Três escolhas",
+    "content": "O objeto imediato de nossa busca é a sobriedade – a libertação do álcool e de todas as suas desastrosas conseqüências. Sem essa libertação não temos nada. Embora pareça um absurdo, não podemos nos libertar da obsessão alcoólica, até que fiquemos dispostos a lutar com aqueles defeitos de caráter que nos levaram a essa irremediável situação. Nessa busca de libertação, sempre nos foram dadas três escolhas. Uma recusa rebelde de lutar contra nossos evidentes defeitos pode ser um bilhete quase certo para a destruição. Ou, talvez por algum tempo, possamos permanecer sóbrios com um mínimo de auto-aperfeiçoamento, e nos fixar numa 127 http://slidepdf.com/reader/full/na-opiniao-do-bill 127/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com confortável, mas muitas vezes perigosa mediocridade. Ou, finalmente, podemos continuar lutando com afinco, para obter aquelas qualidades puras que podem significar clareza de espírito e ação – verdadeira e duradoura libertação sob a graça de Deus. Grapevine de novembro de 1960"
+  },
+  "328": {
+    "title": "Uma recém – encontrada providência",
+    "content": "Ao lidar com um provável membro, com inclinações agnósticas ou ateístas, é preferível você usar a linguagem popular para descrever os princípios espirituais. Não adianta despertar qualquer preconceito que ele possa ter contra certos conceitos e termos teológicos, acerca dos quais já possa estar confuso. Não levante essas questões, sejam quais forem as convicções que você tenha. <br><br> Tseomdo pse orsc ehboemr,e ncos me emçualrhaemre as qpuraet iicnagrr eos sTaerarmce ier op rPeatesnsdoe. mN ãpoe rém vaenredcaedr ee mqu Ae .eAm., todos os assuntos relacionados com o álcool, cada um decidiu entregar sua vida aos cuidados, proteção e orientação de A.A.? Já foi alcançada a disposição de substituir a vontade e as idéias próprias, acerca do problema do álcool, por aquelas sugeridas por A.A. Ora, se isso não é entregar a vontade e a vida a uma recém-encontrada \\\"Providência\\\", o que é então? 1 – Alcoólicos Anônimos, pág. 106 2 – Os Doze Passos, pág. 26"
+  },
+  "329": {
+    "title": "Faça-o à nossa maneira?",
+    "content": "Ao orar, nossa tentação imediata será a de pedir soluções específicas para problemas específicos e a capacidade de ajudar outras pessoas, da forma como achamos que deveriam ser ajudadas. Nesse caso, estamos pedindo a Deus que o faça à nossa maneira. Portanto, deveríamos considerar cuidadosamente cada pedido, para levar em conta seu verdadeiro mérito. Além disso, ao fazer pedidos específicos será bom acrescentarmos a cada um deles uma ressalva: \\\"... se for da Tua vontade.\\\" Os Doze Passos, pág. 89"
+  },
+  "330": {
+    "title": "Para crescer",
+    "content": "Aqueles anseios da adolescência que tantos de nós tivemos, para obter completa aprovação, absoluta segurança e perfeito romance – anseios perfeitamente próprios da idade de dezessete anos – são impossíveis de ser aceitos como um modo de vida aos quarenta e sete ou cinqüenta e sete anos. Desde o começo de A.A., levei tremendas surras em todas essas áreas, pelo fato de ter deixado de crescer emocional e espiritualmente. <br><br> 128 http://slidepdf.com/reader/full/na-opiniao-do-bill 128/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com À medida que crescemos espiritualmente, descobrimos que nossas antigas atitudes, com relação a nossos impulsos instintivos, precisam passar por rigorosa revisão. Nossas necessidades de segurança emocional e material, prestígio pessoal e poder, todas estas têm que ser moderadas e reorientadas. Aprendemos que a plena satisfação dessas necessidades não pode ser a única finalidade de nossa vida. Não podemos colocar a carroça diante dos bois; seremos arrastados para a desilusão. Mas quando estamos dispostos a colocar o crescimento espiritual em primeiro lugar – então e somente então teremos uma verdadeira chance de crescer no conhecimento saudável e no amor pleno. 1 – Grapevine de janeiro de 1958 2 – Os Doze Passos, pág. 102"
+  },
+  "331": {
+    "title": "A grande realidade",
+    "content": "Rcoemcoon ah encóesm. oPse rqguuen tsea-bLehme,o se mpo suucao .m Dedeiutsa çrãeov emlaa tciandaal, voe zq ume avios,c êta pnotod ea fvaozceêr cada dia pela pessoa ainda doente. As respostas virão, se seu interior estiver em ordem. Mas, evidentemente, você não pode transmitir algo que não tenha. Procure fazer com que sua relação com Ele seja boa, e grandes acontecimentos ocorrerão para você e para muitos outros. Essa é nossa grande realidade. Para o recém-chegado: Entregue-se a Deus, como você O concebe. Admita suas faltas a Ele e a seus semelhantes. Desfaça-se das ruínas de seu passado. Dê livremente aquilo que você receber e junte-se a nós. Estaremos com você na irmandade do espírito e, você certamente se encontrará com alguns de nós, quando trilhar o caminho do destino feliz. Que Deus o abençoe e o proteja! – até lá. Alcoólicos Anônimos, pág. 165"
+  },
+  "332": {
+    "title": "Eu sou responsável...",
+    "content": "Quando qualquer um, seja onde for, estender a mão pedindo ajuda, quero que a mão de A.A. esteja sempre ali. E por isto: Eu sou responsável. – Declaração do 30° aniversário Convenção Internacional de 1965 <br><br> Prezados amigos: Desde 1938, a maior parte de minha vida, em A.A., foi dedicada à ajuda da criação, planejamento, direção e segurança da solvência e eficiência dos 129 http://slidepdf.com/reader/full/na-opiniao-do-bill 129/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com serviços mundiais de A.A. – o escritório que tem capacitado nossa Irmandade a funcionar, no mundo inteiro, como um todo unificado. Não é exagero dizer que, sob a orientação de seus custódios, todos esses importantes serviços foram, em parte, responsáveis por nossa atual extensão e total eficiência. O Escritório de Serviços Gerais de A.A. é muito mais do que o principal portador da mensagem de A.A. Ele tem apresentado A.A. ao mundo conturbado em que vivemos. Tem encorajado a propagação de nossa Irmandade em todos os lugares. A.A. World Services, Inc. está pronto para atender às necessidades especiais de qualquer grupo ou indivíduo isolado, seja qual for a distância ou o idioma. Seus muitos anos de acumulada experiência estão disponíveis para todos nós. Os membros de nossa curadoria – a Junta de Serviços Gerais de A.A. – serão, no futuro, nossos principais líderes em todas as nossas atividades mundiais. Essa asultcae srseosrpeosn, sbaebmil icdoamdeo jdáo l hDers. Bfooib d, enloesg asdearv hiçáo sm muiuton dtieamisp eo ;s ãeole dsi rseãtoa mmeenutes responsáveis por A.A. como um todo. Esse é o legado de responsabilidade dos serviços mundiais que nós, os membros mais antigos que vão desaparecendo, estamos deixando a vocês, os AAs de hoje e de amanhã. Sabemos que vocês vão guardar, sustentar e estimar esse legado mundial, como a maior responsabilidade coletiva que A.A. já teve. Com confiança e afeição, Bill Bill W. faleceu em 24 de janeiro de 1971 OS DOZE PASSOS 1 – Admitimos que éramos impotentes perante o álcool – que tínhamos perdido o domínio sobre nossas vidas. 2 – Viemos a acreditar que um Poder Superior a nós mesmos poderia devolver- nos à sanidade. 3 – Decidimos entregar nossa vontade e nossa vida aos cuidados de Deus, na forma em que O concebíamos. 45 –– FAidzmemitoims mosi npuecraionstoe De deuesst, epmeridanot ien nvóesn tmáreiosm moosr ea lp deer annótes mouetsrmo osesr. humano, a natureza exata de nossas falhas. 6 – Prontificamo-nos inteiramente a deixar que Deus removesse todos esses defeitos de caráter. 7 – Humildemente rogamos a Ele que nos livrasse de nossas imperfeições. 8 – Fizemos uma relação de todas as pessoas a quem tínhamos prejudicado e nos dispusemos a reparar os danos a elas causados. 9 – Fizemos reparações diretas dos danos causados a tais pessoas, sempre que possível, salvo quando fazê-lo significasse prejudicá-las ou a outrem. 10 – Continuamos fazendo o inventário pessoal e, quando estávamos errados, nós o admitíamos prontamente. 130 http://slidepdf.com/reader/full/na-opiniao-do-bill 130/131 5/11/2018 Na Opiniao Do Bill - slidepdf.com 11 – Procuramos, através da prece e da meditação, melhorar nosso contato consciente com Deus, na forma em que O concebíamos, rogando apenas o conhecimento de Sua vontade em relação a nós, e forças para realizar essa vontade. 12 – Tendo experimentado um despertar espiritual, por meio destes Passos, procuramos transmitir esta mensagem aos alcoólicos e praticar estes princípios em todas as nossas atividades. AS DOZE TRADIÇÕES 1 – Nosso bem-estar comum deve estar em primeiro lugar; a reabilitação individual depende da unidade de A.A.. 2 – Somente uma autoridade preside, em última análise, o nosso propósito comum – um Deus amantíssimo que se manifesta em nossa consciência coletiva. Nossos líderes são apenas servidores de confiança: não têm poderes para g3o –v Peranraar s.er membro de A.A., o único requisito é o desejo de parar de beber. 4 – Cada grupo deve ser autônomo, salvo em assuntos que digam respeito a outros grupos ou a A.A. em seu conjunto. 5 – Cada Grupo é animado de um único propósito primordial – o de transmitir sua mensagem ao alcoólico que ainda sofre. 6 – Nenhum Grupo de A.A. deverá jamais sancionar, financiar ou emprestar o nome de A.A. a qualquer sociedade parecida ou empreendimento alheio à Irmandade, para que problemas de dinheiro, propriedade e prestígio não nos afastem de nosso objetivo primordial. 7 – Todos os Grupos de A.A. deverão ser absolutamente auto-suficientes, rejeitando quaisquer doações de fora. 8 – Alcoólicos Anônimos deverá manter-se sempre não-profissional, embora nossos centros de serviços possam contratar funcionários especializados. 9 – A.A. jamais deverá organizar-se como tal: podemos, porém, criar juntas ou comitês de serviço diretamente responsáveis perante aqueles a quem prestam serviços. 10 – Alcoólicos Anônimos não opina sobre questões alheias à Irmandade; portanto, o nome de A.A. jamais deverá aparecer em controvérsias públicas. 11 – Nossas relações com o público baseiam-se na atração em vez da promoção; na imprensa, no rádio e em filmes, cabe-nos sempre preservar o anonimato pessoal. 12 – O anonimato é o alicerce espiritual das nossas Tradições, lembrando-nos sempre da necessidade de colocar os princípios acima das personalidades. http://slidepdf.com/reader/full/na-opiniao-do-bill 131/131"
+  }
+};
+
+const indexData = {
+  "GUIA PARA DISCUSSÃO E LEITURA A Aceitação": [
+    6,
+    20,
+    30,
+    44,
+    49,
+    109,
+    114,
+    131,
+    138,
+    148,
+    169,
+    194,
+    254,
+    293
+  ],
+  "Admissão": [
+    17,
+    24,
+    48,
+    65,
+    83,
+    88,
+    102,
+    111,
+    126,
+    135,
+    149,
+    164,
+    209,
+    213,
+    228,
+    231,
+    248,
+    261,
+    289,
+    305,
+    311,
+    314,
+    318
+  ],
+  "Racionalização Ambição": [
+    19,
+    40,
+    46,
+    131,
+    135,
+    138,
+    160,
+    185,
+    193,
+    198,
+    214,
+    235,
+    282
+  ],
+  "Amor Amor": [
+    18,
+    23,
+    27,
+    37,
+    53,
+    90,
+    144,
+    172,
+    203,
+    230,
+    273,
+    294,
+    303
+  ],
+  "Anonimato": [
+    43,
+    120,
+    160,
+    198,
+    241,
+    255,
+    278,
+    299,
+    316
+  ],
+  "Trabalho do Décimo Segundo Passo Arrogância": [
+    33,
+    38,
+    60,
+    114,
+    139,
+    146,
+    176,
+    183,
+    199,
+    206,
+    225,
+    320
+  ],
+  "Autopiedade": [
+    138,
+    176,
+    238,
+    261,
+    268,
+    320
+  ],
+  "Ressentimentos C Comodismo": [
+    12,
+    100,
+    142,
+    330
+  ],
+  "Complacência": [
+    25,
+    94,
+    96,
+    99,
+    133,
+    153,
+    159,
+    193,
+    205,
+    207,
+    226,
+    227,
+    258,
+    325,
+    327
+  ],
+  "Doença Confiança": [
+    144,
+    224,
+    248,
+    269,
+    303,
+    307,
+    310,
+    332
+  ],
+  "Controvérsia": [
+    56,
+    59,
+    98,
+    143,
+    153,
+    215,
+    262,
+    326
+  ],
+  "Cooperação sem afiliação": [
+    45,
+    113,
+    147,
+    180,
+    255,
+    267
+  ],
+  "Coragem": [
+    61,
+    91,
+    129,
+    166,
+    200,
+    221,
+    253,
+    321
+  ],
+  "Crescimento individual": [
+    1,
+    8,
+    10,
+    12,
+    25,
+    44,
+    65,
+    76,
+    85,
+    101,
+    104,
+    115,
+    124,
+    136,
+    156,
+    157,
+    171,
+    204,
+    244,
+    264,
+    271,
+    294,
+    306,
+    327,
+    330
+  ],
+  "Gradual e contínuo": [
+    6,
+    15,
+    59,
+    159,
+    167,
+    181,
+    191,
+    219,
+    236
+  ],
+  "Através de adversidade": [
+    3,
+    22,
+    31,
+    35,
+    49,
+    75,
+    184,
+    234,
+    266,
+    326
+  ],
+  "Progresso D Defeitos de Caráter": [
+    17,
+    48,
+    54,
+    80,
+    83,
+    96,
+    103,
+    131,
+    136,
+    142,
+    149,
+    196,
+    204,
+    216,
+    258,
+    281,
+    301,
+    311,
+    325,
+    327
+  ],
+  "Dependência das pessoas": [
+    63,
+    72,
+    176,
+    239,
+    252,
+    265,
+    288
+  ],
+  "Depressão": [
+    2,
+    30,
+    63,
+    92,
+    148,
+    231,
+    308
+  ],
+  "Honestidade Despertar Espiritual ou Experiência": [
+    2,
+    8,
+    85,
+    101,
+    152,
+    168,
+    171,
+    178,
+    182,
+    217,
+    225,
+    242,
+    246,
+    256,
+    281,
+    313
+  ],
+  "Dificuldades": [
+    3,
+    20,
+    27,
+    31,
+    35,
+    71,
+    78,
+    82,
+    110,
+    132,
+    156,
+    184,
+    200,
+    211,
+    221,
+    234,
+    250,
+    263,
+    266,
+    288,
+    291,
+    293,
+    306,
+    321
+  ],
+  "Disposição": [
+    4,
+    88,
+    106,
+    109,
+    115,
+    122,
+    137,
+    171,
+    211,
+    219,
+    226,
+    232,
+    321,
+    327,
+    328
+  ],
+  "Dificuldade E Egoísmo": [
+    81,
+    227,
+    270,
+    272,
+    282,
+    287
+  ],
+  "F Farisaísmo": [
+    17,
+    28,
+    38,
+    107,
+    170,
+    181,
+    183
+  ],
+  "Fé": [
+    3,
+    13,
+    16,
+    23,
+    26,
+    36,
+    47,
+    51,
+    84,
+    112,
+    114,
+    117,
+    129,
+    152,
+    166,
+    188,
+    196,
+    208,
+    212,
+    219,
+    221,
+    225,
+    235,
+    260,
+    263,
+    284,
+    300,
+    310
+  ],
+  "Veja também Poder Superior Felicidade": [
+    29,
+    53,
+    57,
+    69,
+    163,
+    216,
+    218,
+    233,
+    249,
+    254,
+    298,
+    302,
+    306,
+    321
+  ],
+  "Frustração": [
+    1,
+    22,
+    40,
+    63,
+    111,
+    131,
+    135,
+    176,
+    265,
+    320
+  ],
+  "G Gratidão": [
+    19,
+    29,
+    37,
+    67,
+    133,
+    155,
+    163,
+    165,
+    168,
+    231,
+    249,
+    253,
+    256,
+    266,
+    267,
+    303,
+    326
+  ],
+  "H Honestidade": [
+    17,
+    20,
+    44,
+    52,
+    70,
+    74,
+    83,
+    102,
+    140,
+    141,
+    156,
+    172,
+    173,
+    205,
+    213,
+    222,
+    227,
+    238,
+    248,
+    251,
+    258,
+    277,
+    279,
+    295,
+    312
+  ],
+  "Caminhos em direção a": [
+    2,
+    12,
+    31,
+    44,
+    83,
+    91,
+    106,
+    126,
+    149,
+    156,
+    159,
+    191,
+    211,
+    213,
+    236,
+    246,
+    248,
+    291,
+    305,
+    311,
+    316
+  ],
+  "I Identificação": [
+    24,
+    195,
+    212,
+    228,
+    231,
+    252,
+    257,
+    302,
+    303
+  ],
+  "Defeitos de caráter Inadequabilidade": [
+    46,
+    90,
+    135,
+    140,
+    185,
+    214,
+    252
+  ],
+  "Inadequabilidade Informação ao Público": [
+    195,
+    255,
+    278,
+    316
+  ],
+  "Tolerância Inveja": [
+    131
+  ],
+  "Valor do": [
+    10,
+    12,
+    17,
+    54,
+    64,
+    65,
+    68,
+    106,
+    111,
+    140,
+    149,
+    161,
+    164,
+    173,
+    216,
+    233,
+    261
+  ],
+  "L Liberdade": [
+    4,
+    26,
+    50,
+    55,
+    124,
+    134,
+    158,
+    191,
+    201,
+    218,
+    237,
+    273,
+    319
+  ],
+  "M Meditação": [
+    10,
+    33,
+    93,
+    108,
+    117,
+    127,
+    150,
+    189,
+    202,
+    243,
+    264,
+    331
+  ],
+  "Medo": [
+    22,
+    43,
+    46,
+    51,
+    61,
+    75,
+    91,
+    92,
+    112,
+    154,
+    166,
+    196,
+    253,
+    261,
+    263,
+    278
+  ],
+  "Membros mais antigos": [
+    138,
+    169,
+    207,
+    244,
+    269,
+    307
+  ],
+  "Mente aberta": [
+    7,
+    26,
+    87,
+    115,
+    119,
+    137,
+    152,
+    174,
+    189,
+    219,
+    247,
+    260,
+    300,
+    313
+  ],
+  "Ressentimento Oração": [
+    20,
+    33,
+    55,
+    63,
+    78,
+    89,
+    93,
+    108,
+    117,
+    127,
+    148,
+    170,
+    189,
+    202,
+    206,
+    210,
+    243,
+    250,
+    264,
+    274,
+    286,
+    293,
+    295,
+    321,
+    329
+  ],
+  "Orgulho": [
+    12,
+    37,
+    74,
+    107,
+    118,
+    133,
+    140,
+    181,
+    261,
+    285,
+    304
+  ],
+  "Serenidade Perdão": [
+    52,
+    89,
+    151,
+    204,
+    268,
+    318
+  ],
+  "Perfeccionismo": [
+    6,
+    15,
+    135,
+    167,
+    172,
+    181,
+    214,
+    308
+  ],
+  "Princípios e personalidade Poder Superior": [
+    2,
+    7,
+    13,
+    15,
+    34,
+    38,
+    51,
+    76,
+    95,
+    108,
+    116,
+    119,
+    126,
+    146,
+    150,
+    152,
+    168,
+    170,
+    175,
+    178,
+    201,
+    204,
+    219,
+    223,
+    225,
+    236,
+    263,
+    274,
+    294,
+    310,
+    313,
+    323,
+    331
+  ],
+  "Medo Princípios e Personalidade": [
+    143,
+    215,
+    224,
+    312
+  ],
+  "Privacidade": [
+    102,
+    161,
+    299
+  ],
+  "Problemas Financeiros": [
+    75,
+    84,
+    112,
+    128,
+    177,
+    205,
+    239,
+    259,
+    287,
+    290,
+    301,
+    324
+  ],
+  "Crescimento R Racionalização": [
+    17,
+    25,
+    39,
+    44,
+    58,
+    64,
+    80,
+    107,
+    128,
+    151,
+    160,
+    170,
+    179,
+    193,
+    197,
+    251,
+    258,
+    267,
+    270,
+    279,
+    285,
+    289,
+    296,
+    308
+  ],
+  "Raiva": [
+    5,
+    39,
+    56,
+    58,
+    98,
+    113,
+    153,
+    179,
+    184,
+    268,
+    285,
+    309,
+    320
+  ],
+  "Recaídas": [
+    11,
+    52,
+    68,
+    99,
+    154,
+    184,
+    197,
+    213,
+    214,
+    251,
+    291
+  ],
+  "Recém-Chegados": [
+    14,
+    28,
+    57,
+    62,
+    69,
+    105,
+    118,
+    123,
+    146,
+    165,
+    186,
+    190,
+    191,
+    199,
+    207,
+    209,
+    212,
+    298,
+    314,
+    331
+  ],
+  "Relacionamentos familiares": [
+    123,
+    176,
+    190,
+    230,
+    265,
+    270,
+    277,
+    292
+  ],
+  "Reparações": [
+    64,
+    70,
+    111,
+    145,
+    151,
+    187,
+    227,
+    277,
+    311
+  ],
+  "Trabalho do Décimo Segundo Passo Ressentimento": [
+    5,
+    39,
+    56,
+    58,
+    98,
+    176,
+    179,
+    268,
+    286
+  ],
+  "S Sanidade": [
+    121,
+    130,
+    141
+  ],
+  "Sentimento de culpa": [
+    11,
+    48,
+    68,
+    83,
+    92,
+    99,
+    140,
+    311
+  ],
+  "Serenidade": [
+    20,
+    36,
+    48,
+    72,
+    104,
+    117,
+    126,
+    127,
+    150,
+    173,
+    196,
+    250,
+    254,
+    261,
+    288,
+    293,
+    321
+  ],
+  "Serviço": [
+    13,
+    18,
+    53,
+    138,
+    147,
+    155,
+    162,
+    180,
+    183,
+    188,
+    220,
+    224,
+    244,
+    254,
+    259,
+    269,
+    273,
+    284,
+    287,
+    290,
+    297,
+    307,
+    310,
+    324,
+    332
+  ],
+  "Trabalho do Décimo Segundo Passo Sexo": [
+    12,
+    142,
+    270,
+    277,
+    282
+  ],
+  "Solidão": [
+    51,
+    53,
+    72,
+    90,
+    117,
+    228,
+    252,
+    302
+  ],
+  "Sucesso": [
+    19,
+    40,
+    46,
+    165,
+    177,
+    207,
+    235,
+    254
+  ],
+  "T Tentação de beber": [
+    77,
+    121,
+    128,
+    188,
+    280
+  ],
+  "Tolerância": [
+    28,
+    41,
+    62,
+    113,
+    120,
+    134,
+    145,
+    147,
+    151,
+    175,
+    186,
+    203,
+    215,
+    230,
+    234,
+    268,
+    286,
+    312,
+    326
+  ],
+  "Trabalho do Décimo Segundo passo": [
+    18,
+    21,
+    67,
+    195,
+    304,
+    331
+  ],
+  "U Unidade": [
+    9,
+    50,
+    82,
+    98,
+    125,
+    143,
+    149,
+    154,
+    155,
+    162,
+    198,
+    207,
+    220,
+    229,
+    249,
+    273,
+    297,
+    302,
+    307,
+    319,
+    332
+  ],
+  "V Vida Espiritual": [
+    5,
+    7,
+    8,
+    27,
+    40,
+    81,
+    88,
+    95,
+    103,
+    123,
+    167,
+    177,
+    190,
+    254,
+    259,
+    280,
+    287,
+    323,
+    324,
+    330,
+    331
+  ],
+  "Raiva Viver vinte e quatro horas": [
+    11,
+    16,
+    75,
+    89,
+    92,
+    132,
+    157,
+    233,
+    243,
+    284,
+    296,
+    308,
+    317
+  ],
+  "Vontade": [
+    4,
+    16,
+    33,
+    42,
+    47,
+    55,
+    66,
+    87,
+    88,
+    109,
+    122,
+    124,
+    139,
+    170,
+    210,
+    225,
+    232,
+    245,
+    272,
+    282,
+    283,
+    295,
+    315,
+    320,
+    328,
+    329
+  ]
+};
