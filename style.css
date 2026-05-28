@@ -1,171 +1,95 @@
-:root {
-  --primary-color: #0056b3;
-  --bg-color: #f4f4f9;
-  --text-color: #333;
+const chaveComErro = Object.keys(indexData).find(key => key.includes("GUIA PARA DISCUSSÃO E LEITURA"));
+if (chaveComErro) {
+  const novaChave = chaveComErro.replace(/GUIA PARA DISCUSSÃO E LEITURA\s*[A-Z]?\s*/i, "").trim() || "Aceitação";
+  indexData[novaChave] = indexData[chaveComErro];
+  delete indexData[chaveComErro];
 }
 
-body {
-  font-family: Arial, sans-serif;
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  margin: 0;
-  padding: 0;
+const buttonContainer = document.getElementById('button-container');
+const modal = document.getElementById('modal');
+const closeBtn = document.getElementById('close-btn');
+const modalTitle = document.getElementById('modal-title');
+const modalBody = document.getElementById('modal-body');
+const searchBar = document.getElementById('search-bar');
+
+function renderButtons(filter = "") {
+  buttonContainer.innerHTML = '';
+  const keywords = Object.keys(indexData).sort((a, b) => a.localeCompare(b));
+  
+  keywords.forEach(keyword => {
+    if (keyword.toLowerCase().includes(filter.toLowerCase())) {
+      const btn = document.createElement('button');
+      btn.classList.add('keyword-btn');
+      btn.textContent = keyword;
+      btn.addEventListener('click', () => openModal(keyword));
+      buttonContainer.appendChild(btn);
+    }
+  });
 }
 
-header {
-  text-align: center;
-  padding: 2rem;
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+renderButtons();
+
+searchBar.addEventListener('input', (e) => {
+  renderButtons(e.target.value);
+});
+
+function openModal(keyword) {
+  modalTitle.textContent = keyword;
+  modalBody.innerHTML = ''; 
+
+  const pageNumbers = indexData[keyword];
+  
+  pageNumbers.forEach(pageNum => {
+    const pageStr = pageNum.toString();
+    const blockDiv = document.createElement('div');
+    blockDiv.classList.add('page-content');
+    
+    if (pagesData[pageStr]) {
+      const titleText = `Texto ${pageStr} - ${pagesData[pageStr].title}`;
+      let contentText = pagesData[pageStr].content;
+      
+      // Limpa os resíduos de formatação do PDF
+      contentText = contentText.replace(/\d*\s*http:\/\/slidepdf\.com.*?slidepdf\.com/gi, '');
+      contentText = contentText.replace(/\*\s*\*\s*\*/g, '<br><br>');
+      
+      const textForTTS = (titleText + ". " + contentText).replace(/<br>/g, " ").replace(/"/g, "").replace(/'/g, "");
+
+      blockDiv.innerHTML = `
+        <h3>${titleText}</h3>
+        <p>${contentText}</p>
+        <button class="listen-btn" onclick="lerTexto('${textForTTS}')">Ouvir Texto 🔊</button>
+      `;
+    } else {
+      blockDiv.innerHTML = `
+        <h3>Texto ${pageStr}</h3>
+        <p><em>[Conteúdo não encontrado]</em></p>
+      `;
+    }
+    
+    modalBody.appendChild(blockDiv);
+    modalBody.appendChild(document.createElement('hr'));
+  });
+
+  modal.classList.remove('hidden');
 }
 
-header img {
-  max-width: 200px;
-  height: auto;
+function closeModal() {
+  modal.classList.add('hidden');
+  window.speechSynthesis.cancel();
 }
 
-header h1 {
-  margin: 10px 0 5px;
-  color: var(--primary-color);
-}
+closeBtn.addEventListener('click', closeModal);
 
-main {
-  padding: 2rem;
-  max-width: 1200px;
-  margin: 0 auto;
-}
+window.addEventListener('click', (event) => {
+  if (event.target === modal) {
+    closeModal();
+  }
+});
 
-/* Novos estilos da barra de busca */
-.search-container {
-  text-align: center;
-  margin-bottom: 25px;
-}
-
-#search-bar {
-  padding: 12px 20px;
-  width: 100%;
-  max-width: 500px;
-  border: 2px solid #ddd;
-  border-radius: 25px;
-  font-size: 16px;
-  outline: none;
-  transition: border-color 0.3s;
-}
-
-#search-bar:focus {
-  border-color: var(--primary-color);
-}
-
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 15px;
-}
-
-button.keyword-btn {
-  background-color: var(--primary-color);
-  color: white;
-  border: none;
-  padding: 15px;
-  font-size: 16px;
-  font-weight: bold;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background-color 0.3s ease, transform 0.1s ease;
-  text-transform: capitalize;
-}
-
-button.keyword-btn:hover {
-  background-color: #004494;
-}
-
-button.keyword-btn:active {
-  transform: scale(0.98);
-}
-
-.modal {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.6);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 1000;
-}
-
-.modal.hidden {
-  display: none;
-}
-
-.modal-content {
-  background-color: #fff;
-  padding: 30px;
-  border-radius: 10px;
-  width: 90%;
-  max-width: 800px;
-  max-height: 85vh;
-  overflow-y: auto;
-  position: relative;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-}
-
-.close-btn {
-  position: absolute;
-  top: 15px;
-  right: 20px;
-  font-size: 28px;
-  font-weight: bold;
-  color: #aaa;
-  cursor: pointer;
-}
-
-.close-btn:hover {
-  color: #333;
-}
-
-#modal-title {
-  color: var(--primary-color);
-  border-bottom: 2px solid var(--primary-color);
-  padding-bottom: 10px;
-  margin-top: 0;
-  text-transform: capitalize;
-}
-
-.page-content {
-  margin-bottom: 20px;
-  line-height: 1.6;
-}
-
-.page-content h3 {
-  color: #555;
-  font-size: 1.2rem;
-  margin-bottom: 10px;
-}
-
-hr {
-  border: 0;
-  height: 1px;
-  background: #ddd;
-  margin: 30px 0;
-}
-
-/* Estilo do botão de leitura TTS */
-.listen-btn {
-  background-color: #28a745;
-  color: white;
-  border: none;
-  padding: 8px 15px;
-  margin-top: 10px;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: bold;
-  transition: background-color 0.2s;
-}
-
-.listen-btn:hover {
-  background-color: #218838;
-}
+window.lerTexto = function(texto) {
+  window.speechSynthesis.cancel(); 
+  const ut = new SpeechSynthesisUtterance(texto);
+  ut.lang = 'pt-BR';
+  ut.rate = 1.0; 
+  window.speechSynthesis.speak(ut);
+};
