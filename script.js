@@ -53,15 +53,21 @@ function openModal(keyword) {
       contentText = contentText.replace(/\d*\s*http:\/\/slidepdf\.com[^\s]*/gi, '');
       contentText = contentText.replace(/\d+\/\d+\s+\d{1,2}\/\d{1,2}\/\d{4}\s+Na Opiniao Do Bill\s*-\s*slidepdf\.com/gi, '');
       
-      // Transforma os asteriscos em parágrafos
+      // Transforma os asteriscos em parágrafos visuais
       contentText = contentText.replace(/\*\s*\*\s*\*/g, '<br><br>');
-      
-      const textForTTS = (titleText + ". " + contentText).replace(/<br>/g, " ").replace(/"/g, "").replace(/'/g, "");
 
       blockDiv.innerHTML = `
         <h3>${titleText}</h3>
         <p>${contentText}</p>
-        <button class="listen-btn" onclick="lerTexto('${textForTTS}')">Ouvir Texto 🔊</button>
+        <div class="actions-container">
+          <button class="listen-btn" onclick="lerTexto('${pageStr}')">Ouvir Texto 🔊</button>
+          <button class="share-btn" onclick="compartilharWhatsApp('${pageStr}')">
+            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92z"/>
+            </svg>
+            Compartilhar
+          </button>
+        </div>
       `;
     } else {
       blockDiv.innerHTML = `
@@ -90,10 +96,35 @@ window.addEventListener('click', (event) => {
   }
 });
 
-window.lerTexto = function(texto) {
+window.lerTexto = function(pageStr) {
   window.speechSynthesis.cancel(); 
-  const ut = new SpeechSynthesisUtterance(texto);
+  if (!pagesData[pageStr]) return;
+  
+  const titleText = `Texto ${pageStr} - ${pagesData[pageStr].title}`;
+  let contentText = pagesData[pageStr].content.replace(/<br\s*\/?>/gi, " ");
+  
+  const ut = new SpeechSynthesisUtterance(titleText + ". " + contentText);
   ut.lang = 'pt-BR';
   ut.rate = 1.0; 
   window.speechSynthesis.speak(ut);
+};
+
+window.compartilharWhatsApp = function(pageStr) {
+  if (!pagesData[pageStr]) return;
+
+  const titleText = `Texto ${pageStr} - ${pagesData[pageStr].title}`;
+  let contentText = pagesData[pageStr].content;
+
+  // Limpezas de segurança adicionais para o envio de texto bruto
+  contentText = contentText.replace(/\d*\s*http:\/\/slidepdf\.com[^\s]*/gi, '');
+  contentText = contentText.replace(/\d+\/\d+\s+\d{1,2}\/\d{1,2}\/\d{4}\s+Na Opiniao Do Bill\s*-\s*slidepdf\.com/gi, '');
+  
+  // Converte quebras de HTML em quebras de linha normais para o WhatsApp
+  let textoFormatado = contentText.replace(/<br\s*\/?>/gi, "\n");
+  textoFormatado = textoFormatado.replace(/\*\s*\*\s*\*/g, "\n\n");
+
+  const mensagemCompleta = `*${titleText}*\n\n${textoFormatado}`;
+  const urlWhatsApp = `https://api.whatsapp.com/send?text=${encodeURIComponent(mensagemCompleta)}`;
+  
+  window.open(urlWhatsApp, '_blank');
 };
