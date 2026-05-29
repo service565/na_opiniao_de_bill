@@ -1,3 +1,4 @@
+// Limpa o nome da chave com erro gerada pelo extrator
 const chaveComErro = Object.keys(indexData).find(key => key.includes("GUIA PARA DISCUSSÃO E LEITURA"));
 if (chaveComErro) {
   const novaChave = chaveComErro.replace(/GUIA PARA DISCUSSÃO E LEITURA\s*[A-Z]?\s*/i, "").trim() || "Aceitação";
@@ -48,8 +49,11 @@ function openModal(keyword) {
       const titleText = `Texto ${pageStr} - ${pagesData[pageStr].title}`;
       let contentText = pagesData[pageStr].content;
       
-      // Limpa os resíduos de formatação do PDF
-      contentText = contentText.replace(/\d*\s*http:\/\/slidepdf\.com.*?slidepdf\.com/gi, '');
+      // Limpa a URL e os rodapés com datas e paginação do SlidePDF
+      contentText = contentText.replace(/\d*\s*http:\/\/slidepdf\.com[^\s]*/gi, '');
+      contentText = contentText.replace(/\d+\/\d+\s+\d{1,2}\/\d{1,2}\/\d{4}\s+Na Opiniao Do Bill\s*-\s*slidepdf\.com/gi, '');
+      
+      // Transforma os asteriscos em parágrafos
       contentText = contentText.replace(/\*\s*\*\s*\*/g, '<br><br>');
       
       const textForTTS = (titleText + ". " + contentText).replace(/<br>/g, " ").replace(/"/g, "").replace(/'/g, "");
